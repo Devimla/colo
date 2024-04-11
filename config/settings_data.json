@@ -1,1 +1,1553 @@
-{"current":{"license_key":"","color_primary":"#202020","color_secondary":"#333333","color_dark":"#272727","color_light":"#ffffff","color_body_bg":"#ffffff","color_body_text":"#333333","color_price":"#1d9e06","color-price-economize":"#fd7e15","color-price-pix":"#59419f","color_variante":"#59419f","color_button_buy":"#1d9e06","color_text_button_buy":"#ffffff","color_border_button_add_cart":"#d2d2d2","color_text_button_add_cart":"#6c6c6c","color_text":"#545454","favicon":"shopify:\/\/shop_images\/favicon.png","buttons_forms_radius":2,"font_headings":"montserrat_n4","parcelamento_enable":false,"qtd_sem_juros_parcelamento":"1","taxa_segunda_parcela":"3.41","taxa_terceira_parcela":"4.78","taxa_quarta_parcela":"5.25","taxa_quinta_parcela":"6.66","taxa_sexta_parcela":"7.04","taxa_setima_parcela":"8.25","taxa_oitava_parcela":"9.85","taxa_nona_parcela":"10.44","taxa_decima_parcela":"11.59","taxa_decima_primeira_parcela":"12.19","taxa_decima_segunda_parcela":"13.87","predictive_search_enable":true,"predictive_search_img_width":"120","predictive_search_img_height":"120","predictive_search_img_thumbnail":false,"predictive_search_show_rating":true,"predictive_search_animate":"animate__backInRight","wishlist_enable":true,"wishlist_img_thumbnail":false,"cart_show_applied_discounts":true,"cart_show_buy_more_btn":false,"cart_show_all_products_btn":true,"cart_show_discount_code":false,"cart_show_payment_icons":true,"cart_goal_enable":false,"cart_goal_thresholds":"BRL:100,\nUSD:180,\nGBP:150","cart_goal_message_goal_not_reached":"<p>Falta apenas <strong>[amount]<\/strong> para ganhar <strong>Frete Grátis<\/strong><\/p>","cart_goal_message_goal_reached":"<p>Você ganhou <strong>Frete Grátis<\/strong>!<\/p>","cart_goal_color_not_reached":"bg-warning","share_facebook":true,"share_twitter":false,"share_email":false,"social_facebook_link":"https:\/\/www.facebook.com\/","social_twitter_link":"","social_instagram_link":"https:\/\/www.instagram.com\/","social_tiktok_link":"https:\/\/www.tiktok.com\/","social_pinterest_link":"https:\/\/www.pinterest.com\/","social_snapchat_link":"","social_youtube_link":"","social_linkedin_link":"","modal_animation_enter":"animate__backInUp","modal_animation_exit":"animate__zoomOutDown","modal_animation_speed":"animate__fast","toast_position":"bottom-right","toast_delay":15,"toast_btn_color":"#ff0000","cookie_bar_enable":false,"cookie_bar_lang":"es","cookie_bar_no_geoip":true,"cookie_bar_show_details_btn":false,"cookie_bar_show_policy_link":false,"cookie_bar_z_index":"1","ali_hunter_enable":false,"botao_direito_enable":false,"atalho_f12_enable":false,"selecionar_conteudo_enable":false,"predictive_search_type":"product, collection, article, page","custom_gradient":"\/\/linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);","taxa_parcelamento":"3","cart_goal_threshold":"200","modal_animation":"animate__jackInTheBox","sections":{"topbar":{"type":"topbar","settings":{"topbar_display":true,"announcement_homepage":true,"container":true,"topbg":"#0e0e0e","toplink":"#ffffff","topbar_dis":true,"announcement_content":"ESTA SEMANA; Envío <b>GRATIS!<\/b> 🚚 a toda<b> COLOMBIA<\/b> 🚚 - <b>PAGA AL RECIBIR<\/b> 📦","announcement_animate":true,"announcement_animate_name":"animate__headShake","anuncio_img":false,"img_fundo":"#fcc43a","url_i":""}},"navbar":{"type":"navbar","settings":{"menu_flut":true,"bg":"#fafafa","menulink":"#272727","bglink":"#fd8a03","peslink":"#333333","shadow":"shadow-sm","cor_box":"form-transparent","container":true,"logo_height":"165","menu":"main-menu","menu_position":"mx-auto","menu_dropdown_animation":"animate__pulse","menu_dropdown_animation_speed":"animate__faster","fone":"","email":"contacto@dulcenina.com","wishlist_icon_bubble_color":"#ff8c00","wishlist_icon_animate_class":"animate__bounce","bar-bottom":true,"color-bar-bottom-one":"#fbc02d","color-bar-bottom-two":"#3bc9a4","color-bar-bottom-three":"#be20ca","show_icon_cart":true,"cart_icon_icon":"bag","cart_icon_badge_color_empty":"#59419f","cart_icon_badge_color_has_items":"#e22120","cart_icon_animate_class":"animate__wobble"}},"footer":{"type":"footer","blocks":{"65fab46b-2e97-4790-a557-50eb630a10db":{"type":"link_list","settings":{"menu":"nuestras-politicas","title":"Nuestras políticas"}},"aded85c1-53fd-4ded-9bf7-e3cbfe2a3218":{"type":"link_list","settings":{"menu":"footer","title":"CENTRO DE AYUDA"}},"ae528aaa-8976-4a00-8ebb-6576e682cb7a":{"type":"headline","disabled":true,"settings":{"btitle":"Suporte via WhatsApp","icone":"<svg width=\"20\" height=\"20\" viewbox=\"0 0 16 16\" class=\"bi bi-whatsapp\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><path fill-rule=\"evenodd\" d=\"M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z\"><\/path><\/svg>","btn_color":"btn-outline-warning","btn_size":"btn-sm","button_url":""}},"fc75088f-639f-44a2-bb97-fbbd94157751":{"type":"newsletter","settings":{"title":"¿DESEA RECIBIR NUESTRAS PROMOCIONES?","description":"<p>Consigue hasta un 10% de crédito en tu próxima compra<\/p>","cor_box":"form-opac","btn_color":"btn-warning","btn_size":"btn-sm"}}},"block_order":["65fab46b-2e97-4790-a557-50eb630a10db","aded85c1-53fd-4ded-9bf7-e3cbfe2a3218","ae528aaa-8976-4a00-8ebb-6576e682cb7a","fc75088f-639f-44a2-bb97-fbbd94157751"],"settings":{"bg":"#000000","cortit":"#fbc02d","bglink":"#f4f4f4","container":true,"show_social_icons":false,"social_icon_animate":"animate__tada","heading_size":"h6","show_about_us":true,"about_logo_height":"150","about_description":"<p>Nuestra tienda online se creó pensando en usted, para ser una tienda innovadora en Internet, que ofrezca los mejores productos y servicios.<\/p>","about_email":"seu-email-de-contato","about_phone":"seu-telefone-de-contato","bg2":"#000000","cortitle2":"#ffffff","titlepg":"Métodos de pago","imgpg":"shopify:\/\/shop_images\/banner-garantias-footer.png","titleseg":"Seguridad y calidad","store_name":"Nome da sua Loja","enable_cnpj":false,"cnpj_endereco":"","show_powered_by":false,"row_tablet":4,"row_desktop":3,"padding_top":0,"padding_bottom":0,"margin_top":0,"show_orbe":false}},"160933884071eee85d":{"type":"carousel","blocks":{"69c9cccf-03c0-4aab-a64c-5b857b4cdf17":{"type":"image","settings":{"button_url":""}},"a46ef124-44f1-498f-9f70-f237863836eb":{"type":"image","settings":{"button_url":"shopify:\/\/products\/produto-de-exemplo-2"}},"160933884071eee85d-0":{"type":"image","disabled":true,"settings":{"button_url":""}}},"block_order":["69c9cccf-03c0-4aab-a64c-5b857b4cdf17","a46ef124-44f1-498f-9f70-f237863836eb","160933884071eee85d-0"],"settings":{"controls":false,"indicators":false,"bg_color":"bg-dark","backdrop":false,"container":false,"autoplay":true,"interval":8,"autoplay_progress_bar":true,"autoplay_progress_bar_color":"bg-white opacity-50","transition_effect":"","transition_speed":"animate__normal","lazyload":true,"margin_top":5,"margin_bottom":5}},"1609370220a8149c9d":{"type":"featured-collection","blocks":{"7ae40457-7131-4e16-ad6e-9516741cb1ab":{"type":"collection","settings":{"collection":"frontpage","tab_title":"Lançamentos"}}},"block_order":["7ae40457-7131-4e16-ad6e-9516741cb1ab"],"settings":{"title":"Coleção - 02","description":"<p>Descrição para sua coleção<\/p>","bg_light":false,"title_alignment":"text-center","title_size":"h2","tabs_alignment":"justify-content-center","container":true,"limit":"15","carousel_arrows":false,"carousel_pagination":true,"carousel_rewind":true,"carousel_autoplay":false,"carousel_interval":6,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"480","img_height":"480","img_thumbnail":false,"product_title_heading_size":"h6","show_rating":true,"no_show_rating_name":true,"show_price":true,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":3,"breakpoint_xl":4,"breakpoint_xxl":4,"padding_top":0,"padding_bottom":4,"margin_top":0,"margin_bottom":0}},"infobar":{"type":"infobar","blocks":{"infobar-0":{"type":"text","settings":{"icon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-box-seam\" viewbox=\"0 0 16 16\">\n  <path d=\"M8.186 1.113a.5.5 0 0 0-.372 0L1.846 3.5l2.404.961L10.404 2l-2.218-.887zm3.564 1.426L5.596 5 8 5.961 14.154 3.5l-2.404-.961zm3.25 1.7-6.5 2.6v7.922l6.5-2.6V4.24zM7.5 14.762V6.838L1 4.239v7.923l6.5 2.6zM7.443.184a1.5 1.5 0 0 1 1.114 0l7.129 2.852A.5.5 0 0 1 16 3.5v8.662a1 1 0 0 1-.629.928l-7.185 2.874a.5.5 0 0 1-.372 0L.63 13.09a1 1 0 0 1-.63-.928V3.5a.5.5 0 0 1 .314-.464L7.443.184z\"><\/path>\n<\/svg>","icon_color":"#59419f","title":"RASTREO","description":"<p>Enviamos códigos de seguimiento para todos los pedidos<\/p>"}},"infobar-1":{"type":"text","settings":{"icon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-shield-check\" viewbox=\"0 0 16 16\">\n  <path d=\"M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z\"><\/path>\n  <path d=\"M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z\"><\/path>\n<\/svg>","icon_color":"#59419f","title":"GARANTÍA DE SATISFACCIÓN","description":"<p>Recibe tu dinero de vuelta si no te gusta o no es lo que esperas<\/p>"}},"infobar-2":{"type":"text","settings":{"icon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-x-diamond\" viewbox=\"0 0 16 16\">\n  <path d=\"M7.987 16a1.526 1.526 0 0 1-1.07-.448L.45 9.082a1.531 1.531 0 0 1 0-2.165L6.917.45a1.531 1.531 0 0 1 2.166 0l6.469 6.468A1.526 1.526 0 0 1 16 8.013a1.526 1.526 0 0 1-.448 1.07l-6.47 6.469A1.526 1.526 0 0 1 7.988 16zM7.639 1.17 4.766 4.044 8 7.278l3.234-3.234L8.361 1.17a.51.51 0 0 0-.722 0zM8.722 8l3.234 3.234 2.873-2.873c.2-.2.2-.523 0-.722l-2.873-2.873L8.722 8zM8 8.722l-3.234 3.234 2.873 2.873c.2.2.523.2.722 0l2.873-2.873L8 8.722zM7.278 8 4.044 4.766 1.17 7.639a.511.511 0 0 0 0 .722l2.874 2.873L7.278 8z\"><\/path>\n<\/svg>","icon_color":"#59419f","title":"METODOS DE PAGO","description":"<p>Paga en efectivo cuando lo recibas, Paga con tarjeta o PSE<\/p>"}},"infobar-3":{"type":"text","settings":{"icon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-headset\" viewbox=\"0 0 16 16\">\n  <path d=\"M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z\"><\/path>\n<\/svg>","icon_color":"#59419f","title":"SOPORTE 24\/7","description":"<p>Contactanos las 24 horas del día y los 7 días de la semana<\/p>"}}},"block_order":["infobar-0","infobar-1","infobar-2","infobar-3"],"settings":{"bg_cor":"#f7f7f7","infolink":"#484848","container":true,"title_size":"h6","animate_class":"","row_mobile":1,"row_tablet":2,"row_desktop":4,"padding_top":0,"padding_bottom":3}},"1610178560d1807d19":{"type":"newsletter","settings":{"title":"¡Consigue hasta un 10% de descuento!","description":"<p>Sea el primero en recibir notificaciones sobre nuestras ofertas.<\/p>","note":"","bg_color":"bg-white text-body","btn_color":"btn-primary","btn_size":"btn-lg","padding_top":5,"padding_bottom":6,"margin_top":5,"margin_bottom":0}},"cart-template":{"type":"cart-template","settings":{"description":"<p>Tem perguntas? Por favor <a href=\"\/pages\/pagina-de-contato\" title=\"Página de contato\">Contate-Nos<\/a><\/p>","img_width":"360","img_height":"360","img_thumbnail":false,"show_qty":true,"show_note":true,"note_rows":4,"show_discount_code":false,"show_payment_icons":true}},"list-collections-template":{"type":"list-collections-template","settings":{"title":"Nossas coleções","description":"<p>Navegue. <a href=\"\/collections\/all\" title=\"Todos os produtos\">Navegue por todos os produtos<\/a><\/p>","paginate":18,"container":true,"hide_collections":"frontpage, promo, compre-junto-01, compre-junto-02, compre-junto-03, compre-junto-04, compre-junto-05, compre-junto-06, compre-junto-07, compre-junto-08, compre-junto-09, compre-junto-10","img_width":"480","img_height":"480","img_thumbnail":true,"show_products_count":true,"row_mobile":2,"row_tablet":3,"row_desktop":3}},"collection-template":{"type":"collection-template","settings":{"container":true,"paginate":12,"show_tags":false,"show_collection_img":false,"infinite_scroll":true,"enable_filters":true,"show_filter_color":true,"img_width":"480","img_height":"480","img_thumbnail":false,"product_title_heading_size":"h6","show_rating":true,"no_show_rating_name":true,"show_price":true,"row_mobile":2,"row_tablet":3,"row_desktop":4}},"product-template":{"type":"product-template","blocks":{"product-template-0":{"type":"product_desc","settings":{"title":"Descripción"}}},"block_order":["product-template-0"],"settings":{"title_font_size":25,"show_share_button":false,"show_valor_parcelado":false,"show_vendor":false,"frete":true,"show_type":true,"show_sku":false,"show_qty":true,"show_add_to_cart_button":true,"show_buy_it_now_button":false,"desconto":true,"enable_texto_economize":true,"text_economize":"Ahorra","size_text_economize":"12px","size_text_12x":"18px","enable_pix_discount":false,"pix_first_text":"Até","pix_second_text":"5% OFF","pix_third_text":"no PIX!","enable_timer":false,"time_limit":"12\/12\/2023","size_text":"18px","size_timer":"18px","size_timer_text":"14px","text_timer":"<p><strong>oferta acaba em:<\/strong><\/p>","show_payment_icons":true,"show_social_sharing":false,"show_tags":false,"add_to_cart_btn_animation":"","img_width":"720","img_height":"720","img_thumbnail":false,"image_gallery_controls":true,"image_gallery_thumbnails":true,"image_gallery_thumbnails_auto_play":false,"image_gallery_interval":5,"image_gallery_progress_bar":true,"image_gallery_progress_bar_color":"bg-success","image_gallery_transition":"slide","image_gallery_fancybox_animation_effect":"zoom","image_gallery_fancybox_animation_duration":"300","image_gallery_fancybox_transition_effect":"tube","image_gallery_fancybox_transition_duration":"600","color_swatches_enabled":true,"show_badge_mostsell":true,"show_badge_moreeconomy":true,"badge_mostsell_position":2,"badge_moreeconomy_position":3,"color_kit_main":"#28ba86","color_kit_badge_mostsell":"#ff6500","color_kit_badge_discount":"#c11b1b","color_kit_badge_moreeconomy":"#ffc107","color_kit_badge_soldout":"#333333","swatch_quadrado":false,"size_swatch":"50px","variant_swatch_color_name":"Escolha a cor","inventory_bar_enable":true,"inventory_bar_low_no":"5","inventory_bar_has_stock_color":"bg-primary","delivery_time":true,"entrega_estimada_color":"#1d9e06","textofrete":"Envío urgente","delivery_time_text":"Recibir entre:","enabled-address":true,"enable_garantia":true,"garantia_text_one":"<b>Compra con Confianza<\/b> <br>","garantia_text_two":"👉 Realiza el pago al momento de recibir 🚚 tu producto en casa 🏠","enable_troca":false,"troca_text_one":"Troca Grátis - 7 dias para testar o produto","troca_text_two":"","troca_cor_one":"#1d9e06","troca_cor":"#808080","size_text_frete":"14px","delivery_time_min_days":3,"delivery_time_max_days":7,"vendidos":false,"vendidos_texto":"unidades vendidas","vendidos_cor":"#dd2222","measure-modal-text":"","blackfriday_toggle":false,"blackfriday_date":"11\/04\/2022 (Salve para mudar a data)","blackfriday_backgroundcolor":"#ffffff","blackfriday_backgroundcolor-bottom":"#f82424","blackfriday_backgroundcolor-text":"#0e0e0e","blackfriday_svg_color":"#e22519"}},"product-bundle":{"type":"product-bundle","settings":{"enable_section":true,"title":"Frequentemente comprados juntos","description":"<p>Compre todos os produtos abaixo de uma só vez e obtenha imediatamente <strong>15% de desconto.<\/strong><\/p>","container":true,"title_alignment":"text-center","title_size":"h2","img_width":"480","img_height":"480","img_thumbnail":true,"product_title_heading_size":"h6","show_rating":true,"show_price":true,"enable_discounts":false,"discount_percentage":20,"discount_min_products":"2","row_mobile":2,"row_tablet":3,"row_desktop":4,"padding_top":9,"padding_bottom":9,"margin_top":0,"margin_bottom":9}},"product-related":{"type":"product-related","settings":{"enable_section":true,"title":"VOCÊ TAMBÉM PODE GOSTAR","description":"<p>Separamos alguns produtos que você pode gostar. Aproveite nossas ofertas.<\/p>","container":true,"bg_light":false,"title_alignment":"text-center","title_size":"h4","limit":"15","carousel_arrows":false,"carousel_pagination":true,"carousel_rewind":true,"carousel_autoplay":true,"carousel_interval":6,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"480","img_height":"480","img_thumbnail":true,"product_title_heading_size":"h6","show_rating":true,"show_price":true,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":3,"breakpoint_xl":4,"breakpoint_xxl":5,"padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":9}},"product-recently-viewed":{"type":"product-recently-viewed","settings":{"enable_section":false,"title":"Produtos visitados recentemente","description":"<p>Não perca os seguintes produtos incríveis<\/p>","container":true,"bg_light":false,"title_alignment":"text-center","title_size":"h2","limit":15,"carousel_arrows":false,"carousel_pagination":false,"carousel_rewind":false,"carousel_autoplay":false,"carousel_interval":6,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"480","img_height":"480","img_thumbnail":true,"product_title_heading_size":"h6","show_price":false,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":3,"breakpoint_xl":4,"breakpoint_xxl":5,"padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":4}},"product-sticky-atc":{"type":"product-sticky-atc","settings":{"enable_section":true,"position":"bottom-center","animation_enter":"animate__fadeInUp","animation_exit":"animate__fadeOutDown","animation_speed":"animate__normal","img_width":"72","img_height":"72","img_thumbnail":true,"show_rating":true,"add_to_cart_btn_animation":"animate__pulse","show_image":true,"show_variables":true,"show_title":true}},"password-template":{"type":"password-template","settings":{"logo":"shopify:\/\/shop_images\/logo-orbe.png","logo_height":"40","show_countdown":true,"countdown_date":"Dec 01, 2022 02:00:00","show_social_icons":false,"show_powered_by":false,"show_theme_by":false}},"sticky-newsletter":{"type":"sticky-newsletter","settings":{"enable_section":true,"show_only_homepage":true,"position":"bottom-center","title":"OBTENGA AHORA UN 10% DE DESCUENTO","description":"<p>Introduce el cupón del 10% de DESCUENTO en tu primera compra al suscribirte a nuestros boletines.<\/p>","top_treshold":"100","bottom_treshold":"500","show_after_x_days":3,"btn_color":"btn-light","btn_size":"btn-lg","animation_enter":"animate__fadeInUp","animation_exit":"animate__fadeOutDown","animation_speed":"animate__normal"}},"page-template-about":{"type":"page-template-about","blocks":{"page-template-about-0":{"type":"text","settings":{"title":"Dias úteis","description":"<p>Segunda-feira sexta-feira<\/p>"}},"page-template-about-1":{"type":"text","settings":{"title":"Jornada de trabalho","description":"<p>09:00 - 18:00<\/p>"}},"page-template-about-2":{"type":"text","settings":{"title":"Prefere ligar?","description":"<p><a href=\"tel:+551199999-9999\" title=\"tel:+551199999-9999\">(11) 99999-9999<\/a><\/p>"}},"page-template-about-3":{"type":"text","settings":{"title":"Outro Bloco","description":"<p>Escreva algo importante<\/p>"}},"93d9171f-336c-4a43-9468-708867423018":{"type":"team","settings":{"team_name":"Jhonhyx","team_description":"<p>CEO & amp; Fundador<\/p>"}},"1e879717-b93b-49f9-8b8e-395a51ad4fba":{"type":"team","settings":{"team_name":"Matheus","team_description":"<p>Software Engineer<\/p>"}},"1878e509-3f21-4dd2-8f76-1d19e42145a3":{"type":"team","settings":{"team_name":"Yuri","team_description":"<p>Graphic Designer<\/p>"}},"ba8f505b-aba8-4b0c-9e10-7d3ae5cdac06":{"type":"team","settings":{"team_name":"Jhonhyx","team_description":"<p>Suporte com um especialista<\/p>"}}},"block_order":["page-template-about-0","page-template-about-1","page-template-about-2","page-template-about-3","93d9171f-336c-4a43-9468-708867423018","1e879717-b93b-49f9-8b8e-395a51ad4fba","1878e509-3f21-4dd2-8f76-1d19e42145a3","ba8f505b-aba8-4b0c-9e10-7d3ae5cdac06"],"settings":{"description":"<p>Inspirado pela simplicidade, impulsionado pelo desempenho.<\/p>","page_max_width":"767","main_image_width":"1200","main_image_height":"600","main_image_img_thumbnail":true,"enable_team_blocks":true,"team_title":"Conheça o time","team_description":"<p>Somos apaixonados por fornecer-lhe o máximo ...<\/p>","team_bg_light":true,"team_title_alignment":"text-center","team_image_width":"480","team_image_height":"480","team_image_img_thumbnail":true,"team_row_mobile":2,"team_row_tablet":4,"team_row_desktop":4,"bottom_notice":"<p>Dúvidas? <a href=\"\/pages\/contato\" title=\"contato\">Fale conosco<\/a><\/p>","bottom_notice_alert_style":"alert-info"}},"page-template-x":{"type":"page-template-x","blocks":{"788ae06e-9f66-4b38-ac85-b98b320ec354":{"type":"richtext","settings":{"htm":"<p><strong>O melhor relógio do mundo<\/strong> em até 3x sem juros!<\/p>","tag":"promoção","star":true,"imgp":"shopify:\/\/shop_images\/slots-hotsites_apple.webp","bg_cor":"#090c13","bglink":"#ffffff"}},"bc170b8e-ba3a-4dd9-88b9-6d7aeb5f029b":{"type":"social","settings":{"title":"Eleito o melhor custo X benefício do mercado","bg_cor":"#d60101","linkcor":"#ffffff","sub":"<p><strong>Sucesso de vendas,<\/strong> não fique de fora, adiquira já o seu!<\/p>","img":"shopify:\/\/shop_images\/mercado-online.webp","video_url":"https:\/\/www.youtube.com\/watch?v=ZaGWdqhy3tQ","botaobene":"#comprar","textobotaobene":"Comprar agora","icon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"30\" height=\"30\" fill=\"currentColor\" class=\"bi bi-check-circle-fill\" viewbox=\"0 0 16 16\">\n  <path d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z\"><\/path>\n<\/svg>","p1":"Monitoramento de atividades físicas","p2":"Monitoramento de sono","p3":"Medidor de batimentos cardíacos","p4":"Notificações & ligações","p5":"Bateria com 10 dias de duração","p6":"","p7":"","p8":"","p9":"","p10":""}},"c49b1b1d-e5c0-47f5-893f-29f7f013ab4c":{"type":"social","disabled":true,"settings":{"title":"Grande promessa","bg_cor":"#202a34","linkcor":"#ffffff","sub":"<p>werwerwerwer<\/p>","video_url":"https:\/\/www.youtube.com\/watch?v=dQw4w9WgXcQ","botaobene":"","textobotaobene":"Comprar agora","icon":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-bootstrap-reboot\" viewbox=\"0 0 16 16\">\n  <path d=\"M1.161 8a6.84 6.84 0 1 0 6.842-6.84.58.58 0 1 1 0-1.16 8 8 0 1 1-6.556 3.412l-.663-.577a.58.58 0 0 1 .227-.997l2.52-.69a.58.58 0 0 1 .728.633l-.332 2.592a.58.58 0 0 1-.956.364l-.643-.56A6.812 6.812 0 0 0 1.16 8z\"><\/path>\n  <path d=\"M6.641 11.671V8.843h1.57l1.498 2.828h1.314L9.377 8.665c.897-.3 1.427-1.106 1.427-2.1 0-1.37-.943-2.246-2.456-2.246H5.5v7.352h1.141zm0-3.75V5.277h1.57c.881 0 1.416.499 1.416 1.32 0 .84-.504 1.324-1.386 1.324h-1.6z\"><\/path>\n<\/svg>","p1":"Grande promessa","p2":"Grande promessa","p3":"Grande promessa","p4":"Grande promessa","p5":"Grande promessa","p6":"Grande promessa","p7":"Grande promessa","p8":"Grande promessa","p9":"Grande promessa","p10":"Grande promessa"}},"5c2e74d9-60f7-478d-a8f2-ba25177f28c0":{"type":"html","settings":{"title":"Grande promessa","htm":"<p>Grande promessa<\/p><p><\/p>","imgp":"shopify:\/\/shop_images\/slot-samsung.webp","bg_cor":"#000000","bglink":"#ffffff","botaoinfo":"#comprar","textobotaoinfo":"Comprar agora"}},"cb84c09d-7853-42a4-a285-1ae760519ef7":{"type":"html","settings":{"title":"Grande promessa","htm":"<p>Feito para aguentar tudo, o <strong>Smartwatch<\/strong> é repleto de funções para ajudar no seu dia a dia: notificações, ligações, monitoramento de sono e atividades físicas etc.<\/p>","imgp":"shopify:\/\/shop_images\/slot-playstation.webp","bg_cor":"#fbc02d","bglink":"#ffffff","botaoinfo":"#comprar","textobotaoinfo":"Comprar agora"}},"94b12eeb-88b7-455f-b989-e4c4177a5ecf":{"type":"link_list","settings":{"menu":"main-menu","title":"Links uteis"}},"3da6c72f-4dff-4e6a-aba9-5661082bb677":{"type":"button","settings":{"title":"Dúvidas frequentes","faq1":"Quanto tempo vai demorar para receber meu pedido?","faqr1":"<p>Nosso envio é grátis para todo o Brasil, sem surpresas adicionais. nosso prazo é de15 à 35 dias úteis para chegar. Nunca mais se preocupe em pagar frete!<\/p><p><\/p>","faq2":"O site é confiável?","faqr2":"<p>Esse site é totalmente seguro. Possui certificado de segurança do Google e o pagamento é processado pelo MercadoPago, umas das plataformas mais seguras para compras na internet no Brasil, 100% segura e sigilosa. Também possui garantia de entrega e qualidade do produto.<\/p><p><\/p>","faq3":"Tem garantia?","faqr3":"<p>Sim, possuímos garantia estendida de 30 dias contra defeitos de fabricação.<\/p><p><\/p>","faq4":"","faqr4":"","faq5":"","faqr5":"<p><\/p><p><\/p>","bg_cor":"#262626","bglink":"#ffffff"}},"497c5e6e-8f8f-4786-94cc-0877c321944d":{"type":"image","settings":{"imgprova1":"shopify:\/\/shop_images\/slot-nintendo.webp","prova1nome":"Jhonhyx","prova1":"<p>Escreva algo legal nesse box! <br\/>😎<\/p>","imgprova2":"shopify:\/\/shop_images\/mercado-online.webp","prova2nome":"Jhonhyx","prova2":"<p>Escreva algo legal nesse box! <br\/>😎<\/p>","imgprova3":"shopify:\/\/shop_images\/mercado-online.webp","prova3nome":"Jhonhyx","prova3":"<p>Escreva algo legal nesse box! <br\/>😎<br\/><\/p><p><\/p>","imgprova4":"shopify:\/\/shop_images\/slot-nintendo.webp","prova4nome":"Jhonhyx","prova4":"<p>Escreva algo legal nesse box! <br\/>😎<\/p>","prova5nome":"Jhonhyx","prova5":"<p>Escreva algo legal nesse box! <br\/>😎<br\/><br\/><\/p><p><\/p>"}},"5adda6fc-2fa3-47db-8ea6-df52663fbbc9":{"type":"text","settings":{"titlec":"Garanta já o seu!","richtext":"<p>Esta é uma oferta especial e é válida até a meia noite de hoje.<\/p>","time":true,"title":"Titulo do produto","img":"shopify:\/\/shop_images\/slot-playstation.webp","de":"<p>de R$540 por:<\/p>","por":"<p>R$ 39,90<\/p>","ou":"<p>ou R$ 390 À VISTA<\/p>","bttx":"Comprar agora","c1":"","t1":"#fff","bg":"#000","title2":"Titulo do produto","img2":"shopify:\/\/shop_images\/slots-hotsites_apple.webp","de2":"<p>de R$540 por:<\/p>","por2":"<p>R$ 39,90<\/p>","ou2":"<p>ou R$ 390 À VISTA<\/p>","bttx2":"Comprar agora","c2":"","t2":"#fff","bg2":"#000","title3":"Titulo do produto","img3":"shopify:\/\/shop_images\/slot-samsung.webp","de3":"<p>de R$540 por:<\/p>","por3":"<p>R$ 39,90<\/p>","ou3":"<p>ou R$ 390 À VISTA<\/p>","bttx3":"Comprar agora","c3":"","t3":"#fff","bg3":"#000"}}},"block_order":["788ae06e-9f66-4b38-ac85-b98b320ec354","bc170b8e-ba3a-4dd9-88b9-6d7aeb5f029b","c49b1b1d-e5c0-47f5-893f-29f7f013ab4c","5c2e74d9-60f7-478d-a8f2-ba25177f28c0","cb84c09d-7853-42a4-a285-1ae760519ef7","94b12eeb-88b7-455f-b989-e4c4177a5ecf","3da6c72f-4dff-4e6a-aba9-5661082bb677","497c5e6e-8f8f-4786-94cc-0877c321944d","5adda6fc-2fa3-47db-8ea6-df52663fbbc9"],"settings":{"sobre":"<p>Horário Comercial:<br\/> Seg à Sex: 09:00h às 18:00h, exceto feriados.<\/p>","textowhats":"Atendimento via WhatsApp","numerowhats":"63900000000","whatsfrase":"Olá, gostaria de saber como posso comprar o produto de vocês:","bt_whats":"#20c200","bt_hove":"#309d1d","btn_geral":"#d60101","btn_hove":"#fbc02d","icone":"#fbc02d","compra":true,"textbotaoflut":"COMPRAR AGORA","botaoflut":"#comprar","borda":true}},"article-template":{"type":"article-template","settings":{"show_tags":true,"show_author":true,"show_date":true,"show_comments_count":true,"enable_social_sharing":true,"img_width":"1280","img_height":"720","img_thumbnail":true,"max_width":"767","comments_per_page":10}},"blog-template":{"type":"blog-template","settings":{"description":"<p>Bem-vindo ao nosso blog, esperamos que inspire você.<\/p>","results_per_page":10,"show_tags":true,"show_author":true,"show_date":true,"show_comments_count":true,"show_excerpt":true,"excerpt_length":"240","show_readmore":true,"readmore_color":"btn-outline-primary","readmore_size":"","img_width":"720","img_height":"405","img_thumbnail":true}},"search-template":{"type":"search-template","settings":{"container":true,"infinite_scroll":true,"limit":16,"img_width":"480","img_height":"480","img_thumbnail":true,"product_title_heading_size":"h6","show_rating":true,"show_price":true,"row_mobile":2,"row_tablet":3,"row_desktop":4}},"1629938086ae988321":{"type":"collection-list","blocks":{"4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a":{"type":"collection","settings":{"collection":"frontpage"}},"a0e35455-0875-41dc-976b-3eaf131db078":{"type":"collection","settings":{"collection":"frontpage"}},"7bc5f511-f670-4ab0-b49f-dd2165d7cbbb":{"type":"collection","settings":{"collection":"frontpage"}},"f0b683d4-eea3-410f-98e2-347d9a4ff59e":{"type":"collection","settings":{"collection":"frontpage"}}},"block_order":["4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a","a0e35455-0875-41dc-976b-3eaf131db078","7bc5f511-f670-4ab0-b49f-dd2165d7cbbb","f0b683d4-eea3-410f-98e2-347d9a4ff59e"],"settings":{"title_t":"LOS FAVORITOS","description":"<p>CONOZCA NUESTROS PRODUCTOS MÁS VENDIDOS<\/p>","container":true,"title_alignment":"text-center","title":false,"cortitlec":"#ffffff","corhover":"#9433ff","cor_bg":"#ffffff","carousel_arrows":false,"carousel_pagination":true,"carousel_rewind":true,"carousel_autoplay":false,"carousel_interval":4,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"300","img_height":"300","img_thumbnail":false,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":4,"breakpoint_xl":4,"breakpoint_xxl":4,"padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":0}},"163057394140c7594d":{"type":"escassez","disabled":true,"settings":{"title":"Oferta do Dia","oferta":"#363636","subt":"<p>Todos os dias produtos especiais para você. Mas corre que é por tempo limitado!<\/p>","ofertabg":"#ffffff","ofertalink":"#28ba86","stopwatch-type":"black-moving","padding_top":2,"padding_bottom":3,"margin_top":4,"margin_bottom":3}},"page-template-faq":{"type":"page-template-faq","blocks":{"page-template-faq-2":{"type":"faq","settings":{"title":"¿Es confiable este sitio?","description":"<p>¡Sí!  Trabajamos con la plataforma de seguridad de comercio electrónico más grande del mundo, Shopify.<\/p><p>Nuestro sitio cuenta con la seguridad SSL que es obligatoria por ley para todas las tiendas online en Colombia pues cifra todas las transacciones efectuadas en el sitio garantizando sigilo de toda información.<\/p>"}},"c6899772-2fdc-4314-a5ad-7a0303e838fb":{"type":"faq","settings":{"title":"¿Cuánto se demora en llegar mi pedido una vez haga la compra?","description":"<p>Los pedidos si son hechos antes de las 3 p.m., se despachan el mismo día y el tiempo de entrega depende de la ciudad destino, para las ciudades principales es de 2 a 3 días hábiles y el resto de ciudades 1 a 5 días hábiles.<\/p>"}},"8b43011d-e073-4e15-8f0e-52144c579ce1":{"type":"faq","settings":{"title":"¿Cuánto cuestan los envíos?","description":"<p>Nuestros envíos son TOTALMENTE GRATIS para cualquier parte de Colombia.<\/p>"}},"page-template-faq-1":{"type":"faq","settings":{"title":"Si hago mi orden hoy, ¿Cuando estaría recibiendo mi pedido?","description":"<p>Si haces el pedido antes de las 12 a.m, tu pedido sería despachado el mismo día, llegándote el pedido, si es a ciudades principales entre 2 o 3 días hábiles y a las demás ciudades o municipios entre 3 o 5 días hábiles.<\/p>"}},"page-template-faq-0":{"type":"faq","settings":{"title":"¿Puedo hacer un pedido como regalo para otra persona?","description":"<p>Al hacer el pedido como un regalo para alguien, asegúrese de ingresar su dirección de correo electrónico para recibir toda la información del resumen, pero ingrese el nombre del destinatario y la información de envío. Mantendremos todos los precios e ingresos fuera del paquete.<\/p>"}},"page-template-faq-3":{"type":"faq","settings":{"title":"Acabo de comprarlo, pero renuncié a la compra. ¿Puedo solicitar la cancelación?","description":"<p>Por supuesto (: Nos entristece su solicitud de cancelación, pero podemos arreglarlo sin problemas. Para ello, es necesario que nos envíe un email solicitando la cancelación antes de que se procese el envío de la compra.<\/p><p>Para que sea más seguro que haya la cancelación, por favor envíenos un email en un plazo de 24 horas después de realizada su compra.<\/p>"}}},"block_order":["page-template-faq-2","c6899772-2fdc-4314-a5ad-7a0303e838fb","8b43011d-e073-4e15-8f0e-52144c579ce1","page-template-faq-1","page-template-faq-0","page-template-faq-3"],"settings":{"description":"<p>Si no ha encontrado respuesta a su pregunta, no dude en contactarnos por e-mail<\/p>","page_max_width":""}},"page-template-contato":{"type":"page-template-contato","blocks":{"page-template-contato-0":{"type":"text","disabled":true,"settings":{"title":"Dias úteis","description":"<p>Segunda-feira sexta-feira<\/p>"}},"page-template-contato-1":{"type":"text","disabled":true,"settings":{"title":"Jornada de trabalho","description":"<p>09:00 - 16:00<\/p>"}},"page-template-contato-2":{"type":"text","disabled":true,"settings":{"title":"Prefere ligar?","description":"<p><a href=\"tel:6390000-0000\" title=\"tel:690000-0000\">tel:63 9 0000-0000<\/a><\/p>"}},"page-template-contato-3":{"type":"text","disabled":true,"settings":{"title":"Outro Bloco","description":"<p>Escreva algo importante<\/p>"}}},"block_order":["page-template-contato-0","page-template-contato-1","page-template-contato-2","page-template-contato-3"],"settings":{"description":"<p>Estamos para poder ayudarte, cualquier duda que tengas, que tengas un hermoso día<\/p>","show_google_maps":false,"google_maps_title":"Endereço físico","google_maps_description":"<p>Brasilia, DF<\/p>","google_maps":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d292333.9842040409!2d-48.049138164105614!3d-15.699312822112349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3d18df9ae275%3A0x738470e469754a24!2zQnJhc8OtbGlhLCBERg!5e0!3m2!1spt-BR!2sbr!4v1624808606180!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"><\/iframe>"}},"f2995eb4-3cf7-4854-b5ba-bcbd636fac5d":{"type":"featured-collection","blocks":{"fd7a79bd-7c82-4876-b2c9-de43c78c2f9b":{"type":"collection","settings":{"collection":"frontpage","tab_title":""}}},"block_order":["fd7a79bd-7c82-4876-b2c9-de43c78c2f9b"],"settings":{"title":"Coleção - 03","description":"<p>Descrição para sua coleção<\/p>","bg_light":false,"title_alignment":"text-center","title_size":"h2","tabs_alignment":"justify-content-center","container":true,"limit":"15","carousel_arrows":false,"carousel_pagination":true,"carousel_rewind":true,"carousel_autoplay":false,"carousel_interval":6,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"480","img_height":"480","img_thumbnail":false,"product_title_heading_size":"h6","show_rating":true,"no_show_rating_name":true,"show_price":true,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":3,"breakpoint_xl":4,"breakpoint_xxl":4,"padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":4}},"8b1882d1-419a-4cdb-ba8e-b0426d3e9636":{"type":"featured-collection","disabled":true,"blocks":{"7675623e-d7f5-485f-96b7-9c9032ae0c6d":{"type":"collection","settings":{"collection":"kits","tab_title":""}},"2e244ce3-fcfc-4cd0-8157-93dbe98343ad":{"type":"collection","disabled":true,"settings":{"collection":"bolsas-femininas","tab_title":"Bolsas Femininas"}}},"block_order":["7675623e-d7f5-485f-96b7-9c9032ae0c6d","2e244ce3-fcfc-4cd0-8157-93dbe98343ad"],"settings":{"title":"Super Ofertas","description":"<p>Não perca esta oportunidade, confira nossas ofertas imperdíveis<\/p>","bg_light":false,"title_alignment":"text-center","title_size":"h2","tabs_alignment":"justify-content-center","container":true,"limit":"15","carousel_arrows":false,"carousel_pagination":true,"carousel_rewind":true,"carousel_autoplay":false,"carousel_interval":6,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"480","img_height":"480","img_thumbnail":false,"product_title_heading_size":"h6","show_rating":true,"no_show_rating_name":true,"show_price":true,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":3,"breakpoint_xl":4,"breakpoint_xxl":5,"padding_top":3,"padding_bottom":0,"margin_top":0,"margin_bottom":4}},"24f39d80-043a-47ff-bdfb-1f72e2979461":{"type":"featured-collection","blocks":{"18ac8afa-66ac-4c6a-b73f-a7aef87504d9":{"type":"collection","settings":{"collection":"frontpage","tab_title":""}}},"block_order":["18ac8afa-66ac-4c6a-b73f-a7aef87504d9"],"settings":{"title":"Coleção - 01","description":"<p>Descrição para sua coleção<\/p>","bg_light":false,"title_alignment":"text-center","title_size":"h2","tabs_alignment":"justify-content-center","container":true,"limit":"15","carousel_arrows":false,"carousel_pagination":true,"carousel_rewind":true,"carousel_autoplay":false,"carousel_interval":6,"carousel_easing":"cubic-bezier(.42,.65,.27,.99)","carousel_speed":"400","img_width":"480","img_height":"480","img_thumbnail":false,"product_title_heading_size":"h6","show_rating":true,"no_show_rating_name":true,"show_price":true,"breakpoint_xm":2,"breakpoint_sm":2,"breakpoint_md":3,"breakpoint_lg":3,"breakpoint_xl":4,"breakpoint_xxl":4,"padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":4}},"product-template-ik":{"type":"product-template-ik","blocks":{"product-template-ik-0":{"type":"product_desc","settings":{"title":"Detalhes"}}},"block_order":["product-template-ik-0"],"settings":{"title_font_size":25,"show_share_button":false,"show_valor_parcelado":false,"show_vendor":false,"frete":true,"show_type":true,"show_sku":false,"show_qty":false,"show_add_to_cart_button":false,"show_buy_it_now_button":true,"desconto":true,"enable_texto_economize":false,"text_economize":"Economize","size_text_economize":"12px","size_text_12x":"18px","enable_pix_discount":true,"pix_first_text":"Até","pix_second_text":"5% OFF","pix_third_text":"no PIX!","enable_timer":false,"time_limit":"","size_text":"18px","size_timer":"18px","size_timer_text":"14px","text_timer":"<p><strong>OFERTA ACABA EM:<\/strong><\/p>","show_payment_icons":true,"show_social_sharing":false,"show_tags":false,"add_to_cart_btn_animation":"animate__shakeX","img_width":"720","img_height":"720","img_thumbnail":false,"image_gallery_controls":false,"image_gallery_thumbnails":true,"image_gallery_thumbnails_auto_play":false,"image_gallery_interval":5,"image_gallery_progress_bar":true,"image_gallery_progress_bar_color":"bg-custom-gradient","image_gallery_transition":"slide","image_gallery_fancybox_animation_effect":"zoom","image_gallery_fancybox_animation_duration":"300","image_gallery_fancybox_transition_effect":"tube","image_gallery_fancybox_transition_duration":"600","color_swatches_enabled":true,"show_badge_mostsell":true,"show_badge_moreeconomy":true,"badge_mostsell_position":2,"badge_moreeconomy_position":3,"color_kit_main":"#28ba86","color_kit_badge_mostsell":"#ff6500","color_kit_badge_discount":"#c11b1b","color_kit_badge_moreeconomy":"#ffc107","color_kit_badge_soldout":"#333333","swatch_quadrado":false,"size_swatch":"55px","variant_swatch_color_name":"Escolha a cor","inventory_bar_enable":true,"inventory_bar_low_no":"5","inventory_bar_has_stock_color":"bg-warning","delivery_time":true,"entrega_estimada_color":"#28ba86","textofrete":"Envio Expresso","delivery_time_text":"Receba entre:","enabled-address":true,"enable_garantia":true,"garantia_text_one":"Pagamento parcelado em até 12x","garantia_text_two":"","enable_troca":true,"troca_text_one":"Rastreamento Disponível em até 3 dias","troca_text_two":"","troca_cor_one":"#0086ff","troca_cor":"#808080","size_text_frete":"14px","delivery_time_min_days":3,"delivery_time_max_days":7,"vendidos":false,"vendidos_texto":"unidades vendidas |","vendidos_cor":"#e22120","measure-modal-text":"Escrever aqui o texto","blackfriday_toggle":false,"blackfriday_date":"11\/04\/2022 (Salve para mudar a data)","blackfriday_backgroundcolor":"#0d0d0d","blackfriday_backgroundcolor-bottom":"#f82424","blackfriday_backgroundcolor-text":"#ffffff","blackfriday_svg_color":"#e22519"}},"94bcf2f4-8f06-4dcd-b095-19705ff8ef42":{"type":"blog-posts","disabled":true,"settings":{"blog":"blog-loja-happenz","title":"Postagens no blog","description":"<p>Escreva algo cativante aqui<\/p>","container":true,"bg_light":false,"title_alignment":"text-center","title_size":"h2","show_author":false,"show_date":false,"show_comments":false,"show_excerpt":true,"excerpt_length":"100","show_readmore":false,"readmore_color":"btn-outline-primary","readmore_size":"","img_width":"450","img_height":"450","img_thumbnail":true,"limit":4,"row_mobile":2,"row_tablet":2,"row_desktop":3,"padding_top":0,"padding_bottom":0,"margin_top":0,"margin_bottom":9}},"feb04c96-3d6b-4c8e-baf0-806a3cb468bd":{"type":"instagram-gallery","disabled":true,"blocks":{"f48fa75f-92d5-4b2b-8f0d-f3c36e337d77":{"type":"post","settings":{"description":"<p>teste<\/p>","url":"https:\/\/www.instagram.com\/reel\/Co3UEHBAUP9\/?utm_source=ig_web_copy_link"}}},"block_order":["f48fa75f-92d5-4b2b-8f0d-f3c36e337d77"],"settings":{"title":"Instagram da Loja","description":"<p>Escreva alguma coisa aqui.<\/p>","title_size":"h4","title_alignment":"text-center","container":true,"bg_light":true,"follow_btn_url":"","follow_btn_text":"Seguir","follow_btn_color":"btn-outline-primary","follow_btn_size":"","img_width":"500","img_height":"700","img_thumbnail":false,"show_modal":true,"row_mobile":2,"row_tablet":3,"row_desktop":6,"padding_top":8,"padding_bottom":8,"margin_top":0,"margin_bottom":9}},"ryviu-widget":{"type":"ryviu-widget","settings":{}}},"content_for_index":["160933884071eee85d","8b1882d1-419a-4cdb-ba8e-b0426d3e9636","163057394140c7594d","24f39d80-043a-47ff-bdfb-1f72e2979461","1609370220a8149c9d","f2995eb4-3cf7-4854-b5ba-bcbd636fac5d","1610178560d1807d19","1629938086ae988321","94bcf2f4-8f06-4dcd-b095-19705ff8ef42","feb04c96-3d6b-4c8e-baf0-806a3cb468bd"]},"presets":{"Default":{}}}
+{
+  "current": {
+    "license_key": "",
+    "color_primary": "#202020",
+    "color_secondary": "#333333",
+    "color_dark": "#272727",
+    "color_light": "#ffffff",
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#333333",
+    "color_price": "#1d9e06",
+    "color-price-economize": "#fd7e15",
+    "color-price-pix": "#59419f",
+    "color_variante": "#59419f",
+    "color_button_buy": "#1d9e06",
+    "color_text_button_buy": "#ffffff",
+    "color_border_button_add_cart": "#d2d2d2",
+    "color_text_button_add_cart": "#6c6c6c",
+    "color_text": "#545454",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "buttons_forms_radius": 2,
+    "font_headings": "montserrat_n4",
+    "parcelamento_enable": false,
+    "qtd_sem_juros_parcelamento": "1",
+    "taxa_segunda_parcela": "3.41",
+    "taxa_terceira_parcela": "4.78",
+    "taxa_quarta_parcela": "5.25",
+    "taxa_quinta_parcela": "6.66",
+    "taxa_sexta_parcela": "7.04",
+    "taxa_setima_parcela": "8.25",
+    "taxa_oitava_parcela": "9.85",
+    "taxa_nona_parcela": "10.44",
+    "taxa_decima_parcela": "11.59",
+    "taxa_decima_primeira_parcela": "12.19",
+    "taxa_decima_segunda_parcela": "13.87",
+    "predictive_search_enable": true,
+    "predictive_search_img_width": "120",
+    "predictive_search_img_height": "120",
+    "predictive_search_img_thumbnail": false,
+    "predictive_search_show_rating": true,
+    "predictive_search_animate": "animate__backInRight",
+    "wishlist_enable": true,
+    "wishlist_img_thumbnail": false,
+    "cart_show_applied_discounts": true,
+    "cart_show_buy_more_btn": false,
+    "cart_show_all_products_btn": true,
+    "cart_show_discount_code": false,
+    "cart_show_payment_icons": true,
+    "cart_goal_enable": false,
+    "cart_goal_thresholds": "BRL:100,\nUSD:180,\nGBP:150",
+    "cart_goal_message_goal_not_reached": "<p>Falta apenas <strong>[amount]<\/strong> para ganhar <strong>Frete Grátis<\/strong><\/p>",
+    "cart_goal_message_goal_reached": "<p>Você ganhou <strong>Frete Grátis<\/strong>!<\/p>",
+    "cart_goal_color_not_reached": "bg-warning",
+    "share_facebook": true,
+    "share_twitter": false,
+    "share_email": false,
+    "social_facebook_link": "https:\/\/www.facebook.com\/",
+    "social_twitter_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_linkedin_link": "",
+    "modal_animation_enter": "animate__backInUp",
+    "modal_animation_exit": "animate__zoomOutDown",
+    "modal_animation_speed": "animate__fast",
+    "toast_position": "bottom-right",
+    "toast_delay": 15,
+    "toast_btn_color": "#ff0000",
+    "cookie_bar_enable": false,
+    "cookie_bar_lang": "es",
+    "cookie_bar_no_geoip": true,
+    "cookie_bar_show_details_btn": false,
+    "cookie_bar_show_policy_link": false,
+    "cookie_bar_z_index": "1",
+    "ali_hunter_enable": false,
+    "botao_direito_enable": false,
+    "atalho_f12_enable": false,
+    "selecionar_conteudo_enable": false,
+    "predictive_search_type": "product, collection, article, page",
+    "custom_gradient": "\/\/linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);",
+    "taxa_parcelamento": "3",
+    "cart_goal_threshold": "200",
+    "modal_animation": "animate__jackInTheBox",
+    "sections": {
+      "topbar": {
+        "type": "topbar",
+        "settings": {
+          "topbar_display": true,
+          "announcement_homepage": true,
+          "container": true,
+          "topbg": "#0e0e0e",
+          "toplink": "#ffffff",
+          "topbar_dis": true,
+          "announcement_content": "ESTA SEMANA; Envío <b>GRATIS!<\/b> 🚚 a toda<b> COLOMBIA<\/b> 🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
+          "announcement_animate": true,
+          "announcement_animate_name": "animate__headShake",
+          "anuncio_img": false,
+          "img_fundo": "#fcc43a",
+          "url_i": ""
+        }
+      },
+      "navbar": {
+        "type": "navbar",
+        "settings": {
+          "menu_flut": true,
+          "bg": "#fafafa",
+          "menulink": "#272727",
+          "bglink": "#fd8a03",
+          "peslink": "#333333",
+          "shadow": "shadow-sm",
+          "cor_box": "form-transparent",
+          "container": true,
+          "logo_height": "165",
+          "menu": "main-menu",
+          "menu_position": "mx-auto",
+          "menu_dropdown_animation": "animate__pulse",
+          "menu_dropdown_animation_speed": "animate__faster",
+          "fone": "",
+          "email": "contacto@dulcenina.com",
+          "wishlist_icon_bubble_color": "#ff8c00",
+          "wishlist_icon_animate_class": "animate__bounce",
+          "bar-bottom": true,
+          "color-bar-bottom-one": "#fbc02d",
+          "color-bar-bottom-two": "#3bc9a4",
+          "color-bar-bottom-three": "#be20ca",
+          "show_icon_cart": true,
+          "cart_icon_icon": "bag",
+          "cart_icon_badge_color_empty": "#59419f",
+          "cart_icon_badge_color_has_items": "#e22120",
+          "cart_icon_animate_class": "animate__wobble"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "65fab46b-2e97-4790-a557-50eb630a10db": {
+            "type": "link_list",
+            "settings": {
+              "menu": "",
+              "title": "Nuestras políticas"
+            }
+          },
+          "aded85c1-53fd-4ded-9bf7-e3cbfe2a3218": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer",
+              "title": "CENTRO DE AYUDA"
+            }
+          },
+          "ae528aaa-8976-4a00-8ebb-6576e682cb7a": {
+            "type": "headline",
+            "disabled": true,
+            "settings": {
+              "btitle": "Suporte via WhatsApp",
+              "icone": "<svg width=\"20\" height=\"20\" viewbox=\"0 0 16 16\" class=\"bi bi-whatsapp\" fill=\"currentColor\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><path fill-rule=\"evenodd\" d=\"M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z\"><\/path><\/svg>",
+              "btn_color": "btn-outline-warning",
+              "btn_size": "btn-sm",
+              "button_url": ""
+            }
+          },
+          "fc75088f-639f-44a2-bb97-fbbd94157751": {
+            "type": "newsletter",
+            "settings": {
+              "title": "¿DESEA RECIBIR NUESTRAS PROMOCIONES?",
+              "description": "<p>Consigue hasta un 10% de crédito en tu próxima compra<\/p>",
+              "cor_box": "form-opac",
+              "btn_color": "btn-warning",
+              "btn_size": "btn-sm"
+            }
+          }
+        },
+        "block_order": [
+          "65fab46b-2e97-4790-a557-50eb630a10db",
+          "aded85c1-53fd-4ded-9bf7-e3cbfe2a3218",
+          "ae528aaa-8976-4a00-8ebb-6576e682cb7a",
+          "fc75088f-639f-44a2-bb97-fbbd94157751"
+        ],
+        "settings": {
+          "bg": "#000000",
+          "cortit": "#fbc02d",
+          "bglink": "#f4f4f4",
+          "container": true,
+          "show_social_icons": false,
+          "social_icon_animate": "animate__tada",
+          "heading_size": "h6",
+          "show_about_us": true,
+          "about_logo_height": "150",
+          "about_description": "<p>Nuestra tienda online se creó pensando en usted, para ser una tienda innovadora en Internet, que ofrezca los mejores productos y servicios.<\/p>",
+          "about_email": "email@latienda-mix.com",
+          "about_phone": "",
+          "bg2": "#000000",
+          "cortitle2": "#ffffff",
+          "titlepg": "Métodos de pago",
+          "titleseg": "Seguridad y calidad",
+          "store_name": "Nome da sua Loja",
+          "enable_cnpj": false,
+          "cnpj_endereco": "",
+          "show_powered_by": false,
+          "row_tablet": 4,
+          "row_desktop": 3,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "show_orbe": false
+        }
+      },
+      "160933884071eee85d": {
+        "type": "carousel",
+        "blocks": {
+          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17": {
+            "type": "image",
+            "settings": {
+              "button_url": ""
+            }
+          },
+          "a46ef124-44f1-498f-9f70-f237863836eb": {
+            "type": "image",
+            "settings": {
+              "button_url": "shopify:\/\/products\/produto-de-exemplo-2"
+            }
+          },
+          "160933884071eee85d-0": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "button_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17",
+          "a46ef124-44f1-498f-9f70-f237863836eb",
+          "160933884071eee85d-0"
+        ],
+        "settings": {
+          "controls": false,
+          "indicators": false,
+          "bg_color": "bg-dark",
+          "backdrop": false,
+          "container": false,
+          "autoplay": true,
+          "interval": 8,
+          "autoplay_progress_bar": true,
+          "autoplay_progress_bar_color": "bg-white opacity-50",
+          "transition_effect": "",
+          "transition_speed": "animate__normal",
+          "lazyload": true,
+          "margin_top": 5,
+          "margin_bottom": 5
+        }
+      },
+      "1609370220a8149c9d": {
+        "type": "featured-collection",
+        "blocks": {
+          "7ae40457-7131-4e16-ad6e-9516741cb1ab": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage",
+              "tab_title": "Lançamentos"
+            }
+          }
+        },
+        "block_order": [
+          "7ae40457-7131-4e16-ad6e-9516741cb1ab"
+        ],
+        "settings": {
+          "title": "Coleção - 02",
+          "description": "<p>Descrição para sua coleção<\/p>",
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "tabs_alignment": "justify-content-center",
+          "container": true,
+          "limit": "15",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": false,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": false,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "no_show_rating_name": true,
+          "show_price": true,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 4,
+          "padding_top": 0,
+          "padding_bottom": 4,
+          "margin_top": 0,
+          "margin_bottom": 0
+        }
+      },
+      "infobar": {
+        "type": "infobar",
+        "blocks": {
+          "infobar-0": {
+            "type": "text",
+            "settings": {
+              "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-box-seam\" viewbox=\"0 0 16 16\">\n  <path d=\"M8.186 1.113a.5.5 0 0 0-.372 0L1.846 3.5l2.404.961L10.404 2l-2.218-.887zm3.564 1.426L5.596 5 8 5.961 14.154 3.5l-2.404-.961zm3.25 1.7-6.5 2.6v7.922l6.5-2.6V4.24zM7.5 14.762V6.838L1 4.239v7.923l6.5 2.6zM7.443.184a1.5 1.5 0 0 1 1.114 0l7.129 2.852A.5.5 0 0 1 16 3.5v8.662a1 1 0 0 1-.629.928l-7.185 2.874a.5.5 0 0 1-.372 0L.63 13.09a1 1 0 0 1-.63-.928V3.5a.5.5 0 0 1 .314-.464L7.443.184z\"><\/path>\n<\/svg>",
+              "icon_color": "#59419f",
+              "title": "RASTREO",
+              "description": "<p>Enviamos códigos de seguimiento para todos los pedidos<\/p>"
+            }
+          },
+          "infobar-1": {
+            "type": "text",
+            "settings": {
+              "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-shield-check\" viewbox=\"0 0 16 16\">\n  <path d=\"M5.338 1.59a61.44 61.44 0 0 0-2.837.856.481.481 0 0 0-.328.39c-.554 4.157.726 7.19 2.253 9.188a10.725 10.725 0 0 0 2.287 2.233c.346.244.652.42.893.533.12.057.218.095.293.118a.55.55 0 0 0 .101.025.615.615 0 0 0 .1-.025c.076-.023.174-.061.294-.118.24-.113.547-.29.893-.533a10.726 10.726 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067c-.53 0-1.552.223-2.662.524zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.775 11.775 0 0 1-2.517 2.453 7.159 7.159 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7.158 7.158 0 0 1-1.048-.625 11.777 11.777 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 62.456 62.456 0 0 1 5.072.56z\"><\/path>\n  <path d=\"M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z\"><\/path>\n<\/svg>",
+              "icon_color": "#59419f",
+              "title": "GARANTÍA DE SATISFACCIÓN",
+              "description": "<p>Recibe tu dinero de vuelta si no te gusta o no es lo que esperas<\/p>"
+            }
+          },
+          "infobar-2": {
+            "type": "text",
+            "settings": {
+              "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-x-diamond\" viewbox=\"0 0 16 16\">\n  <path d=\"M7.987 16a1.526 1.526 0 0 1-1.07-.448L.45 9.082a1.531 1.531 0 0 1 0-2.165L6.917.45a1.531 1.531 0 0 1 2.166 0l6.469 6.468A1.526 1.526 0 0 1 16 8.013a1.526 1.526 0 0 1-.448 1.07l-6.47 6.469A1.526 1.526 0 0 1 7.988 16zM7.639 1.17 4.766 4.044 8 7.278l3.234-3.234L8.361 1.17a.51.51 0 0 0-.722 0zM8.722 8l3.234 3.234 2.873-2.873c.2-.2.2-.523 0-.722l-2.873-2.873L8.722 8zM8 8.722l-3.234 3.234 2.873 2.873c.2.2.523.2.722 0l2.873-2.873L8 8.722zM7.278 8 4.044 4.766 1.17 7.639a.511.511 0 0 0 0 .722l2.874 2.873L7.278 8z\"><\/path>\n<\/svg>",
+              "icon_color": "#59419f",
+              "title": "METODOS DE PAGO",
+              "description": "<p>Paga en efectivo cuando lo recibas, Paga con tarjeta o PSE<\/p>"
+            }
+          },
+          "infobar-3": {
+            "type": "text",
+            "settings": {
+              "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"40\" height=\"40\" fill=\"currentColor\" class=\"bi bi-headset\" viewbox=\"0 0 16 16\">\n  <path d=\"M8 1a5 5 0 0 0-5 5v1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V6a6 6 0 1 1 12 0v6a2.5 2.5 0 0 1-2.5 2.5H9.366a1 1 0 0 1-.866.5h-1a1 1 0 1 1 0-2h1a1 1 0 0 1 .866.5H11.5A1.5 1.5 0 0 0 13 12h-1a1 1 0 0 1-1-1V8a1 1 0 0 1 1-1h1V6a5 5 0 0 0-5-5z\"><\/path>\n<\/svg>",
+              "icon_color": "#59419f",
+              "title": "SOPORTE 24\/7",
+              "description": "<p>Contactanos las 24 horas del día y los 7 días de la semana<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "infobar-0",
+          "infobar-1",
+          "infobar-2",
+          "infobar-3"
+        ],
+        "settings": {
+          "bg_cor": "#f7f7f7",
+          "infolink": "#484848",
+          "container": true,
+          "title_size": "h6",
+          "animate_class": "",
+          "row_mobile": 1,
+          "row_tablet": 2,
+          "row_desktop": 4,
+          "padding_top": 0,
+          "padding_bottom": 3
+        }
+      },
+      "1610178560d1807d19": {
+        "type": "newsletter",
+        "settings": {
+          "title": "¡Consigue hasta un 10% de descuento!",
+          "description": "<p>Sea el primero en recibir notificaciones sobre nuestras ofertas.<\/p>",
+          "note": "",
+          "bg_color": "bg-white text-body",
+          "btn_color": "btn-primary",
+          "btn_size": "btn-lg",
+          "padding_top": 5,
+          "padding_bottom": 6,
+          "margin_top": 5,
+          "margin_bottom": 0
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "description": "<p>Tem perguntas? Por favor <a href=\"\/pages\/pagina-de-contato\" title=\"Página de contato\">Contate-Nos<\/a><\/p>",
+          "img_width": "360",
+          "img_height": "360",
+          "img_thumbnail": false,
+          "show_qty": true,
+          "show_note": true,
+          "note_rows": 4,
+          "show_discount_code": false,
+          "show_payment_icons": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "title": "Nossas coleções",
+          "description": "<p>Navegue. <a href=\"\/collections\/all\" title=\"Todos os produtos\">Navegue por todos os produtos<\/a><\/p>",
+          "paginate": 18,
+          "container": true,
+          "hide_collections": "frontpage, promo, compre-junto-01, compre-junto-02, compre-junto-03, compre-junto-04, compre-junto-05, compre-junto-06, compre-junto-07, compre-junto-08, compre-junto-09, compre-junto-10",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": true,
+          "show_products_count": true,
+          "row_mobile": 2,
+          "row_tablet": 3,
+          "row_desktop": 3
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "container": true,
+          "paginate": 12,
+          "show_tags": false,
+          "show_collection_img": false,
+          "infinite_scroll": true,
+          "enable_filters": true,
+          "show_filter_color": true,
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": false,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "no_show_rating_name": true,
+          "show_price": true,
+          "row_mobile": 2,
+          "row_tablet": 3,
+          "row_desktop": 4
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "product-template-0": {
+            "type": "product_desc",
+            "settings": {
+              "title": "Descripción"
+            }
+          }
+        },
+        "block_order": [
+          "product-template-0"
+        ],
+        "settings": {
+          "title_font_size": 25,
+          "show_share_button": false,
+          "show_valor_parcelado": false,
+          "show_vendor": false,
+          "frete": true,
+          "show_type": true,
+          "show_sku": false,
+          "show_qty": true,
+          "show_add_to_cart_button": true,
+          "show_buy_it_now_button": false,
+          "desconto": true,
+          "enable_texto_economize": true,
+          "text_economize": "Ahorra",
+          "size_text_economize": "12px",
+          "size_text_12x": "18px",
+          "enable_pix_discount": false,
+          "pix_first_text": "Até",
+          "pix_second_text": "5% OFF",
+          "pix_third_text": "no PIX!",
+          "enable_timer": false,
+          "time_limit": "12\/12\/2023",
+          "size_text": "18px",
+          "size_timer": "18px",
+          "size_timer_text": "14px",
+          "text_timer": "<p><strong>oferta acaba em:<\/strong><\/p>",
+          "show_payment_icons": true,
+          "show_social_sharing": false,
+          "show_tags": false,
+          "add_to_cart_btn_animation": "",
+          "img_width": "720",
+          "img_height": "720",
+          "img_thumbnail": false,
+          "image_gallery_controls": true,
+          "image_gallery_thumbnails": true,
+          "image_gallery_thumbnails_auto_play": false,
+          "image_gallery_interval": 5,
+          "image_gallery_progress_bar": true,
+          "image_gallery_progress_bar_color": "bg-success",
+          "image_gallery_transition": "slide",
+          "image_gallery_fancybox_animation_effect": "zoom",
+          "image_gallery_fancybox_animation_duration": "300",
+          "image_gallery_fancybox_transition_effect": "tube",
+          "image_gallery_fancybox_transition_duration": "600",
+          "color_swatches_enabled": true,
+          "show_badge_mostsell": true,
+          "show_badge_moreeconomy": true,
+          "badge_mostsell_position": 2,
+          "badge_moreeconomy_position": 3,
+          "color_kit_main": "#28ba86",
+          "color_kit_badge_mostsell": "#ff6500",
+          "color_kit_badge_discount": "#c11b1b",
+          "color_kit_badge_moreeconomy": "#ffc107",
+          "color_kit_badge_soldout": "#333333",
+          "swatch_quadrado": false,
+          "size_swatch": "50px",
+          "variant_swatch_color_name": "Escolha a cor",
+          "inventory_bar_enable": true,
+          "inventory_bar_low_no": "5",
+          "inventory_bar_has_stock_color": "bg-primary",
+          "delivery_time": true,
+          "entrega_estimada_color": "#1d9e06",
+          "textofrete": "Envío urgente",
+          "delivery_time_text": "Recibir entre:",
+          "enabled-address": true,
+          "enable_garantia": true,
+          "garantia_text_one": "<b>Compra con Confianza<\/b> <br>",
+          "garantia_text_two": "👉 Realiza el pago al momento de recibir 🚚 tu producto en casa 🏠",
+          "enable_troca": false,
+          "troca_text_one": "Troca Grátis - 7 dias para testar o produto",
+          "troca_text_two": "",
+          "troca_cor_one": "#1d9e06",
+          "troca_cor": "#808080",
+          "size_text_frete": "14px",
+          "delivery_time_min_days": 3,
+          "delivery_time_max_days": 7,
+          "vendidos": false,
+          "vendidos_texto": "unidades vendidas",
+          "vendidos_cor": "#dd2222",
+          "measure-modal-text": "",
+          "blackfriday_toggle": false,
+          "blackfriday_date": "11\/04\/2022 (Salve para mudar a data)",
+          "blackfriday_backgroundcolor": "#ffffff",
+          "blackfriday_backgroundcolor-bottom": "#f82424",
+          "blackfriday_backgroundcolor-text": "#0e0e0e",
+          "blackfriday_svg_color": "#e22519"
+        }
+      },
+      "product-bundle": {
+        "type": "product-bundle",
+        "settings": {
+          "enable_section": true,
+          "title": "Frequentemente comprados juntos",
+          "description": "<p>Compre todos os produtos abaixo de uma só vez e obtenha imediatamente <strong>15% de desconto.<\/strong><\/p>",
+          "container": true,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": true,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "show_price": true,
+          "enable_discounts": false,
+          "discount_percentage": 20,
+          "discount_min_products": "2",
+          "row_mobile": 2,
+          "row_tablet": 3,
+          "row_desktop": 4,
+          "padding_top": 9,
+          "padding_bottom": 9,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
+      },
+      "product-related": {
+        "type": "product-related",
+        "settings": {
+          "enable_section": true,
+          "title": "VOCÊ TAMBÉM PODE GOSTAR",
+          "description": "<p>Separamos alguns produtos que você pode gostar. Aproveite nossas ofertas.<\/p>",
+          "container": true,
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h4",
+          "limit": "15",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": true,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": true,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "show_price": true,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 5,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
+      },
+      "product-recently-viewed": {
+        "type": "product-recently-viewed",
+        "settings": {
+          "enable_section": false,
+          "title": "Produtos visitados recentemente",
+          "description": "<p>Não perca os seguintes produtos incríveis<\/p>",
+          "container": true,
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "limit": 15,
+          "carousel_arrows": false,
+          "carousel_pagination": false,
+          "carousel_rewind": false,
+          "carousel_autoplay": false,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": true,
+          "product_title_heading_size": "h6",
+          "show_price": false,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 5,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 4
+        }
+      },
+      "product-sticky-atc": {
+        "type": "product-sticky-atc",
+        "settings": {
+          "enable_section": true,
+          "position": "bottom-center",
+          "animation_enter": "animate__fadeInUp",
+          "animation_exit": "animate__fadeOutDown",
+          "animation_speed": "animate__normal",
+          "img_width": "72",
+          "img_height": "72",
+          "img_thumbnail": true,
+          "show_rating": true,
+          "add_to_cart_btn_animation": "animate__pulse",
+          "show_image": true,
+          "show_variables": true,
+          "show_title": true
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/logo-orbe.png",
+          "logo_height": "40",
+          "show_countdown": true,
+          "countdown_date": "Dec 01, 2022 02:00:00",
+          "show_social_icons": false,
+          "show_powered_by": false,
+          "show_theme_by": false
+        }
+      },
+      "sticky-newsletter": {
+        "type": "sticky-newsletter",
+        "settings": {
+          "enable_section": true,
+          "show_only_homepage": true,
+          "position": "bottom-center",
+          "title": "OBTENGA AHORA UN 10% DE DESCUENTO",
+          "description": "<p>Introduce el cupón del 10% de DESCUENTO en tu primera compra al suscribirte a nuestros boletines.<\/p>",
+          "top_treshold": "100",
+          "bottom_treshold": "500",
+          "show_after_x_days": 3,
+          "btn_color": "btn-light",
+          "btn_size": "btn-lg",
+          "animation_enter": "animate__fadeInUp",
+          "animation_exit": "animate__fadeOutDown",
+          "animation_speed": "animate__normal"
+        }
+      },
+      "page-template-about": {
+        "type": "page-template-about",
+        "blocks": {
+          "page-template-about-0": {
+            "type": "text",
+            "settings": {
+              "title": "Dias úteis",
+              "description": "<p>Segunda-feira sexta-feira<\/p>"
+            }
+          },
+          "page-template-about-1": {
+            "type": "text",
+            "settings": {
+              "title": "Jornada de trabalho",
+              "description": "<p>09:00 - 18:00<\/p>"
+            }
+          },
+          "page-template-about-2": {
+            "type": "text",
+            "settings": {
+              "title": "Prefere ligar?",
+              "description": "<p><a href=\"tel:+551199999-9999\" title=\"tel:+551199999-9999\">(11) 99999-9999<\/a><\/p>"
+            }
+          },
+          "page-template-about-3": {
+            "type": "text",
+            "settings": {
+              "title": "Outro Bloco",
+              "description": "<p>Escreva algo importante<\/p>"
+            }
+          },
+          "93d9171f-336c-4a43-9468-708867423018": {
+            "type": "team",
+            "settings": {
+              "team_name": "Jhonhyx",
+              "team_description": "<p>CEO & amp; Fundador<\/p>"
+            }
+          },
+          "1e879717-b93b-49f9-8b8e-395a51ad4fba": {
+            "type": "team",
+            "settings": {
+              "team_name": "Matheus",
+              "team_description": "<p>Software Engineer<\/p>"
+            }
+          },
+          "1878e509-3f21-4dd2-8f76-1d19e42145a3": {
+            "type": "team",
+            "settings": {
+              "team_name": "Yuri",
+              "team_description": "<p>Graphic Designer<\/p>"
+            }
+          },
+          "ba8f505b-aba8-4b0c-9e10-7d3ae5cdac06": {
+            "type": "team",
+            "settings": {
+              "team_name": "Jhonhyx",
+              "team_description": "<p>Suporte com um especialista<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-template-about-0",
+          "page-template-about-1",
+          "page-template-about-2",
+          "page-template-about-3",
+          "93d9171f-336c-4a43-9468-708867423018",
+          "1e879717-b93b-49f9-8b8e-395a51ad4fba",
+          "1878e509-3f21-4dd2-8f76-1d19e42145a3",
+          "ba8f505b-aba8-4b0c-9e10-7d3ae5cdac06"
+        ],
+        "settings": {
+          "description": "<p>Inspirado pela simplicidade, impulsionado pelo desempenho.<\/p>",
+          "page_max_width": "767",
+          "main_image_width": "1200",
+          "main_image_height": "600",
+          "main_image_img_thumbnail": true,
+          "enable_team_blocks": true,
+          "team_title": "Conheça o time",
+          "team_description": "<p>Somos apaixonados por fornecer-lhe o máximo ...<\/p>",
+          "team_bg_light": true,
+          "team_title_alignment": "text-center",
+          "team_image_width": "480",
+          "team_image_height": "480",
+          "team_image_img_thumbnail": true,
+          "team_row_mobile": 2,
+          "team_row_tablet": 4,
+          "team_row_desktop": 4,
+          "bottom_notice": "<p>Dúvidas? <a href=\"\/pages\/contato\" title=\"contato\">Fale conosco<\/a><\/p>",
+          "bottom_notice_alert_style": "alert-info"
+        }
+      },
+      "page-template-x": {
+        "type": "page-template-x",
+        "blocks": {
+          "788ae06e-9f66-4b38-ac85-b98b320ec354": {
+            "type": "richtext",
+            "settings": {
+              "htm": "<p><strong>O melhor relógio do mundo<\/strong> em até 3x sem juros!<\/p>",
+              "tag": "promoção",
+              "star": true,
+              "imgp": "shopify:\/\/shop_images\/slots-hotsites_apple.webp",
+              "bg_cor": "#090c13",
+              "bglink": "#ffffff"
+            }
+          },
+          "bc170b8e-ba3a-4dd9-88b9-6d7aeb5f029b": {
+            "type": "social",
+            "settings": {
+              "title": "Eleito o melhor custo X benefício do mercado",
+              "bg_cor": "#d60101",
+              "linkcor": "#ffffff",
+              "sub": "<p><strong>Sucesso de vendas,<\/strong> não fique de fora, adiquira já o seu!<\/p>",
+              "img": "shopify:\/\/shop_images\/mercado-online.webp",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=ZaGWdqhy3tQ",
+              "botaobene": "#comprar",
+              "textobotaobene": "Comprar agora",
+              "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"30\" height=\"30\" fill=\"currentColor\" class=\"bi bi-check-circle-fill\" viewbox=\"0 0 16 16\">\n  <path d=\"M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z\"><\/path>\n<\/svg>",
+              "p1": "Monitoramento de atividades físicas",
+              "p2": "Monitoramento de sono",
+              "p3": "Medidor de batimentos cardíacos",
+              "p4": "Notificações & ligações",
+              "p5": "Bateria com 10 dias de duração",
+              "p6": "",
+              "p7": "",
+              "p8": "",
+              "p9": "",
+              "p10": ""
+            }
+          },
+          "c49b1b1d-e5c0-47f5-893f-29f7f013ab4c": {
+            "type": "social",
+            "disabled": true,
+            "settings": {
+              "title": "Grande promessa",
+              "bg_cor": "#202a34",
+              "linkcor": "#ffffff",
+              "sub": "<p>werwerwerwer<\/p>",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=dQw4w9WgXcQ",
+              "botaobene": "",
+              "textobotaobene": "Comprar agora",
+              "icon": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"16\" height=\"16\" fill=\"currentColor\" class=\"bi bi-bootstrap-reboot\" viewbox=\"0 0 16 16\">\n  <path d=\"M1.161 8a6.84 6.84 0 1 0 6.842-6.84.58.58 0 1 1 0-1.16 8 8 0 1 1-6.556 3.412l-.663-.577a.58.58 0 0 1 .227-.997l2.52-.69a.58.58 0 0 1 .728.633l-.332 2.592a.58.58 0 0 1-.956.364l-.643-.56A6.812 6.812 0 0 0 1.16 8z\"><\/path>\n  <path d=\"M6.641 11.671V8.843h1.57l1.498 2.828h1.314L9.377 8.665c.897-.3 1.427-1.106 1.427-2.1 0-1.37-.943-2.246-2.456-2.246H5.5v7.352h1.141zm0-3.75V5.277h1.57c.881 0 1.416.499 1.416 1.32 0 .84-.504 1.324-1.386 1.324h-1.6z\"><\/path>\n<\/svg>",
+              "p1": "Grande promessa",
+              "p2": "Grande promessa",
+              "p3": "Grande promessa",
+              "p4": "Grande promessa",
+              "p5": "Grande promessa",
+              "p6": "Grande promessa",
+              "p7": "Grande promessa",
+              "p8": "Grande promessa",
+              "p9": "Grande promessa",
+              "p10": "Grande promessa"
+            }
+          },
+          "5c2e74d9-60f7-478d-a8f2-ba25177f28c0": {
+            "type": "html",
+            "settings": {
+              "title": "Grande promessa",
+              "htm": "<p>Grande promessa<\/p><p><\/p>",
+              "imgp": "shopify:\/\/shop_images\/slot-samsung.webp",
+              "bg_cor": "#000000",
+              "bglink": "#ffffff",
+              "botaoinfo": "#comprar",
+              "textobotaoinfo": "Comprar agora"
+            }
+          },
+          "cb84c09d-7853-42a4-a285-1ae760519ef7": {
+            "type": "html",
+            "settings": {
+              "title": "Grande promessa",
+              "htm": "<p>Feito para aguentar tudo, o <strong>Smartwatch<\/strong> é repleto de funções para ajudar no seu dia a dia: notificações, ligações, monitoramento de sono e atividades físicas etc.<\/p>",
+              "imgp": "shopify:\/\/shop_images\/slot-playstation.webp",
+              "bg_cor": "#fbc02d",
+              "bglink": "#ffffff",
+              "botaoinfo": "#comprar",
+              "textobotaoinfo": "Comprar agora"
+            }
+          },
+          "94b12eeb-88b7-455f-b989-e4c4177a5ecf": {
+            "type": "link_list",
+            "settings": {
+              "menu": "main-menu",
+              "title": "Links uteis"
+            }
+          },
+          "3da6c72f-4dff-4e6a-aba9-5661082bb677": {
+            "type": "button",
+            "settings": {
+              "title": "Dúvidas frequentes",
+              "faq1": "Quanto tempo vai demorar para receber meu pedido?",
+              "faqr1": "<p>Nosso envio é grátis para todo o Brasil, sem surpresas adicionais. nosso prazo é de15 à 35 dias úteis para chegar. Nunca mais se preocupe em pagar frete!<\/p><p><\/p>",
+              "faq2": "O site é confiável?",
+              "faqr2": "<p>Esse site é totalmente seguro. Possui certificado de segurança do Google e o pagamento é processado pelo MercadoPago, umas das plataformas mais seguras para compras na internet no Brasil, 100% segura e sigilosa. Também possui garantia de entrega e qualidade do produto.<\/p><p><\/p>",
+              "faq3": "Tem garantia?",
+              "faqr3": "<p>Sim, possuímos garantia estendida de 30 dias contra defeitos de fabricação.<\/p><p><\/p>",
+              "faq4": "",
+              "faqr4": "",
+              "faq5": "",
+              "faqr5": "<p><\/p><p><\/p>",
+              "bg_cor": "#262626",
+              "bglink": "#ffffff"
+            }
+          },
+          "497c5e6e-8f8f-4786-94cc-0877c321944d": {
+            "type": "image",
+            "settings": {
+              "imgprova1": "shopify:\/\/shop_images\/slot-nintendo.webp",
+              "prova1nome": "Jhonhyx",
+              "prova1": "<p>Escreva algo legal nesse box! <br\/>😎<\/p>",
+              "imgprova2": "shopify:\/\/shop_images\/mercado-online.webp",
+              "prova2nome": "Jhonhyx",
+              "prova2": "<p>Escreva algo legal nesse box! <br\/>😎<\/p>",
+              "imgprova3": "shopify:\/\/shop_images\/mercado-online.webp",
+              "prova3nome": "Jhonhyx",
+              "prova3": "<p>Escreva algo legal nesse box! <br\/>😎<br\/><\/p><p><\/p>",
+              "imgprova4": "shopify:\/\/shop_images\/slot-nintendo.webp",
+              "prova4nome": "Jhonhyx",
+              "prova4": "<p>Escreva algo legal nesse box! <br\/>😎<\/p>",
+              "prova5nome": "Jhonhyx",
+              "prova5": "<p>Escreva algo legal nesse box! <br\/>😎<br\/><br\/><\/p><p><\/p>"
+            }
+          },
+          "5adda6fc-2fa3-47db-8ea6-df52663fbbc9": {
+            "type": "text",
+            "settings": {
+              "titlec": "Garanta já o seu!",
+              "richtext": "<p>Esta é uma oferta especial e é válida até a meia noite de hoje.<\/p>",
+              "time": true,
+              "title": "Titulo do produto",
+              "img": "shopify:\/\/shop_images\/slot-playstation.webp",
+              "de": "<p>de R$540 por:<\/p>",
+              "por": "<p>R$ 39,90<\/p>",
+              "ou": "<p>ou R$ 390 À VISTA<\/p>",
+              "bttx": "Comprar agora",
+              "c1": "",
+              "t1": "#fff",
+              "bg": "#000",
+              "title2": "Titulo do produto",
+              "img2": "shopify:\/\/shop_images\/slots-hotsites_apple.webp",
+              "de2": "<p>de R$540 por:<\/p>",
+              "por2": "<p>R$ 39,90<\/p>",
+              "ou2": "<p>ou R$ 390 À VISTA<\/p>",
+              "bttx2": "Comprar agora",
+              "c2": "",
+              "t2": "#fff",
+              "bg2": "#000",
+              "title3": "Titulo do produto",
+              "img3": "shopify:\/\/shop_images\/slot-samsung.webp",
+              "de3": "<p>de R$540 por:<\/p>",
+              "por3": "<p>R$ 39,90<\/p>",
+              "ou3": "<p>ou R$ 390 À VISTA<\/p>",
+              "bttx3": "Comprar agora",
+              "c3": "",
+              "t3": "#fff",
+              "bg3": "#000"
+            }
+          }
+        },
+        "block_order": [
+          "788ae06e-9f66-4b38-ac85-b98b320ec354",
+          "bc170b8e-ba3a-4dd9-88b9-6d7aeb5f029b",
+          "c49b1b1d-e5c0-47f5-893f-29f7f013ab4c",
+          "5c2e74d9-60f7-478d-a8f2-ba25177f28c0",
+          "cb84c09d-7853-42a4-a285-1ae760519ef7",
+          "94b12eeb-88b7-455f-b989-e4c4177a5ecf",
+          "3da6c72f-4dff-4e6a-aba9-5661082bb677",
+          "497c5e6e-8f8f-4786-94cc-0877c321944d",
+          "5adda6fc-2fa3-47db-8ea6-df52663fbbc9"
+        ],
+        "settings": {
+          "sobre": "<p>Horário Comercial:<br\/> Seg à Sex: 09:00h às 18:00h, exceto feriados.<\/p>",
+          "textowhats": "Atendimento via WhatsApp",
+          "numerowhats": "63900000000",
+          "whatsfrase": "Olá, gostaria de saber como posso comprar o produto de vocês:",
+          "bt_whats": "#20c200",
+          "bt_hove": "#309d1d",
+          "btn_geral": "#d60101",
+          "btn_hove": "#fbc02d",
+          "icone": "#fbc02d",
+          "compra": true,
+          "textbotaoflut": "COMPRAR AGORA",
+          "botaoflut": "#comprar",
+          "borda": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "show_tags": true,
+          "show_author": true,
+          "show_date": true,
+          "show_comments_count": true,
+          "enable_social_sharing": true,
+          "img_width": "1280",
+          "img_height": "720",
+          "img_thumbnail": true,
+          "max_width": "767",
+          "comments_per_page": 10
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "description": "<p>Bem-vindo ao nosso blog, esperamos que inspire você.<\/p>",
+          "results_per_page": 10,
+          "show_tags": true,
+          "show_author": true,
+          "show_date": true,
+          "show_comments_count": true,
+          "show_excerpt": true,
+          "excerpt_length": "240",
+          "show_readmore": true,
+          "readmore_color": "btn-outline-primary",
+          "readmore_size": "",
+          "img_width": "720",
+          "img_height": "405",
+          "img_thumbnail": true
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "container": true,
+          "infinite_scroll": true,
+          "limit": 16,
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": true,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "show_price": true,
+          "row_mobile": 2,
+          "row_tablet": 3,
+          "row_desktop": 4
+        }
+      },
+      "1629938086ae988321": {
+        "type": "collection-list",
+        "blocks": {
+          "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "a0e35455-0875-41dc-976b-3eaf131db078": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "f0b683d4-eea3-410f-98e2-347d9a4ff59e": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          }
+        },
+        "block_order": [
+          "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
+          "a0e35455-0875-41dc-976b-3eaf131db078",
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb",
+          "f0b683d4-eea3-410f-98e2-347d9a4ff59e"
+        ],
+        "settings": {
+          "title_t": "LOS FAVORITOS",
+          "description": "<p>CONOZCA NUESTROS PRODUCTOS MÁS VENDIDOS<\/p>",
+          "container": true,
+          "title_alignment": "text-center",
+          "title": false,
+          "cortitlec": "#ffffff",
+          "corhover": "#9433ff",
+          "cor_bg": "#ffffff",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": false,
+          "carousel_interval": 4,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "300",
+          "img_height": "300",
+          "img_thumbnail": false,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 4,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 4,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 0
+        }
+      },
+      "163057394140c7594d": {
+        "type": "escassez",
+        "disabled": true,
+        "settings": {
+          "title": "Oferta do Dia",
+          "oferta": "#363636",
+          "subt": "<p>Todos os dias produtos especiais para você. Mas corre que é por tempo limitado!<\/p>",
+          "ofertabg": "#ffffff",
+          "ofertalink": "#28ba86",
+          "stopwatch-type": "black-moving",
+          "padding_top": 2,
+          "padding_bottom": 3,
+          "margin_top": 4,
+          "margin_bottom": 3
+        }
+      },
+      "page-template-faq": {
+        "type": "page-template-faq",
+        "blocks": {
+          "page-template-faq-2": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Es confiable este sitio?",
+              "description": "<p>¡Sí!  Trabajamos con la plataforma de seguridad de comercio electrónico más grande del mundo, Shopify.<\/p><p>Nuestro sitio cuenta con la seguridad SSL que es obligatoria por ley para todas las tiendas online en Colombia pues cifra todas las transacciones efectuadas en el sitio garantizando sigilo de toda información.<\/p>"
+            }
+          },
+          "c6899772-2fdc-4314-a5ad-7a0303e838fb": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Cuánto se demora en llegar mi pedido una vez haga la compra?",
+              "description": "<p>Los pedidos si son hechos antes de las 3 p.m., se despachan el mismo día y el tiempo de entrega depende de la ciudad destino, para las ciudades principales es de 2 a 3 días hábiles y el resto de ciudades 1 a 5 días hábiles.<\/p>"
+            }
+          },
+          "8b43011d-e073-4e15-8f0e-52144c579ce1": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Cuánto cuestan los envíos?",
+              "description": "<p>Nuestros envíos son TOTALMENTE GRATIS para cualquier parte de Colombia.<\/p>"
+            }
+          },
+          "page-template-faq-1": {
+            "type": "faq",
+            "settings": {
+              "title": "Si hago mi orden hoy, ¿Cuando estaría recibiendo mi pedido?",
+              "description": "<p>Si haces el pedido antes de las 12 a.m, tu pedido sería despachado el mismo día, llegándote el pedido, si es a ciudades principales entre 2 o 3 días hábiles y a las demás ciudades o municipios entre 3 o 5 días hábiles.<\/p>"
+            }
+          },
+          "page-template-faq-0": {
+            "type": "faq",
+            "settings": {
+              "title": "¿Puedo hacer un pedido como regalo para otra persona?",
+              "description": "<p>Al hacer el pedido como un regalo para alguien, asegúrese de ingresar su dirección de correo electrónico para recibir toda la información del resumen, pero ingrese el nombre del destinatario y la información de envío. Mantendremos todos los precios e ingresos fuera del paquete.<\/p>"
+            }
+          },
+          "page-template-faq-3": {
+            "type": "faq",
+            "settings": {
+              "title": "Acabo de comprarlo, pero renuncié a la compra. ¿Puedo solicitar la cancelación?",
+              "description": "<p>Por supuesto (: Nos entristece su solicitud de cancelación, pero podemos arreglarlo sin problemas. Para ello, es necesario que nos envíe un email solicitando la cancelación antes de que se procese el envío de la compra.<\/p><p>Para que sea más seguro que haya la cancelación, por favor envíenos un email en un plazo de 24 horas después de realizada su compra.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-template-faq-2",
+          "c6899772-2fdc-4314-a5ad-7a0303e838fb",
+          "8b43011d-e073-4e15-8f0e-52144c579ce1",
+          "page-template-faq-1",
+          "page-template-faq-0",
+          "page-template-faq-3"
+        ],
+        "settings": {
+          "description": "<p>Si no ha encontrado respuesta a su pregunta, no dude en contactarnos por e-mail<\/p>",
+          "page_max_width": ""
+        }
+      },
+      "page-template-contato": {
+        "type": "page-template-contato",
+        "blocks": {
+          "page-template-contato-0": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "Dias úteis",
+              "description": "<p>Segunda-feira sexta-feira<\/p>"
+            }
+          },
+          "page-template-contato-1": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "Jornada de trabalho",
+              "description": "<p>09:00 - 16:00<\/p>"
+            }
+          },
+          "page-template-contato-2": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "Prefere ligar?",
+              "description": "<p><a href=\"tel:6390000-0000\" title=\"tel:690000-0000\">tel:63 9 0000-0000<\/a><\/p>"
+            }
+          },
+          "page-template-contato-3": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "Outro Bloco",
+              "description": "<p>Escreva algo importante<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "page-template-contato-0",
+          "page-template-contato-1",
+          "page-template-contato-2",
+          "page-template-contato-3"
+        ],
+        "settings": {
+          "description": "<p>Estamos para poder ayudarte, cualquier duda que tengas, que tengas un hermoso día<\/p>",
+          "show_google_maps": false,
+          "google_maps_title": "Endereço físico",
+          "google_maps_description": "<p>Brasilia, DF<\/p>",
+          "google_maps": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d292333.9842040409!2d-48.049138164105614!3d-15.699312822112349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3d18df9ae275%3A0x738470e469754a24!2zQnJhc8OtbGlhLCBERg!5e0!3m2!1spt-BR!2sbr!4v1624808606180!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"><\/iframe>"
+        }
+      },
+      "f2995eb4-3cf7-4854-b5ba-bcbd636fac5d": {
+        "type": "featured-collection",
+        "blocks": {
+          "fd7a79bd-7c82-4876-b2c9-de43c78c2f9b": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage",
+              "tab_title": ""
+            }
+          }
+        },
+        "block_order": [
+          "fd7a79bd-7c82-4876-b2c9-de43c78c2f9b"
+        ],
+        "settings": {
+          "title": "Coleção - 03",
+          "description": "<p>Descrição para sua coleção<\/p>",
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "tabs_alignment": "justify-content-center",
+          "container": true,
+          "limit": "15",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": false,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": false,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "no_show_rating_name": true,
+          "show_price": true,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 4,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 4
+        }
+      },
+      "8b1882d1-419a-4cdb-ba8e-b0426d3e9636": {
+        "type": "featured-collection",
+        "blocks": {
+          "7675623e-d7f5-485f-96b7-9c9032ae0c6d": {
+            "type": "collection",
+            "settings": {
+              "collection": "kits",
+              "tab_title": ""
+            }
+          },
+          "2e244ce3-fcfc-4cd0-8157-93dbe98343ad": {
+            "type": "collection",
+            "disabled": true,
+            "settings": {
+              "collection": "bolsas-femininas",
+              "tab_title": "Bolsas Femininas"
+            }
+          }
+        },
+        "block_order": [
+          "7675623e-d7f5-485f-96b7-9c9032ae0c6d",
+          "2e244ce3-fcfc-4cd0-8157-93dbe98343ad"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Super Ofertas",
+          "description": "<p>Não perca esta oportunidade, confira nossas ofertas imperdíveis<\/p>",
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "tabs_alignment": "justify-content-center",
+          "container": true,
+          "limit": "15",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": false,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": false,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "no_show_rating_name": true,
+          "show_price": true,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 5,
+          "padding_top": 3,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 4
+        }
+      },
+      "24f39d80-043a-47ff-bdfb-1f72e2979461": {
+        "type": "featured-collection",
+        "blocks": {
+          "18ac8afa-66ac-4c6a-b73f-a7aef87504d9": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage",
+              "tab_title": ""
+            }
+          }
+        },
+        "block_order": [
+          "18ac8afa-66ac-4c6a-b73f-a7aef87504d9"
+        ],
+        "settings": {
+          "title": "Coleção - 01",
+          "description": "<p>Descrição para sua coleção<\/p>",
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "tabs_alignment": "justify-content-center",
+          "container": true,
+          "limit": "15",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": false,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": false,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "no_show_rating_name": true,
+          "show_price": true,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 4,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 4
+        }
+      },
+      "product-template-ik": {
+        "type": "product-template-ik",
+        "blocks": {
+          "product-template-ik-0": {
+            "type": "product_desc",
+            "settings": {
+              "title": "Detalhes"
+            }
+          }
+        },
+        "block_order": [
+          "product-template-ik-0"
+        ],
+        "settings": {
+          "title_font_size": 25,
+          "show_share_button": false,
+          "show_valor_parcelado": false,
+          "show_vendor": false,
+          "frete": true,
+          "show_type": true,
+          "show_sku": false,
+          "show_qty": false,
+          "show_add_to_cart_button": false,
+          "show_buy_it_now_button": true,
+          "desconto": true,
+          "enable_texto_economize": false,
+          "text_economize": "Economize",
+          "size_text_economize": "12px",
+          "size_text_12x": "18px",
+          "enable_pix_discount": true,
+          "pix_first_text": "Até",
+          "pix_second_text": "5% OFF",
+          "pix_third_text": "no PIX!",
+          "enable_timer": false,
+          "time_limit": "",
+          "size_text": "18px",
+          "size_timer": "18px",
+          "size_timer_text": "14px",
+          "text_timer": "<p><strong>OFERTA ACABA EM:<\/strong><\/p>",
+          "show_payment_icons": true,
+          "show_social_sharing": false,
+          "show_tags": false,
+          "add_to_cart_btn_animation": "animate__shakeX",
+          "img_width": "720",
+          "img_height": "720",
+          "img_thumbnail": false,
+          "image_gallery_controls": false,
+          "image_gallery_thumbnails": true,
+          "image_gallery_thumbnails_auto_play": false,
+          "image_gallery_interval": 5,
+          "image_gallery_progress_bar": true,
+          "image_gallery_progress_bar_color": "bg-custom-gradient",
+          "image_gallery_transition": "slide",
+          "image_gallery_fancybox_animation_effect": "zoom",
+          "image_gallery_fancybox_animation_duration": "300",
+          "image_gallery_fancybox_transition_effect": "tube",
+          "image_gallery_fancybox_transition_duration": "600",
+          "color_swatches_enabled": true,
+          "show_badge_mostsell": true,
+          "show_badge_moreeconomy": true,
+          "badge_mostsell_position": 2,
+          "badge_moreeconomy_position": 3,
+          "color_kit_main": "#28ba86",
+          "color_kit_badge_mostsell": "#ff6500",
+          "color_kit_badge_discount": "#c11b1b",
+          "color_kit_badge_moreeconomy": "#ffc107",
+          "color_kit_badge_soldout": "#333333",
+          "swatch_quadrado": false,
+          "size_swatch": "55px",
+          "variant_swatch_color_name": "Escolha a cor",
+          "inventory_bar_enable": true,
+          "inventory_bar_low_no": "5",
+          "inventory_bar_has_stock_color": "bg-warning",
+          "delivery_time": true,
+          "entrega_estimada_color": "#28ba86",
+          "textofrete": "Envio Expresso",
+          "delivery_time_text": "Receba entre:",
+          "enabled-address": true,
+          "enable_garantia": true,
+          "garantia_text_one": "Pagamento parcelado em até 12x",
+          "garantia_text_two": "",
+          "enable_troca": true,
+          "troca_text_one": "Rastreamento Disponível em até 3 dias",
+          "troca_text_two": "",
+          "troca_cor_one": "#0086ff",
+          "troca_cor": "#808080",
+          "size_text_frete": "14px",
+          "delivery_time_min_days": 3,
+          "delivery_time_max_days": 7,
+          "vendidos": false,
+          "vendidos_texto": "unidades vendidas |",
+          "vendidos_cor": "#e22120",
+          "measure-modal-text": "Escrever aqui o texto",
+          "blackfriday_toggle": false,
+          "blackfriday_date": "11\/04\/2022 (Salve para mudar a data)",
+          "blackfriday_backgroundcolor": "#0d0d0d",
+          "blackfriday_backgroundcolor-bottom": "#f82424",
+          "blackfriday_backgroundcolor-text": "#ffffff",
+          "blackfriday_svg_color": "#e22519"
+        }
+      },
+      "94bcf2f4-8f06-4dcd-b095-19705ff8ef42": {
+        "type": "blog-posts",
+        "disabled": true,
+        "settings": {
+          "blog": "blog-loja-happenz",
+          "title": "Postagens no blog",
+          "description": "<p>Escreva algo cativante aqui<\/p>",
+          "container": true,
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "show_author": false,
+          "show_date": false,
+          "show_comments": false,
+          "show_excerpt": true,
+          "excerpt_length": "100",
+          "show_readmore": false,
+          "readmore_color": "btn-outline-primary",
+          "readmore_size": "",
+          "img_width": "450",
+          "img_height": "450",
+          "img_thumbnail": true,
+          "limit": 4,
+          "row_mobile": 2,
+          "row_tablet": 2,
+          "row_desktop": 3,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
+      },
+      "feb04c96-3d6b-4c8e-baf0-806a3cb468bd": {
+        "type": "instagram-gallery",
+        "blocks": {
+          "f48fa75f-92d5-4b2b-8f0d-f3c36e337d77": {
+            "type": "post",
+            "settings": {
+              "description": "<p>teste<\/p>",
+              "url": "https:\/\/www.instagram.com\/reel\/Co3UEHBAUP9\/?utm_source=ig_web_copy_link"
+            }
+          }
+        },
+        "block_order": [
+          "f48fa75f-92d5-4b2b-8f0d-f3c36e337d77"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Instagram da Loja",
+          "description": "<p>Escreva alguma coisa aqui.<\/p>",
+          "title_size": "h4",
+          "title_alignment": "text-center",
+          "container": true,
+          "bg_light": true,
+          "follow_btn_url": "",
+          "follow_btn_text": "Seguir",
+          "follow_btn_color": "btn-outline-primary",
+          "follow_btn_size": "",
+          "img_width": "500",
+          "img_height": "700",
+          "img_thumbnail": false,
+          "show_modal": true,
+          "row_mobile": 2,
+          "row_tablet": 3,
+          "row_desktop": 6,
+          "padding_top": 8,
+          "padding_bottom": 8,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
+      },
+      "ryviu-widget": {
+        "type": "ryviu-widget",
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+      "160933884071eee85d",
+      "8b1882d1-419a-4cdb-ba8e-b0426d3e9636",
+      "163057394140c7594d",
+      "24f39d80-043a-47ff-bdfb-1f72e2979461",
+      "1609370220a8149c9d",
+      "f2995eb4-3cf7-4854-b5ba-bcbd636fac5d",
+      "1610178560d1807d19",
+      "1629938086ae988321",
+      "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
+      "feb04c96-3d6b-4c8e-baf0-806a3cb468bd"
+    ]
+  },
+  "presets": {
+    "Default": {
+    }
+  }
+}
