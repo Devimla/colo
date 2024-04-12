@@ -367,7 +367,8 @@
         "type": "newsletter",
         "custom_css": [
           ".btn-danger {background-color: #1773b0; color: #fff; border-radius: 40px !important; border-color: #fff;}",
-          ".form-control {border-radius: 40px !important;}"
+          ".form-control {border-radius: 40px !important;}",
+          ".my-newsletter {background-color: #fff159;}"
         ],
         "settings": {
           "title": "¡Consigue hasta un 10% de descuento!",
