@@ -108,7 +108,7 @@
         "settings": {
           "menu_flut": true,
           "bg": "#fafafa",
-          "menulink": "#1773b0",
+          "menulink": "#202020",
           "bglink": "#1773b0",
           "peslink": "#1773b0",
           "shadow": "shadow-sm",
