@@ -181,9 +181,9 @@
           ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}"
         ],
         "settings": {
-          "bg": "#fff159",
+          "bg": "#000000",
           "cortit": "#1773b0",
-          "bglink": "#333333",
+          "bglink": "#ffffff",
           "container": true,
           "show_social_icons": false,
           "social_icon_animate": "animate__tada",
