@@ -17196,13 +17196,13 @@ body .jdgm-rev-widg .disabled.btn_c.jdgm-write-rev-link, body #cookie-bar .disab
 
 .btn-outline-primary, body .jdgm-rev-widg .jdgm-ask-question-btn,
 body .jdgm-rev-widg .jdgm-write-rev-link, body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview {
-  border-color: var(--color-primary);
-  color: var(--color-primary);
+  border-color: #1773B0;
+  color: #1773B0;
 }
 .btn-outline-primary:hover, body .jdgm-rev-widg .jdgm-ask-question-btn:hover,
 body .jdgm-rev-widg .jdgm-write-rev-link:hover, body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:hover {
-  background-color: var(--color-primary);
-  border-color: var(--color-primary);
+  background-color: #1773B0;
+  border-color: #1773B0;
 }
 .btn-outline-primary.focus, body .jdgm-rev-widg .focus.jdgm-ask-question-btn,
 body .jdgm-rev-widg .focus.jdgm-write-rev-link, body .spr-container .spr-header .spr-summary-actions .focus.spr-summary-actions-newreview, .btn-outline-primary:focus, body .jdgm-rev-widg .jdgm-ask-question-btn:focus,
