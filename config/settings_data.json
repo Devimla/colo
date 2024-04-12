@@ -366,7 +366,6 @@
       "1610178560d1807d19": {
         "type": "newsletter",
         "custom_css": [
-          ".btn-danger {background-color: #1773b0; color: #fff; border-radius: 40px !important; border-color: #1773b0;}",
           ".form-control {border-radius: 40px !important;}",
           ".my-newsletter {background-color: #fff159;}"
         ],
