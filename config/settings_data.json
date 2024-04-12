@@ -384,6 +384,9 @@
       },
       "cart-template": {
         "type": "cart-template",
+        "custom_css": [
+          ".justify-content-center {display: none !important;}"
+        ],
         "settings": {
           "description": "<p>Tem perguntas? Por favor <a href=\"\/pages\/pagina-de-contato\" title=\"Página de contato\">Contate-Nos<\/a><\/p>",
           "img_width": "360",
