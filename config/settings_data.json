@@ -138,18 +138,11 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "65fab46b-2e97-4790-a557-50eb630a10db": {
-            "type": "link_list",
-            "settings": {
-              "menu": "",
-              "title": "Nuestras políticas"
-            }
-          },
           "aded85c1-53fd-4ded-9bf7-e3cbfe2a3218": {
             "type": "link_list",
             "settings": {
               "menu": "footer",
-              "title": "Servicio al cliente"
+              "title": "Nuestras políticas"
             }
           },
           "ae528aaa-8976-4a00-8ebb-6576e682cb7a": {
@@ -175,7 +168,6 @@
           }
         },
         "block_order": [
-          "65fab46b-2e97-4790-a557-50eb630a10db",
           "aded85c1-53fd-4ded-9bf7-e3cbfe2a3218",
           "ae528aaa-8976-4a00-8ebb-6576e682cb7a",
           "fc75088f-639f-44a2-bb97-fbbd94157751"
