@@ -18921,7 +18921,6 @@ article.product .product-price {
 }
 
 ul.color-swatches {
-  display: none !important;
   margin-left: -0.125rem;
   margin-right: -0.125rem;
 }
@@ -18931,6 +18930,7 @@ ul.color-swatches li.color-swatches-item {
 }
 ul.color-swatches li.color-swatches-item label {
   cursor: pointer;
+  display: none !important;
 }
 ul.color-swatches li.color-swatches-item label .color-swatches-badge-wrapper {
   display: inline-block;
