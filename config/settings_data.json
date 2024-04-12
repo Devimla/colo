@@ -189,6 +189,7 @@
           "social_icon_animate": "animate__tada",
           "heading_size": "h6",
           "show_about_us": true,
+          "about_logo": "shopify:\/\/shop_images\/1024.png",
           "about_logo_height": "140",
           "about_description": "<p>Nuestra tienda online se creó pensando en usted, para ser una tienda innovadora en Internet, que ofrezca los mejores productos y servicios.<\/p>",
           "about_email": "",
