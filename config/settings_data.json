@@ -177,6 +177,9 @@
           "ae528aaa-8976-4a00-8ebb-6576e682cb7a",
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
+        "custom_css": [
+          ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}"
+        ],
         "settings": {
           "bg": "#000000",
           "cortit": "#1773b0",
