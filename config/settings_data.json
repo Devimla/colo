@@ -102,6 +102,9 @@
       },
       "navbar": {
         "type": "navbar",
+        "custom_css": [
+          ".nav-item d-xl-none {display: none;}"
+        ],
         "settings": {
           "menu_flut": true,
           "bg": "#fafafa",
