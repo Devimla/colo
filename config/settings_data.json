@@ -130,8 +130,8 @@
           "color-bar-bottom-three": "#004369",
           "show_icon_cart": true,
           "cart_icon_icon": "bag",
-          "cart_icon_badge_color_empty": "#59419f",
-          "cart_icon_badge_color_has_items": "#e22120",
+          "cart_icon_badge_color_empty": "#1773b0",
+          "cart_icon_badge_color_has_items": "#fff159",
           "cart_icon_animate_class": "animate__wobble"
         }
       },
