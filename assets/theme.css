@@ -19804,7 +19804,7 @@ body .spr-container .form-opac textarea[class*=spr-form-input]:focus, .form-opac
 .form-opac body .jdgm-widget textarea:focus,
 body .jdgm-widget .form-opac textarea:focus {
   color: rgba(255, 255, 255, 0.904) !important;
-  background: rgba(255, 255, 255, 0.13) !important;
+  background: #FFF !important;
   background-clip: padding-box;
   box-shadow: 0 0 0 0.2rem rgba(125, 177, 255, 0.25) !important;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;

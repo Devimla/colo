@@ -16,7 +16,7 @@
     "color_border_button_add_cart": "#d2d2d2",
     "color_text_button_add_cart": "#6c6c6c",
     "color_text": "#545454",
-    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "favicon": "shopify:\/\/shop_images\/icon_transparent.png",
     "buttons_forms_radius": 2,
     "font_headings": "montserrat_n4",
     "parcelamento_enable": false,
@@ -87,12 +87,12 @@
         "type": "topbar",
         "settings": {
           "topbar_display": true,
-          "announcement_homepage": true,
+          "announcement_homepage": false,
           "container": true,
-          "topbg": "#0e0e0e",
-          "toplink": "#ffffff",
+          "topbg": "#fff159",
+          "toplink": "#000000",
           "topbar_dis": true,
-          "announcement_content": "ESTA SEMANA; Envío <b>GRATIS!<\/b> 🚚 a toda<b> COLOMBIA<\/b> 🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
+          "announcement_content": "Envío <b>GRATIS!<\/b> 🚚 a toda<b> COLOMBIA<\/b> 🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
           "announcement_animate": true,
           "announcement_animate_name": "animate__headShake",
           "anuncio_img": false,
@@ -102,12 +102,15 @@
       },
       "navbar": {
         "type": "navbar",
+        "custom_css": [
+          ".nav-item d-xl-none {display: none;}"
+        ],
         "settings": {
           "menu_flut": true,
           "bg": "#fafafa",
-          "menulink": "#272727",
-          "bglink": "#fd8a03",
-          "peslink": "#333333",
+          "menulink": "#1773b0",
+          "bglink": "#1773b0",
+          "peslink": "#1773b0",
           "shadow": "shadow-sm",
           "cor_box": "form-transparent",
           "container": true,
@@ -117,7 +120,7 @@
           "menu_position": "mx-auto",
           "menu_dropdown_animation": "animate__pulse",
           "menu_dropdown_animation_speed": "animate__faster",
-          "fone": "",
+          "fone": "525353537",
           "email": "email@latienda-mix.com",
           "wishlist_icon_bubble_color": "#ff8c00",
           "wishlist_icon_animate_class": "animate__bounce",
@@ -127,8 +130,8 @@
           "color-bar-bottom-three": "#004369",
           "show_icon_cart": true,
           "cart_icon_icon": "bag",
-          "cart_icon_badge_color_empty": "#59419f",
-          "cart_icon_badge_color_has_items": "#e22120",
+          "cart_icon_badge_color_empty": "#1773b0",
+          "cart_icon_badge_color_has_items": "#fff159",
           "cart_icon_animate_class": "animate__wobble"
         }
       },
@@ -178,7 +181,8 @@
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
         "custom_css": [
-          ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}"
+          ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}",
+          ".form-opac .form-control {background: #fff !important; border: 1px #fff !important;}"
         ],
         "settings": {
           "bg": "#000000",
