@@ -6,7 +6,7 @@
 .lead {
   font-size: 12px;}
 
-span.nav-item-cart-badge.badge.text-white.ml-1.animate__wobble { padding: 3px 3px 3px 4px; background-color: #1773B0 !important;}
+span.nav-item-cart-badge.badge.text-white.ml-1.animate__wobble { padding: 3px 3px 3px 4px; background-color: #1773B0; color: #000 !important;}
 
 .navbar-expand-xl .navbar-collapse {
   text-transform: uppercase;}
