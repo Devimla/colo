@@ -179,7 +179,7 @@
         ],
         "settings": {
           "bg": "#000000",
-          "cortit": "#fbc02d",
+          "cortit": "#1773b0",
           "bglink": "#f4f4f4",
           "container": true,
           "show_social_icons": false,
