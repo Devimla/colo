@@ -455,6 +455,10 @@
         "block_order": [
           "product-template-0"
         ],
+        "custom_css": [
+          "ul.color-swatches li.color-swatches-item label {display: none;}",
+          ".d-block {display: none !important;}"
+        ],
         "settings": {
           "title_font_size": 25,
           "show_share_button": false,
@@ -466,8 +470,8 @@
           "show_qty": true,
           "show_add_to_cart_button": true,
           "show_buy_it_now_button": true,
-          "desconto": true,
-          "enable_texto_economize": true,
+          "desconto": false,
+          "enable_texto_economize": false,
           "text_economize": "Ahorra",
           "size_text_economize": "12px",
           "size_text_12x": "18px",
