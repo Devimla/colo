@@ -2954,8 +2954,8 @@ body .jdgm-rev-widg .show > .dropdown-toggle.btn_c.jdgm-write-rev-link:focus, bo
 
 .btn-danger {
   color: #fff;
-  background-color: var(--azulpadrao);
-  border-color: var(--azulpadrao);
+  background-color: #1773B0;
+  border-color: #1773B0;
   border-radius: 40px !important;
 }
 
