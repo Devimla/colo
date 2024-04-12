@@ -18928,10 +18928,12 @@ ul.color-swatches {
 ul.color-swatches li.color-swatches-item {
   margin: 0.125rem;
 }
+
 ul.color-swatches li.color-swatches-item label {
   cursor: pointer;
   display: none !important;
 }
+
 ul.color-swatches li.color-swatches-item label .color-swatches-badge-wrapper {
   display: inline-block;
   border: 2px solid transparent;
