@@ -18921,6 +18921,7 @@ article.product .product-price {
 }
 
 ul.color-swatches {
+  display: none !important;
   margin-left: -0.125rem;
   margin-right: -0.125rem;
 }
