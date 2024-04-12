@@ -181,8 +181,8 @@
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
         "custom_css": [
-          ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}",
-          ".form-opac .form-control {background: #fff !important; border: 1px #fff !important;}"
+          ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159; border-radius: 0px 40px 40px 0px !important;}",
+          ".form-opac .form-control {background: #fff !important; border: 1px #fff !important; border-radius: 40px 0px 0px 40px !important;}"
         ],
         "settings": {
           "bg": "#000000",
