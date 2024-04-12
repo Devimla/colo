@@ -483,7 +483,7 @@
           "add_to_cart_btn_animation": "animate__bounce",
           "img_width": "750",
           "img_height": "720",
-          "img_thumbnail": false,
+          "img_thumbnail": true,
           "image_gallery_controls": false,
           "image_gallery_thumbnails": true,
           "image_gallery_thumbnails_auto_play": false,
