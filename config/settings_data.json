@@ -105,9 +105,9 @@
         "settings": {
           "menu_flut": true,
           "bg": "#fafafa",
-          "menulink": "#272727",
-          "bglink": "#fd8a03",
-          "peslink": "#333333",
+          "menulink": "#1773b0",
+          "bglink": "#1773b0",
+          "peslink": "#1773b0",
           "shadow": "shadow-sm",
           "cor_box": "form-transparent",
           "container": true,
@@ -179,7 +179,7 @@
         ],
         "custom_css": [
           ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}",
-          ".form-opac .form-control {background: #fff !important; border: 1px #FFF !important;}"
+          ".form-opac .form-control {background: #fff !important; border: 1px #fff !important;}"
         ],
         "settings": {
           "bg": "#000000",
