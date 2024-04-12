@@ -485,7 +485,7 @@
           "img_height": "750",
           "img_thumbnail": true,
           "image_gallery_controls": false,
-          "image_gallery_thumbnails": false,
+          "image_gallery_thumbnails": true,
           "image_gallery_thumbnails_auto_play": false,
           "image_gallery_interval": 5,
           "image_gallery_progress_bar": false,
