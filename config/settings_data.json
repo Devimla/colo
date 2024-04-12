@@ -464,7 +464,7 @@
           "show_type": true,
           "show_sku": false,
           "show_qty": true,
-          "show_add_to_cart_button": true,
+          "show_add_to_cart_button": false,
           "show_buy_it_now_button": true,
           "desconto": false,
           "enable_texto_economize": false,
