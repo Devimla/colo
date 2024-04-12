@@ -155,7 +155,7 @@ h3.title-mobile-infobar {
   
 .title-my-newsletter { font-size: 17px !important; color: var(--azulpadrao); font-weight: bold;} 
   
-.text-muted { font-size: 11px; line-height: 17px; 
+.text-muted { font-size: 14px; line-height: 17px; 
   text-transform: uppercase; letter-spacing: .1em; color: #333}
 
 h3.product-title.h6.mb-1 a { 
