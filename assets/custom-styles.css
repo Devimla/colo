@@ -1,6 +1,4 @@
 :root {
-
-  --blue: #1773B0;
   --azulpadrao: #1773B0;
   --amareloml: #fff159;
 }
@@ -154,7 +152,7 @@ h3.title-mobile-infobar {
 
 .font-uppercase { text-transform: uppercase; font-size: 12px; letter-spacing: .1em;}
   
-.title-my-newsletter { font-size: 17px !important; color: var(--azulpadrao)} 
+.title-my-newsletter { font-size: 17px !important; color: var(--azulpadrao); font-weight: bold;} 
   
 .text-muted { font-size: 11px; line-height: 17px; 
   text-transform: uppercase; letter-spacing: .1em;}
