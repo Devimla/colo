@@ -67,7 +67,7 @@
     "toast_position": "bottom-right",
     "toast_delay": 15,
     "toast_btn_color": "#ff0000",
-    "cookie_bar_enable": true,
+    "cookie_bar_enable": false,
     "cookie_bar_lang": "es",
     "cookie_bar_no_geoip": true,
     "cookie_bar_show_details_btn": false,
