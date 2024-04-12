@@ -16,7 +16,10 @@
 
 
 :root {
-  --blue: #007bff;
+
+  --blue: #1773B0;
+  --azulpadrao: #1773B0;
+  --amareloml: #fff159;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -2951,8 +2954,9 @@ body .jdgm-rev-widg .show > .dropdown-toggle.btn_c.jdgm-write-rev-link:focus, bo
 
 .btn-danger {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: var(--azulpadrao);
+  border-color: var(--azulpadrao);
+  border-radius: 40px !important;
 }
 .btn-danger:hover {
   color: #fff;
