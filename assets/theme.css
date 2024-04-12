@@ -7832,7 +7832,7 @@ button.bg-dark:focus {
 }
 
 .d-block {
-  display: block !important;
+  display: none !important;
 }
 
 .d-table {
