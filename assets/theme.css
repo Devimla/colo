@@ -2409,9 +2409,7 @@ input[type=radio]:hover + label {
 }
 
 .variavel-cor {
-  background-color: rgba(var(--color-variante), 0.1);
-  border: 0.1rem solid rgba(var(--color-variante), 0.2);
-  color: rgba(var(--color-variante));
+  color: #1773B0;
   border-radius: 5px;
   padding: 7px;
 }
