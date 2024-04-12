@@ -2958,6 +2958,7 @@ body .jdgm-rev-widg .show > .dropdown-toggle.btn_c.jdgm-write-rev-link:focus, bo
   border-color: var(--azulpadrao);
   border-radius: 40px !important;
 }
+
 .btn-danger:hover {
   color: #fff;
   background-color: #c82333;
