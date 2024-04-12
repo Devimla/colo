@@ -370,7 +370,7 @@
           "description": "<p>Sea el primero en recibir notificaciones sobre nuestras ofertas.<\/p>",
           "note": "",
           "bg_color": "bg-white text-body",
-          "btn_color": "btn-primary",
+          "btn_color": "btn-danger",
           "btn_size": "btn-lg",
           "padding_top": 5,
           "padding_bottom": 6,
