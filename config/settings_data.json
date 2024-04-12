@@ -182,7 +182,8 @@
         ],
         "custom_css": [
           ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159; border-radius: 0px 40px 40px 0px !important;}",
-          ".form-opac .form-control {background: #fff !important; border: 1px #fff !important; border-radius: 40px 0px 0px 40px !important;}"
+          ".form-opac .form-control {background: #fff !important; border: 1px #fff !important; border-radius: 40px 0px 0px 40px !important;}",
+          ".payment-list {display: none !important;}"
         ],
         "settings": {
           "bg": "#000000",
@@ -200,7 +201,7 @@
           "about_phone": "",
           "bg2": "#000000",
           "cortitle2": "#ffffff",
-          "titlepg": "Métodos de pago",
+          "titlepg": "",
           "titleseg": "Seguridad y calidad",
           "store_name": "La Tienda Mix",
           "enable_cnpj": false,
