@@ -17144,8 +17144,8 @@ body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:disabled, body #cookie-bar #cooki
 .shopify-challenge__container body .jdgm-rev-widg .disabled.jdgm-write-rev-link,
 body .jdgm-rev-widg .shopify-challenge__container .disabled.jdgm-write-rev-link, body .disabled.btn.btn_c, body .shopify-payment-button .disabled.btn_c.shopify-payment-button__button, .shopify-payment-button body .disabled.btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .disabled.btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .disabled.btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .disabled.btn_c.jdgm-write-rev-link, body #cookie-bar .disabled#cookie-bar-button {
-  background-color: var(--color-primary-lighten-10);
-  border-color: var(--color-primary-lighten-10) !important;
+  background-color: #1773B0;
+  border-color: #1773B0 !important;
 }
 
 .btn-secondary {
