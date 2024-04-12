@@ -179,7 +179,7 @@
         ],
         "custom_css": [
           ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159;}",
-          ".form-opac .form-control {background: #fff !important;}"
+          ".form-opac .form-control {background: #fff !important; border: 1px #FFF !important;}"
         ],
         "settings": {
           "bg": "#000000",
