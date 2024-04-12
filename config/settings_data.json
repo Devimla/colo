@@ -493,7 +493,7 @@
           "img_height": "720",
           "img_thumbnail": false,
           "image_gallery_controls": true,
-          "image_gallery_thumbnails": false,
+          "image_gallery_thumbnails": true,
           "image_gallery_thumbnails_auto_play": false,
           "image_gallery_interval": 5,
           "image_gallery_progress_bar": false,
