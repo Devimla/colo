@@ -173,3 +173,8 @@ h1.product-title.mt-2.mb-1 {
 ul.color-swatches li.color-swatches-item {
     margin: 0.22rem 0.125rem;}
 }
+.jdgm-rev {
+  background: red !important;
+  margin: 10px !important;
+  padding: 5px !important;
+}
