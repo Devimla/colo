@@ -1456,14 +1456,15 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/escola_municipal.png",
               "imagemb": "shopify:\/\/shop_images\/escola_municipal_626_x_800_px_1.png",
-              "button_url": ""
+              "button_url": "shopify:\/\/collections\/nino-y-mama"
             }
           },
           "image_47NAEN": {
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/hasta_70.png",
-              "button_url": ""
+              "imagemb": "shopify:\/\/shop_images\/hasta_70_626_x_800_px.png",
+              "button_url": "shopify:\/\/collections\/todos-los-productos"
             }
           }
         },
@@ -1481,9 +1482,9 @@
           "interval": 6,
           "autoplay_progress_bar": false,
           "autoplay_progress_bar_color": "bg-custom-gradient",
-          "transition_effect": "carousel-animate-css carousel-jack",
+          "transition_effect": "carousel-fade",
           "transition_speed": "animate__normal",
-          "lazyload": true,
+          "lazyload": false,
           "margin_top": 0,
           "margin_bottom": 9
         }
