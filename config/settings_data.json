@@ -453,7 +453,8 @@
         ],
         "custom_css": [
           "ul.color-swatches li.color-swatches-item label {display: none;}",
-          ".opacity-80 {opacity: 0;}"
+          ".opacity-80 {opacity: 0;}",
+          ".stock-plenty {display: none !important;}"
         ],
         "settings": {
           "title_font_size": 25,
