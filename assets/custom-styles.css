@@ -179,3 +179,19 @@ ul.color-swatches li.color-swatches-item {
   margin: 10px !important;
   padding: 10px !important;
 }
+.jdgm-paginate__page.jdgm-curt {
+  font-weight: bold;
+  color: #222 !important;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 2px !important;
+  padding: 4px 8px;
+  box-shadow: 0 4px 8px #0000001a;
+  display: inline-block !important;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: auto !important;
+  font-size: 150%;
+  pointer-events: none;
+}
