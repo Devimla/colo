@@ -209,54 +209,6 @@
           "show_orbe": false
         }
       },
-      "160933884071eee85d": {
-        "type": "carousel",
-        "blocks": {
-          "image_YUhFfA": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/escola_municipal.png",
-              "button_url": ""
-            }
-          },
-          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/hasta_70.png",
-              "imagemb": "shopify:\/\/shop_images\/hasta_70_626_x_800_px.png",
-              "button_url": "shopify:\/\/collections\/todos-los-productos"
-            }
-          },
-          "image_bjCqgT": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/hasta_70.png",
-              "button_url": ""
-            }
-          }
-        },
-        "block_order": [
-          "image_YUhFfA",
-          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17",
-          "image_bjCqgT"
-        ],
-        "settings": {
-          "controls": true,
-          "indicators": true,
-          "bg_color": "bg-white",
-          "backdrop": false,
-          "container": false,
-          "autoplay": true,
-          "interval": 8,
-          "autoplay_progress_bar": true,
-          "autoplay_progress_bar_color": "bg-white opacity-50",
-          "transition_effect": "",
-          "transition_speed": "animate__normal",
-          "lazyload": true,
-          "margin_top": 0,
-          "margin_bottom": 5
-        }
-      },
       "1609370220a8149c9d": {
         "type": "featured-collection",
         "blocks": {
@@ -1495,10 +1447,50 @@
         ],
         "settings": {
         }
+      },
+      "carousel_VgM9zb": {
+        "type": "carousel",
+        "blocks": {
+          "image_E3YLwE": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/escola_municipal.png",
+              "imagemb": "shopify:\/\/shop_images\/escola_municipal_626_x_800_px_1.png",
+              "button_url": ""
+            }
+          },
+          "image_47NAEN": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hasta_70.png",
+              "button_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_E3YLwE",
+          "image_47NAEN"
+        ],
+        "settings": {
+          "controls": true,
+          "indicators": true,
+          "bg_color": "bg-secondary-gradient",
+          "backdrop": false,
+          "container": false,
+          "autoplay": true,
+          "interval": 6,
+          "autoplay_progress_bar": false,
+          "autoplay_progress_bar_color": "bg-custom-gradient",
+          "transition_effect": "carousel-animate-css carousel-jack",
+          "transition_speed": "animate__normal",
+          "lazyload": true,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
       }
     },
     "content_for_index": [
-      "160933884071eee85d",
+      "carousel_VgM9zb",
       "163057394140c7594d",
       "24f39d80-043a-47ff-bdfb-1f72e2979461",
       "1609370220a8149c9d",
