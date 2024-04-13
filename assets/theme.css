@@ -19186,7 +19186,7 @@ body .jdgm-rev-widg .jdgm-write-rev-link:not(.collapsed) .jdgm-preview-badge .jd
   color: #6c757d;
 }
 .jdgm-rev {
-    background: #FFF !important;
+    background: red !important;
     margin: 10px !important;
     padding: 5px !important;
 }
