@@ -2701,7 +2701,11 @@ body .spr-container .form-inline textarea[class*=spr-form-input] {
     margin-bottom: 0;
   }
 }
-
+.jdgm-rev {
+    background: red !important;
+    margin: 10px !important;
+    padding: 5px !important;
+}
 .btn, body .btn.btn_c, body .shopify-payment-button .btn_c.shopify-payment-button__button, .shopify-payment-button body .btn_c.shopify-payment-button__button, body .jdgm-rev-widg .jdgm-ask-question-btn,
 body .jdgm-rev-widg .jdgm-write-rev-link, body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview, .shopify-payment-button .shopify-payment-button__button, body #cookie-bar #cookie-bar-button {
   display: inline-block;
@@ -19185,11 +19189,7 @@ body .jdgm-preview-badge .jdgm-prev-badge__text {
 body .jdgm-rev-widg .jdgm-write-rev-link:not(.collapsed) .jdgm-preview-badge .jdgm-star {
   color: #6c757d;
 }
-.jdgm-rev {
-    background: red !important;
-    margin: 10px !important;
-    padding: 5px !important;
-}
+
 .card-header .jdgm-preview-badge {
   margin-right: -0.2rem;
   font-size: 90%;
