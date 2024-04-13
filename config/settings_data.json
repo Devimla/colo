@@ -219,10 +219,19 @@
               "imagemb": "shopify:\/\/shop_images\/hasta_70_626_x_800_px.png",
               "button_url": "shopify:\/\/collections\/todos-los-productos"
             }
+          },
+          "image_3GdFFU": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/escola_municipal.png",
+              "imagemb": "shopify:\/\/shop_images\/escola_municipal_626_x_800_px_1.png",
+              "button_url": "shopify:\/\/collections\/nino-y-mama"
+            }
           }
         },
         "block_order": [
-          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17"
+          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17",
+          "image_3GdFFU"
         ],
         "settings": {
           "controls": false,
