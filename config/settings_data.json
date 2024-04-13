@@ -996,12 +996,6 @@
               "collection": "salud-y-belleza"
             }
           },
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
-            "type": "collection",
-            "settings": {
-              "collection": "todos-los-productos"
-            }
-          },
           "collection_X3p8bb": {
             "type": "collection",
             "settings": {
@@ -1025,16 +1019,22 @@
             "settings": {
               "collection": "nino-y-mama"
             }
+          },
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
+            "type": "collection",
+            "settings": {
+              "collection": "todos-los-productos"
+            }
           }
         },
         "block_order": [
           "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
           "a0e35455-0875-41dc-976b-3eaf131db078",
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb",
           "collection_X3p8bb",
           "collection_JQGYnk",
           "collection_MNFja8",
-          "collection_ifBgRW"
+          "collection_ifBgRW",
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb"
         ],
         "custom_css": [
           ".mb-2 .my-2 {margin-bottom: -2rem !important;}",
