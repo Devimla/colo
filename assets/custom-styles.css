@@ -199,16 +199,11 @@ ul.color-swatches li.color-swatches-item {
 .jdgm-paginate__page {
   color: #333 !important;
 }
-.jdgm-sort-dropdown-wrapper {
+.jdgm-sort-dropdown {
   float: none !important;
   position: relative !important;
   display: flex !important;
   align-items: center !important;
   justify-content: center !important; 
 }
-.jdgm-sort-dropdown-arrow {
-  position: absolute !important;
-  right: 0 !important; /* Alterado de 2px para 0 para ficar mais próximo do texto */
-  border: none !important;
-  transform: rotate(90deg) !important;
-}
+
