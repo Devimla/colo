@@ -212,3 +212,6 @@ ul.color-swatches li.color-swatches-item {
   border: none!important;
   transform: rotate(90deg)!important;
 }
+.jdgm-histogram__bar, .jdgm-histogram__bar-content {
+  border-radius: 10px;
+}
