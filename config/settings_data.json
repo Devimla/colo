@@ -1036,6 +1036,9 @@
           "collection_MNFja8",
           "collection_ifBgRW"
         ],
+        "custom_css": [
+          ".mb-2, .my-2 {margin-bottom: -2rem !important;}"
+        ],
         "settings": {
           "title_t": "Nuestras colecciones",
           "description": "",
