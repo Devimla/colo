@@ -1000,12 +1000,40 @@
             "settings": {
               "collection": "todos-los-productos"
             }
+          },
+          "collection_X3p8bb": {
+            "type": "collection",
+            "settings": {
+              "collection": "herramientas-y-utilidades"
+            }
+          },
+          "collection_JQGYnk": {
+            "type": "collection",
+            "settings": {
+              "collection": "joyas-y-semijoyas"
+            }
+          },
+          "collection_MNFja8": {
+            "type": "collection",
+            "settings": {
+              "collection": "mascota"
+            }
+          },
+          "collection_ifBgRW": {
+            "type": "collection",
+            "settings": {
+              "collection": "nino-y-mama"
+            }
           }
         },
         "block_order": [
           "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
           "a0e35455-0875-41dc-976b-3eaf131db078",
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb"
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb",
+          "collection_X3p8bb",
+          "collection_JQGYnk",
+          "collection_MNFja8",
+          "collection_ifBgRW"
         ],
         "settings": {
           "title_t": "LOS FAVORITOS",
