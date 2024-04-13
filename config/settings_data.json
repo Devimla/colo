@@ -126,8 +126,8 @@
           "wishlist_icon_animate_class": "animate__bounce",
           "bar-bottom": true,
           "color-bar-bottom-one": "#1773b0",
-          "color-bar-bottom-two": "#fff159",
-          "color-bar-bottom-three": "#004369",
+          "color-bar-bottom-two": "#59419f",
+          "color-bar-bottom-three": "#fff159",
           "show_icon_cart": false,
           "cart_icon_icon": "bag",
           "cart_icon_badge_color_empty": "#1773b0",
@@ -219,25 +219,10 @@
               "imagemb": "shopify:\/\/shop_images\/hasta_70_626_x_800_px.png",
               "button_url": "shopify:\/\/collections\/todos-los-productos"
             }
-          },
-          "a46ef124-44f1-498f-9f70-f237863836eb": {
-            "type": "image",
-            "settings": {
-              "button_url": "shopify:\/\/products\/produto-de-exemplo-2"
-            }
-          },
-          "160933884071eee85d-0": {
-            "type": "image",
-            "disabled": true,
-            "settings": {
-              "button_url": ""
-            }
           }
         },
         "block_order": [
-          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17",
-          "a46ef124-44f1-498f-9f70-f237863836eb",
-          "160933884071eee85d-0"
+          "69c9cccf-03c0-4aab-a64c-5b857b4cdf17"
         ],
         "settings": {
           "controls": false,
