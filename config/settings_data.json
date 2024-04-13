@@ -1040,7 +1040,7 @@
           "description": "<p>CONOZCA NUESTROS PRODUCTOS MÁS VENDIDOS<\/p>",
           "container": true,
           "title_alignment": "text-center",
-          "title": false,
+          "title": true,
           "cortitlec": "#ffffff",
           "corhover": "#9433ff",
           "cor_bg": "#ffffff",
