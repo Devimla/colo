@@ -220,5 +220,5 @@ ul.color-swatches li.color-swatches-item {
   border-radius: 10px !important;
 }
 .jdgm-rev__icon {
-  border-radius: 10px;
+  border-radius: 10px !important;
 }
