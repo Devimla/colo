@@ -452,8 +452,7 @@
           "product-template-0"
         ],
         "custom_css": [
-          "ul.color-swatches li.color-swatches-item label {display: none;}",
-          ".d-block {display: none !important;}"
+          "ul.color-swatches li.color-swatches-item label {display: none;}"
         ],
         "settings": {
           "title_font_size": 25,
