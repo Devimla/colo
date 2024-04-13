@@ -1263,73 +1263,14 @@
           "margin_bottom": 4
         }
       },
-      "8b1882d1-419a-4cdb-ba8e-b0426d3e9636": {
-        "type": "featured-collection",
-        "blocks": {
-          "7675623e-d7f5-485f-96b7-9c9032ae0c6d": {
-            "type": "collection",
-            "settings": {
-              "collection": "kits",
-              "tab_title": ""
-            }
-          },
-          "2e244ce3-fcfc-4cd0-8157-93dbe98343ad": {
-            "type": "collection",
-            "disabled": true,
-            "settings": {
-              "collection": "bolsas-femininas",
-              "tab_title": "Bolsas Femininas"
-            }
-          }
-        },
-        "block_order": [
-          "7675623e-d7f5-485f-96b7-9c9032ae0c6d",
-          "2e244ce3-fcfc-4cd0-8157-93dbe98343ad"
-        ],
-        "disabled": true,
-        "settings": {
-          "title": "Super Ofertas",
-          "description": "<p>Não perca esta oportunidade, confira nossas ofertas imperdíveis<\/p>",
-          "bg_light": false,
-          "title_alignment": "text-center",
-          "title_size": "h2",
-          "tabs_alignment": "justify-content-center",
-          "container": true,
-          "limit": "15",
-          "carousel_arrows": false,
-          "carousel_pagination": true,
-          "carousel_rewind": true,
-          "carousel_autoplay": false,
-          "carousel_interval": 6,
-          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
-          "carousel_speed": "400",
-          "img_width": "480",
-          "img_height": "480",
-          "img_thumbnail": false,
-          "product_title_heading_size": "h6",
-          "show_rating": true,
-          "no_show_rating_name": true,
-          "show_price": true,
-          "breakpoint_xm": 2,
-          "breakpoint_sm": 2,
-          "breakpoint_md": 3,
-          "breakpoint_lg": 3,
-          "breakpoint_xl": 4,
-          "breakpoint_xxl": 5,
-          "padding_top": 3,
-          "padding_bottom": 0,
-          "margin_top": 0,
-          "margin_bottom": 4
-        }
-      },
       "24f39d80-043a-47ff-bdfb-1f72e2979461": {
         "type": "featured-collection",
         "blocks": {
           "18ac8afa-66ac-4c6a-b73f-a7aef87504d9": {
             "type": "collection",
             "settings": {
-              "collection": "frontpage",
-              "tab_title": ""
+              "collection": "salud-y-belleza",
+              "tab_title": "Salud y belleza"
             }
           }
         },
@@ -1545,13 +1486,15 @@
       },
       "ryviu-widget": {
         "type": "ryviu-widget",
+        "custom_css": [
+          ".jdgm-carousel-title {font-size: 17px !important; color: var(--cor-primaria); font-weight: bold;}"
+        ],
         "settings": {
         }
       }
     },
     "content_for_index": [
       "160933884071eee85d",
-      "8b1882d1-419a-4cdb-ba8e-b0426d3e9636",
       "163057394140c7594d",
       "24f39d80-043a-47ff-bdfb-1f72e2979461",
       "1609370220a8149c9d",
