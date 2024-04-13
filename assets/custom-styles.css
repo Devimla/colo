@@ -196,3 +196,6 @@ ul.color-swatches li.color-swatches-item {
   font-size: 150%;
   pointer-events: none;
 }
+.jdgm-paginate__page {
+  color: var(--azulpadrao);
+}
