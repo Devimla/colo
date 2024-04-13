@@ -125,7 +125,7 @@
           "wishlist_icon_bubble_color": "#fff159",
           "wishlist_icon_animate_class": "animate__bounce",
           "bar-bottom": true,
-          "color-bar-bottom-one": "#fff159",
+          "color-bar-bottom-one": "#050a30",
           "color-bar-bottom-two": "#1773b0",
           "color-bar-bottom-three": "#fff159",
           "show_icon_cart": false,
