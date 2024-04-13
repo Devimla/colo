@@ -243,7 +243,7 @@
           "interval": 8,
           "autoplay_progress_bar": true,
           "autoplay_progress_bar_color": "bg-white opacity-50",
-          "transition_effect": "carousel-animate-css carousel-slide-up-down",
+          "transition_effect": "",
           "transition_speed": "animate__normal",
           "lazyload": true,
           "margin_top": 0,
