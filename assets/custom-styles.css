@@ -219,3 +219,6 @@ ul.color-swatches li.color-swatches-item {
 .jdgm-histogram__bar {
   border-radius: 10px !important;
 }
+.jdgm-rev__icon {
+  border-radius: 10px;
+}
