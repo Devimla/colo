@@ -1051,7 +1051,7 @@
           "carousel_arrows": true,
           "carousel_pagination": true,
           "carousel_rewind": true,
-          "carousel_autoplay": true,
+          "carousel_autoplay": false,
           "carousel_interval": 2,
           "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
           "carousel_speed": "400",
