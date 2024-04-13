@@ -1,4 +1,16 @@
 /*
     Add here your own SCSS/CSS code to override theme styles
 */
-
+.img-descricao img {
+    margin: 0 !important;
+    display: block;
+    width: 480px;
+    height: auto;
+    border-radius: 0px !important;
+  }
+  .img-brock img {
+    display: block;
+    width: 100%;
+    margin: 2px !important;
+    height: auto;
+  }
