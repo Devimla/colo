@@ -5895,9 +5895,9 @@ body #cookie-bar .input-group > .input-group-prepend:first-child > #cookie-bar-b
 }
 .img-descricao img {
   margin: 0 !important;
-  display: block;
+  display: block !important;
   width: 480px;
-  height: auto;
+  height: auto !important;
   border-radius: 0px !important;
 }
 .img-brock img {
