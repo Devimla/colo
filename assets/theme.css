@@ -2701,11 +2701,6 @@ body .spr-container .form-inline textarea[class*=spr-form-input] {
     margin-bottom: 0;
   }
 }
-.jdgm-rev {
-    background: red !important;
-    margin: 10px !important;
-    padding: 5px !important;
-}
 .img-descricao img {
     margin: 0 !important;
     display: block;
@@ -5898,7 +5893,19 @@ body #cookie-bar .input-group > .input-group-prepend:first-child > #cookie-bar-b
   min-height: 1px;
   padding: 1.25rem;
 }
-
+.img-descricao img {
+  margin: 0 !important;
+  display: block;
+  width: 480px;
+  height: auto;
+  border-radius: 0px !important;
+}
+.img-brock img {
+  display: block;
+  width: 100%;
+  margin: 2px !important;
+  height: auto;
+}
 .card-title {
   margin-bottom: 0.75rem;
 }
