@@ -1037,8 +1037,8 @@
           "collection_ifBgRW"
         ],
         "settings": {
-          "title_t": "LOS FAVORITOS",
-          "description": "<p>CONOZCA NUESTROS PRODUCTOS MÁS VENDIDOS<\/p>",
+          "title_t": "Nuestras colecciones",
+          "description": "",
           "container": true,
           "title_alignment": "text-center",
           "title": true,
