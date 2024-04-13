@@ -206,4 +206,9 @@ ul.color-swatches li.color-swatches-item {
   align-items: center !important;
   justify-content: center !important; 
 }
-
+.jdgm-sort-dropdown-arrow {
+  position: relative!important;
+  right: 25px!important;
+  border: none!important;
+  transform: rotate(90deg)!important;
+}
