@@ -215,6 +215,8 @@
           "69c9cccf-03c0-4aab-a64c-5b857b4cdf17": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/hasta_70.png",
+              "imagemb": "shopify:\/\/shop_images\/hasta_70_626_x_800_px.png",
               "button_url": ""
             }
           },
