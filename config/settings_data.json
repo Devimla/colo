@@ -90,7 +90,7 @@
           "announcement_homepage": false,
           "container": true,
           "topbg": "#1773b0",
-          "toplink": "#000000",
+          "toplink": "#ffffff",
           "topbar_dis": true,
           "announcement_content": "Envío <b>GRATIS!<\/b> 🚚 a toda<b> COLOMBIA<\/b> 🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
           "announcement_animate": true,
@@ -422,8 +422,8 @@
           "show_qty": true,
           "show_add_to_cart_button": false,
           "show_buy_it_now_button": false,
-          "desconto": false,
-          "enable_texto_economize": false,
+          "desconto": true,
+          "enable_texto_economize": true,
           "text_economize": "Ahorra",
           "size_text_economize": "12px",
           "size_text_12x": "18px",
@@ -441,12 +441,13 @@
           "show_social_sharing": false,
           "show_tags": false,
           "add_to_cart_btn_animation": "animate__bounce",
+          "imgextra": "shopify:\/\/shop_images\/506857246089544583-a39bd0a2-65cb-4003-a160-95fb0b684473.webp",
           "img_width": "750",
           "img_height": "750",
           "img_thumbnail": true,
           "image_gallery_controls": false,
           "image_gallery_thumbnails": true,
-          "image_gallery_thumbnails_auto_play": false,
+          "image_gallery_thumbnails_auto_play": true,
           "image_gallery_interval": 5,
           "image_gallery_progress_bar": false,
           "image_gallery_progress_bar_color": "bg-primary",
@@ -995,12 +996,6 @@
               "collection": "salud-y-belleza"
             }
           },
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
-            "type": "collection",
-            "settings": {
-              "collection": "todos-los-productos"
-            }
-          },
           "collection_X3p8bb": {
             "type": "collection",
             "settings": {
@@ -1024,35 +1019,46 @@
             "settings": {
               "collection": "nino-y-mama"
             }
+          },
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
+            "type": "collection",
+            "settings": {
+              "collection": "todos-los-productos"
+            }
           }
         },
         "block_order": [
           "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
           "a0e35455-0875-41dc-976b-3eaf131db078",
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb",
           "collection_X3p8bb",
           "collection_JQGYnk",
           "collection_MNFja8",
-          "collection_ifBgRW"
+          "collection_ifBgRW",
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb"
+        ],
+        "custom_css": [
+          ".mb-2 .my-2 {margin-bottom: -2rem !important;}",
+          ".title-colection {margin-top: 0; margin-bottom: 0rem;}",
+          ".collection-list-img {max-width: 100%; max-height: 150px; object-fit: cover;}"
         ],
         "settings": {
-          "title_t": "LOS FAVORITOS",
-          "description": "<p>CONOZCA NUESTROS PRODUCTOS MÁS VENDIDOS<\/p>",
+          "title_t": "Nuestras colecciones",
+          "description": "",
           "container": true,
           "title_alignment": "text-center",
           "title": true,
-          "cortitlec": "#ffffff",
+          "cortitlec": "#333333",
           "corhover": "#1773b0",
           "cor_bg": "#ffffff",
-          "carousel_arrows": false,
+          "carousel_arrows": true,
           "carousel_pagination": true,
           "carousel_rewind": true,
           "carousel_autoplay": false,
-          "carousel_interval": 4,
+          "carousel_interval": 2,
           "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
           "carousel_speed": "400",
-          "img_width": "300",
-          "img_height": "300",
+          "img_width": "150",
+          "img_height": "150",
           "img_thumbnail": true,
           "breakpoint_xm": 2,
           "breakpoint_sm": 2,
@@ -1487,7 +1493,7 @@
           "interval": 8,
           "autoplay_progress_bar": true,
           "autoplay_progress_bar_color": "bg-white",
-          "transition_effect": "carousel-fade",
+          "transition_effect": "",
           "transition_speed": "animate__normal",
           "lazyload": false,
           "margin_top": 0,
