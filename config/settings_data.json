@@ -1038,7 +1038,7 @@
         ],
         "custom_css": [
           ".mb-2 .my-2 {margin-bottom: -2rem !important;}",
-          "p {margin-top: 0; margin-bottom: 0rem;}"
+          ".title-colection {margin-top: 0; margin-bottom: 0rem;}"
         ],
         "settings": {
           "title_t": "Nuestras colecciones",
