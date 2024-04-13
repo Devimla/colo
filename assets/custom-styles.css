@@ -200,9 +200,9 @@ ul.color-swatches li.color-swatches-item {
   color: #333 !important;
 }
 .jdgm-sort-dropdown-wrapper {
-  float: none;
-  position: relative;
-  display: flex;
-  align-items: center;
+  float: none !important;
+  position: relative !important;
+  display: flex !important;
+  align-items: center !important;
   justify-content: center !important; 
 }
