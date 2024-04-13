@@ -234,8 +234,8 @@
           "image_3GdFFU"
         ],
         "settings": {
-          "controls": false,
-          "indicators": false,
+          "controls": true,
+          "indicators": true,
           "bg_color": "bg-dark",
           "backdrop": false,
           "container": false,
@@ -243,10 +243,10 @@
           "interval": 8,
           "autoplay_progress_bar": true,
           "autoplay_progress_bar_color": "bg-white opacity-50",
-          "transition_effect": "",
+          "transition_effect": "carousel-animate-css carousel-slide-up-down",
           "transition_speed": "animate__normal",
           "lazyload": true,
-          "margin_top": 5,
+          "margin_top": 0,
           "margin_bottom": 5
         }
       },
