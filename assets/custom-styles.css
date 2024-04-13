@@ -222,3 +222,16 @@ ul.color-swatches li.color-swatches-item {
 .jdgm-rev__icon {
   border-radius: 10px !important;
 }
+.img-descricao img {
+  margin: 0 !important;
+  display: block;
+  width: 480px;
+  height: auto;
+  border-radius: 0px !important;
+}
+.img-brock img {
+  display: block;
+  width: 100%;
+  margin: 2px !important;
+  height: auto;
+}
