@@ -1481,7 +1481,7 @@
           "autoplay": true,
           "interval": 8,
           "autoplay_progress_bar": true,
-          "autoplay_progress_bar_color": "bg-custom-gradient",
+          "autoplay_progress_bar_color": "bg-white",
           "transition_effect": "carousel-fade",
           "transition_speed": "animate__normal",
           "lazyload": false,
