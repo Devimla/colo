@@ -176,6 +176,7 @@ ul.color-swatches li.color-swatches-item {
 .jdgm-rev {
   background: #d5d5d5 !important;
   border-radius: 20px;
+  box-shadow: 0 4px 8px #0000001a;
   margin: 10px !important;
   padding: 10px !important;
 }
