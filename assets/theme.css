@@ -5893,19 +5893,7 @@ body #cookie-bar .input-group > .input-group-prepend:first-child > #cookie-bar-b
   min-height: 1px;
   padding: 1.25rem;
 }
-.img-descricao img {
-  margin: 0 !important;
-  display: block !important;
-  width: 480px;
-  height: auto !important;
-  border-radius: 0px !important;
-}
-.img-brock img {
-  display: block;
-  width: 100%;
-  margin: 2px !important;
-  height: auto;
-}
+
 .card-title {
   margin-bottom: 0.75rem;
 }
@@ -19236,6 +19224,7 @@ body .jdgm-rev-widg .jdgm-write-rev-link:not(.collapsed) .jdgm-preview-badge .jd
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  box-shadow: 0 4px 8px #0000001a;
 }
 
 .product-price .price-compare {
