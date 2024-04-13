@@ -215,3 +215,6 @@ ul.color-swatches li.color-swatches-item {
 .jdgm-histogram__bar .jdgm-histogram__bar-content {
   border-radius: 10px !important;
 }
+.jdgm-review-widget--small .jdgm-histogram .jdgm-histogram__bar {
+  border-radius: 10px !important;
+}
