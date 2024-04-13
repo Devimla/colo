@@ -409,9 +409,7 @@
         "custom_css": [
           "ul.color-swatches li.color-swatches-item label {display: none;}",
           ".opacity-80 {opacity: 0;}",
-          ".stock-plenty {display: none !important;}",
-          ".img-descricao img {margin: 0 !important; display: block !important; width: 480px; height: auto !important; border-radius: 0px !important;}",
-          ".img-brock img {display: block; width: 100%; margin: 2px !important; height: auto;}"
+          ".stock-plenty {display: none !important;}"
         ],
         "settings": {
           "title_font_size": 25,
