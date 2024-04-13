@@ -199,3 +199,10 @@ ul.color-swatches li.color-swatches-item {
 .jdgm-paginate__page {
   color: #333 !important;
 }
+.jdgm-sort-dropdown-wrapper {
+  float: none;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center !important; 
+}
