@@ -986,33 +986,26 @@
           "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a": {
             "type": "collection",
             "settings": {
-              "collection": "frontpage"
+              "collection": "cocina-bano-y-aseo"
             }
           },
           "a0e35455-0875-41dc-976b-3eaf131db078": {
             "type": "collection",
             "settings": {
-              "collection": "frontpage"
+              "collection": "salud-y-belleza"
             }
           },
           "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
             "type": "collection",
             "settings": {
-              "collection": "frontpage"
-            }
-          },
-          "f0b683d4-eea3-410f-98e2-347d9a4ff59e": {
-            "type": "collection",
-            "settings": {
-              "collection": "frontpage"
+              "collection": "todos-los-productos"
             }
           }
         },
         "block_order": [
           "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
           "a0e35455-0875-41dc-976b-3eaf131db078",
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb",
-          "f0b683d4-eea3-410f-98e2-347d9a4ff59e"
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb"
         ],
         "settings": {
           "title_t": "LOS FAVORITOS",
@@ -1043,22 +1036,6 @@
           "padding_bottom": 0,
           "margin_top": 0,
           "margin_bottom": 0
-        }
-      },
-      "163057394140c7594d": {
-        "type": "escassez",
-        "disabled": true,
-        "settings": {
-          "title": "Oferta do Dia",
-          "oferta": "#363636",
-          "subt": "<p>Todos os dias produtos especiais para você. Mas corre que é por tempo limitado!<\/p>",
-          "ofertabg": "#ffffff",
-          "ofertalink": "#28ba86",
-          "stopwatch-type": "black-moving",
-          "padding_top": 2,
-          "padding_bottom": 3,
-          "margin_top": 4,
-          "margin_bottom": 3
         }
       },
       "page-template-faq": {
@@ -1492,7 +1469,6 @@
     },
     "content_for_index": [
       "carousel_VgM9zb",
-      "163057394140c7594d",
       "24f39d80-043a-47ff-bdfb-1f72e2979461",
       "1609370220a8149c9d",
       "f2995eb4-3cf7-4854-b5ba-bcbd636fac5d",
