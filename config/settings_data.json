@@ -1037,7 +1037,7 @@
           "collection_ifBgRW"
         ],
         "custom_css": [
-          ".mb-2, .my-2 {margin-bottom: -2rem !important;}"
+          ".mb-2,.my-2 {margin-bottom: -2rem !important;}"
         ],
         "settings": {
           "title_t": "Nuestras colecciones",
@@ -1045,7 +1045,7 @@
           "container": true,
           "title_alignment": "text-center",
           "title": true,
-          "cortitlec": "#ffffff",
+          "cortitlec": "#333333",
           "corhover": "#1773b0",
           "cor_bg": "#ffffff",
           "carousel_arrows": true,
