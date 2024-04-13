@@ -452,7 +452,8 @@
           "product-template-0"
         ],
         "custom_css": [
-          "ul.color-swatches li.color-swatches-item label {display: none;}"
+          "ul.color-swatches li.color-swatches-item label {display: none;}",
+          ".opacity-80 {opacity: 0;}"
         ],
         "settings": {
           "title_font_size": 25,
