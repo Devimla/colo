@@ -208,7 +208,7 @@ ul.color-swatches li.color-swatches-item {
 }
 .jdgm-sort-dropdown-arrow {
   position: absolute!important;
-  right: 120px !important;
+  right: 125px !important;
   border: none!important;
   transform: rotate(90deg)!important;
 }
