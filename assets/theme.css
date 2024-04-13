@@ -2706,6 +2706,19 @@ body .spr-container .form-inline textarea[class*=spr-form-input] {
     margin: 10px !important;
     padding: 5px !important;
 }
+.img-descricao img {
+    margin: 0 !important;
+    display: block;
+    width: 480px;
+    height: auto;
+    border-radius: 0px !important;
+  }
+  .img-brock img {
+    display: block;
+    width: 100%;
+    margin: 2px !important;
+    height: auto;
+  }
 .btn, body .btn.btn_c, body .shopify-payment-button .btn_c.shopify-payment-button__button, .shopify-payment-button body .btn_c.shopify-payment-button__button, body .jdgm-rev-widg .jdgm-ask-question-btn,
 body .jdgm-rev-widg .jdgm-write-rev-link, body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview, .shopify-payment-button .shopify-payment-button__button, body #cookie-bar #cookie-bar-button {
   display: inline-block;
