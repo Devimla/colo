@@ -1047,7 +1047,7 @@
           "title": true,
           "cortitlec": "#333333",
           "corhover": "#1773b0",
-          "cor_bg": "#1773b0",
+          "cor_bg": "#ffffff",
           "carousel_arrows": true,
           "carousel_pagination": true,
           "carousel_rewind": true,
