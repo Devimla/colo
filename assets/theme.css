@@ -19224,7 +19224,6 @@ body .jdgm-rev-widg .jdgm-write-rev-link:not(.collapsed) .jdgm-preview-badge .jd
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 4px 8px #0000001a;
 }
 
 .product-price .price-compare {
