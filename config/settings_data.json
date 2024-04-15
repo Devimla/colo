@@ -209,55 +209,6 @@
           "show_orbe": false
         }
       },
-      "1609370220a8149c9d": {
-        "type": "featured-collection",
-        "blocks": {
-          "7ae40457-7131-4e16-ad6e-9516741cb1ab": {
-            "type": "collection",
-            "settings": {
-              "collection": "frontpage",
-              "tab_title": "Lançamentos"
-            }
-          }
-        },
-        "block_order": [
-          "7ae40457-7131-4e16-ad6e-9516741cb1ab"
-        ],
-        "settings": {
-          "title": "Coleção - 02",
-          "description": "<p>Descrição para sua coleção<\/p>",
-          "bg_light": false,
-          "title_alignment": "text-center",
-          "title_size": "h2",
-          "tabs_alignment": "justify-content-center",
-          "container": true,
-          "limit": "15",
-          "carousel_arrows": false,
-          "carousel_pagination": true,
-          "carousel_rewind": true,
-          "carousel_autoplay": false,
-          "carousel_interval": 6,
-          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
-          "carousel_speed": "400",
-          "img_width": "480",
-          "img_height": "480",
-          "img_thumbnail": false,
-          "product_title_heading_size": "h6",
-          "show_rating": true,
-          "no_show_rating_name": true,
-          "show_price": true,
-          "breakpoint_xm": 2,
-          "breakpoint_sm": 2,
-          "breakpoint_md": 3,
-          "breakpoint_lg": 3,
-          "breakpoint_xl": 4,
-          "breakpoint_xxl": 4,
-          "padding_top": 0,
-          "padding_bottom": 4,
-          "margin_top": 0,
-          "margin_bottom": 0
-        }
-      },
       "infobar": {
         "type": "infobar",
         "blocks": {
@@ -984,10 +935,10 @@
       "1629938086ae988321": {
         "type": "collection-list",
         "blocks": {
-          "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a": {
+          "collection_X3p8bb": {
             "type": "collection",
             "settings": {
-              "collection": "cocina-bano-y-aseo"
+              "collection": "herramientas-y-utilidades"
             }
           },
           "a0e35455-0875-41dc-976b-3eaf131db078": {
@@ -996,10 +947,16 @@
               "collection": "salud-y-belleza"
             }
           },
-          "collection_X3p8bb": {
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
             "type": "collection",
             "settings": {
-              "collection": "herramientas-y-utilidades"
+              "collection": "todos-los-productos"
+            }
+          },
+          "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a": {
+            "type": "collection",
+            "settings": {
+              "collection": "cocina-bano-y-aseo"
             }
           },
           "collection_JQGYnk": {
@@ -1019,22 +976,16 @@
             "settings": {
               "collection": "nino-y-mama"
             }
-          },
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb": {
-            "type": "collection",
-            "settings": {
-              "collection": "todos-los-productos"
-            }
           }
         },
         "block_order": [
-          "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
-          "a0e35455-0875-41dc-976b-3eaf131db078",
           "collection_X3p8bb",
+          "a0e35455-0875-41dc-976b-3eaf131db078",
+          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb",
+          "4ec00c16-fa6a-42b1-9ce3-98bc553bcf7a",
           "collection_JQGYnk",
           "collection_MNFja8",
-          "collection_ifBgRW",
-          "7bc5f511-f670-4ab0-b49f-dd2165d7cbbb"
+          "collection_ifBgRW"
         ],
         "custom_css": [
           ".mb-2 .my-2 {margin-bottom: -2rem !important;}",
@@ -1179,104 +1130,6 @@
           "google_maps_title": "Endereço físico",
           "google_maps_description": "<p>Brasilia, DF<\/p>",
           "google_maps": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d292333.9842040409!2d-48.049138164105614!3d-15.699312822112349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3d18df9ae275%3A0x738470e469754a24!2zQnJhc8OtbGlhLCBERg!5e0!3m2!1spt-BR!2sbr!4v1624808606180!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"><\/iframe>"
-        }
-      },
-      "f2995eb4-3cf7-4854-b5ba-bcbd636fac5d": {
-        "type": "featured-collection",
-        "blocks": {
-          "fd7a79bd-7c82-4876-b2c9-de43c78c2f9b": {
-            "type": "collection",
-            "settings": {
-              "collection": "frontpage",
-              "tab_title": ""
-            }
-          }
-        },
-        "block_order": [
-          "fd7a79bd-7c82-4876-b2c9-de43c78c2f9b"
-        ],
-        "settings": {
-          "title": "Coleção - 03",
-          "description": "<p>Descrição para sua coleção<\/p>",
-          "bg_light": false,
-          "title_alignment": "text-center",
-          "title_size": "h2",
-          "tabs_alignment": "justify-content-center",
-          "container": true,
-          "limit": "15",
-          "carousel_arrows": false,
-          "carousel_pagination": true,
-          "carousel_rewind": true,
-          "carousel_autoplay": false,
-          "carousel_interval": 6,
-          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
-          "carousel_speed": "400",
-          "img_width": "480",
-          "img_height": "480",
-          "img_thumbnail": false,
-          "product_title_heading_size": "h6",
-          "show_rating": true,
-          "no_show_rating_name": true,
-          "show_price": true,
-          "breakpoint_xm": 2,
-          "breakpoint_sm": 2,
-          "breakpoint_md": 3,
-          "breakpoint_lg": 3,
-          "breakpoint_xl": 4,
-          "breakpoint_xxl": 4,
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 0,
-          "margin_bottom": 4
-        }
-      },
-      "24f39d80-043a-47ff-bdfb-1f72e2979461": {
-        "type": "featured-collection",
-        "blocks": {
-          "18ac8afa-66ac-4c6a-b73f-a7aef87504d9": {
-            "type": "collection",
-            "settings": {
-              "collection": "salud-y-belleza",
-              "tab_title": "Salud y belleza"
-            }
-          }
-        },
-        "block_order": [
-          "18ac8afa-66ac-4c6a-b73f-a7aef87504d9"
-        ],
-        "settings": {
-          "title": "Salud y Belleza",
-          "description": "<p>Para aquellos que les gusta cuidar su salud y belleza<\/p>",
-          "bg_light": false,
-          "title_alignment": "text-center",
-          "title_size": "h2",
-          "tabs_alignment": "justify-content-center",
-          "container": true,
-          "limit": "15",
-          "carousel_arrows": true,
-          "carousel_pagination": true,
-          "carousel_rewind": true,
-          "carousel_autoplay": true,
-          "carousel_interval": 6,
-          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
-          "carousel_speed": "400",
-          "img_width": "480",
-          "img_height": "480",
-          "img_thumbnail": false,
-          "product_title_heading_size": "h6",
-          "show_rating": true,
-          "no_show_rating_name": true,
-          "show_price": true,
-          "breakpoint_xm": 2,
-          "breakpoint_sm": 2,
-          "breakpoint_md": 3,
-          "breakpoint_lg": 3,
-          "breakpoint_xl": 4,
-          "breakpoint_xxl": 4,
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 0,
-          "margin_bottom": 4
         }
       },
       "product-template-ik": {
@@ -1504,9 +1357,6 @@
     "content_for_index": [
       "carousel_VgM9zb",
       "1629938086ae988321",
-      "24f39d80-043a-47ff-bdfb-1f72e2979461",
-      "1609370220a8149c9d",
-      "f2995eb4-3cf7-4854-b5ba-bcbd636fac5d",
       "1610178560d1807d19",
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
       "feb04c96-3d6b-4c8e-baf0-806a3cb468bd"
@@ -1520,12 +1370,6 @@
       },
       "13669795325273674392": {
         "type": "shopify:\/\/apps\/releasit-cod-form-upsells\/blocks\/app-embed\/72faf214-4174-4fec-886b-0d0e8d3af9a2",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "17932116065945454919": {
-        "type": "shopify:\/\/apps\/adt-facebook-pixels-ads\/blocks\/facebook-ads-pixels\/4ad3004f-fa0b-4587-a4f1-4d8ce89e9fbb",
         "disabled": false,
         "settings": {
         }
