@@ -105,10 +105,8 @@ h3.product-title.h6 {
   -webkit-box-orient: vertical;}
 
 @media only screen and (max-width: 600px) {
-.navbar-brand { width: 170px; display: block; /* Garante que a imagem seja exibida como um bloco */
-  margin-left: 0; /* Define a margem esquerda como 0 para alinhar à esquerda */
-  margin-right: auto; /* Define a margem direita como automática para centralizar horizontalmente */
-  text-align: left; /* Alinhe o texto à esquerda */}
+.navbar-brand { width: 170px;         display: block; /* Garante que a imagem seja exibida como bloco */
+  margin: 0 auto; /* Centralize a imagem horizontalmente */}
   
 h2.title.mb-1.text-center{
   font-size: 1.45rem;}  
