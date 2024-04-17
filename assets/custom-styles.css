@@ -106,7 +106,7 @@ h3.product-title.h6 {
 
 @media only screen and (max-width: 600px) {
 .navbar-brand { width: 170px;     display: flex;
-  justify-content: center; padding-left: 40px;}  
+  justify-content: center; padding-left: 50px;}  
   
 h2.title.mb-1.text-center{
   font-size: 1.45rem;}  
