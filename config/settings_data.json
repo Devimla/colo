@@ -257,7 +257,7 @@
         ],
         "settings": {
           "bg_cor": "#f7f7f7",
-          "infolink": "#484848",
+          "infolink": "#0070dc",
           "container": true,
           "title_size": "h6",
           "animate_class": "",
