@@ -30,10 +30,29 @@
         navbar navbar-expand-xl
         {{ section.settings.shadow }}
     ">
-    <div class="{% if section.settings.container %}container{% else %}container-fluid{% endif %} position-relative">
+    <div class="{% if section.settings.container %}container{% else %}container-fluid{% endif %} position-relative d-flex align-items-center justify-content-between">
 
-        <!-- Navbar brand wrapper -->
-        <div class="navbar-brand-wrapper d-flex align-items-center">
+    <!-- Navbar brand wrapper -->
+    <div class="navbar-brand-wrapper d-flex align-items-center">
+
+        <!-- Logo -->
+        <a
+            id="navbar-brand"
+            class="navbar-brand d-sm-block overflow-hidden flex-grow-1 flex-xl-grow-0 mr-2 py-0"
+            href="/">
+            {% if section.settings.logo == blank %}
+                <span style="color: {{ section.settings.bglink}} !important;">{{ shop.name }}</span>
+            {% else %}
+                <img
+                    class="img-fluid"
+                    id="logo-image"
+                    src="{{ section.settings.logo | img_url: 'master' }}"
+                    alt="{{ section.settings.logo.alt | default: shop.name }}"
+                    width="{{ section.settings.logo_height  }}"
+                    height="{{ section.settings.logo_height }}">
+            {% endif %}
+        </a>
+    </div>
 
             <!-- Toggler -->
             <button
@@ -52,22 +71,7 @@
   <!-- Collapse button -->
 
             <!-- Logo -->
-            <a
-                id="navbar-brand"
-                class="navbar-brand d-sm-block overflow-hidden flex-grow-1 flex-xl-grow-0 mr-2 py-0"
-                href="/">
-                {% if section.settings.logo == blank %}
-                    <span style="color: {{ section.settings.bglink}} !important;">{{ shop.name }}</span>
-                {% else %}
-                    <img
-                        class="img-fluid"
-                        id="logo-image"
-                        src="{{ section.settings.logo | img_url: 'master' }}"
-                        alt="{{ section.settings.logo.alt | default: shop.name }}"
-                        width="{{ section.settings.logo_height  }}"
-                        height="{{ section.settings.logo_height }}">
-                {% endif %}
-            </a>
+
         </div>
 
         <!-- Icon menu -->
