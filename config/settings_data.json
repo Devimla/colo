@@ -173,7 +173,7 @@
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
         "custom_css": [
-          ".btn-warning {color: #212529; background-color: #fff159; border-color: #fff159; border-radius: 0px 40px 40px 0px !important;}",
+          ".btn-warning {color: #212529; background-color: #FFC221; border-color: #FFC221; border-radius: 0px 40px 40px 0px !important;}",
           ".form-opac .form-control {color: #333 !important; background: #fff !important; border: 1px #fff !important; border-radius: 40px 0px 0px 40px !important;}",
           ".payment-list {display: none !important;}",
           ".col-md-4 {flex: none; max-width: none;}"
