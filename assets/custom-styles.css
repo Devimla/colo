@@ -243,3 +243,20 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-infobar .list-unstyled.mx-n3.mb-0.row.row-cols-1.row-cols-md-2.row-cols-lg-4 .mr-4 {
   color: #0070dc !important;
 }
+#shopify-section-footer .btn-warning {
+  color: #212529; 
+  background-color: #ffc221; 
+  border-color: #ffc221; 
+  border-radius: 0px 40px 40px 0px !important;
+} 
+#shopify-section-footer .form-opac .form-control {
+  color: #333 !important; 
+  background: #fff !important; 
+  border: 1px #fff !important; 
+  border-radius: 40px 0px 0px 40px !important;} 
+#shopify-section-footer .payment-list {
+  display: none !important;} 
+#shopify-section-footer .col-md-4 {
+  flex: none; 
+  max-width: none;
+} 
