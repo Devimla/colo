@@ -239,3 +239,6 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-1610178560d1807d19 .description.rte.text-muted.mb-6 {
   color: #FFF !important; 
 }
+#shopify-section-infobar .list-unstyled.mx-n3.mb-0.row.row-cols-1.row-cols-md-2.row-cols-lg-4 .mr-4 {
+  color: #0070dc !important;
+}
