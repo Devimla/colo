@@ -173,7 +173,7 @@
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
         "custom_css": [
-          ".btn-warning {color: #212529; background-color: #FFC221; border-color: #FFC221; border-radius: 0px 40px 40px 0px !important;}",
+          ".btn-warning {color: #212529; background-color: #ffc221; border-color: #ffc221; border-radius: 0px 40px 40px 0px !important;}",
           ".form-opac .form-control {color: #333 !important; background: #fff !important; border: 1px #fff !important; border-radius: 40px 0px 0px 40px !important;}",
           ".payment-list {display: none !important;}",
           ".col-md-4 {flex: none; max-width: none;}"
@@ -1319,7 +1319,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/escola_municipal.png",
-              "imagemb": "shopify:\/\/shop_images\/escola_municipal_626_x_800_px_1.png",
+              "imagemb": "shopify:\/\/shop_images\/Promocion_20240417_184454_0000.png",
               "button_url": "shopify:\/\/collections\/nino-y-mama"
             }
           },
