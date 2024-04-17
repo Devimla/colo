@@ -31,6 +31,23 @@
         {{ section.settings.shadow }}
     ">
     <div class="{% if section.settings.container %}container{% else %}container-fluid{% endif %} position-relative">
+    <!-- Logo -->
+            <a
+                id="navbar-brand"
+                class="navbar-brand d-sm-block overflow-hidden flex-grow-1 flex-xl-grow-0 mr-2 py-0"
+                href="/">
+                {% if section.settings.logo == blank %}
+                    <span style="color: {{ section.settings.bglink}} !important;">{{ shop.name }}</span>
+                {% else %}
+                    <img
+                        class="img-fluid"
+                        id="logo-image"
+                        src="{{ section.settings.logo | img_url: 'master' }}"
+                        alt="{{ section.settings.logo.alt | default: shop.name }}"
+                        width="{{ section.settings.logo_height  }}"
+                        height="{{ section.settings.logo_height }}">
+                {% endif %}
+            </a>
 
         <!-- Navbar brand wrapper -->
         <div class="navbar-brand-wrapper d-flex align-items-center justify-content-center" style="width: 100%;">
@@ -51,23 +68,7 @@
             </button>
   <!-- Collapse button -->
 
-            <!-- Logo -->
-            <a
-                id="navbar-brand"
-                class="navbar-brand d-sm-block overflow-hidden flex-grow-1 flex-xl-grow-0 mr-2 py-0"
-                href="/">
-                {% if section.settings.logo == blank %}
-                    <span style="color: {{ section.settings.bglink}} !important;">{{ shop.name }}</span>
-                {% else %}
-                    <img
-                        class="img-fluid"
-                        id="logo-image"
-                        src="{{ section.settings.logo | img_url: 'master' }}"
-                        alt="{{ section.settings.logo.alt | default: shop.name }}"
-                        width="{{ section.settings.logo_height  }}"
-                        height="{{ section.settings.logo_height }}">
-                {% endif %}
-            </a>
+            
         </div>
 
         <!-- Icon menu -->
