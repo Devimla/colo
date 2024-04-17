@@ -179,8 +179,8 @@
           ".col-md-4 {flex: none; max-width: none;}"
         ],
         "settings": {
-          "bg": "#000000",
-          "cortit": "#1773b0",
+          "bg": "#0070dc",
+          "cortit": "#ffffff",
           "bglink": "#ffffff",
           "container": true,
           "show_social_icons": false,
@@ -192,7 +192,7 @@
           "about_description": "<p>Nuestra tienda online se creó pensando en usted, para ser una tienda innovadora en Internet, que ofrezca los mejores productos y servicios.<\/p>",
           "about_email": "",
           "about_phone": "",
-          "bg2": "#000000",
+          "bg2": "#0070dc",
           "cortitle2": "#ffffff",
           "titlepg": "",
           "titleseg": "Seguridad y calidad",
@@ -271,9 +271,9 @@
       "1610178560d1807d19": {
         "type": "newsletter",
         "custom_css": [
-          ".btn-danger {background-color: #FFC221; color: #fff; border-radius: 40px !important; border-color:#FFC221;}",
+          ".btn-danger {background-color: #ffc221; color: #fff; border-radius: 40px !important; border-color: #ffc221;}",
           ".form-control {border-radius: 40px !important;}",
-          ".my-newsletter {background-color: #0070DC;}"
+          ".my-newsletter {background-color: #0070dc;}"
         ],
         "settings": {
           "title": "¡Consigue hasta un 10% de descuento!",
