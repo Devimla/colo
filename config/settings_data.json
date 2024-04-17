@@ -271,9 +271,9 @@
       "1610178560d1807d19": {
         "type": "newsletter",
         "custom_css": [
-          ".btn-danger {background-color: #1773b0; color: #fff; border-radius: 40px !important; border-color: #1773b0;}",
+          ".btn-danger {background-color: #FFC221; color: #fff; border-radius: 40px !important; border-color:#FFC221;}",
           ".form-control {border-radius: 40px !important;}",
-          ".my-newsletter {background-color: #fff159;}"
+          ".my-newsletter {background-color: #0070DC;}"
         ],
         "settings": {
           "title": "¡Consigue hasta un 10% de descuento!",
