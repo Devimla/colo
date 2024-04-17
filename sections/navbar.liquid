@@ -34,7 +34,21 @@
 
     <!-- Navbar brand wrapper -->
     <div class="navbar-brand-wrapper d-flex align-items-center">
-
+                    <!-- Toggler -->
+            <button
+                class="navbar-toggler collapsed ml-n1 mr-3"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbar-collapse"
+                aria-controls="navbar-collapse"
+                aria-expanded="false"
+                aria-label="{{ 'general.accessibility.toggle_nav' | t }}">
+                <div class="animated-icon1"></div>
+                <span style="background-color: var(--color-peslink) !important;"></span>
+                <span style="background-color: var(--color-peslink) !important;"></span>
+                <span style="background-color: var(--color-peslink) !important;"></span>
+            </button>
+  <!-- Collapse button -->
         <!-- Logo -->
         <a
             id="navbar-brand"
@@ -52,21 +66,6 @@
                     height="{{ section.settings.logo_height }}">
             {% endif %}
         </a>
-            <!-- Toggler -->
-            <button
-                class="navbar-toggler collapsed ml-n1 mr-3"
-                type="button"
-                data-toggle="collapse"
-                data-target="#navbar-collapse"
-                aria-controls="navbar-collapse"
-                aria-expanded="false"
-                aria-label="{{ 'general.accessibility.toggle_nav' | t }}">
-                <div class="animated-icon1"></div>
-                <span style="background-color: var(--color-peslink) !important;"></span>
-                <span style="background-color: var(--color-peslink) !important;"></span>
-                <span style="background-color: var(--color-peslink) !important;"></span>
-            </button>
-  <!-- Collapse button -->
 
             <!-- Logo -->
 
