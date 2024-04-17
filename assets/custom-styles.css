@@ -105,8 +105,7 @@ h3.product-title.h6 {
   -webkit-box-orient: vertical;}
 
 @media only screen and (max-width: 600px) {
-.navbar-brand { width: 170px;  text-align: center; /* Centraliza o conteúdo dentro da div */
-  padding-left: 0; /* Remove o padding à esquerda, se necessário */}
+.navbar-brand { width: 170px; padding-left: 100px;}
   
 h2.title.mb-1.text-center{
   font-size: 1.45rem;}  
