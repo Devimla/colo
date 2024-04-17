@@ -108,8 +108,8 @@
         "settings": {
           "menu_flut": true,
           "bg": "#0070dc",
-          "menulink": "#202020",
-          "bglink": "#ffffff",
+          "menulink": "#ffffff",
+          "bglink": "#ffc221",
           "peslink": "#ffffff",
           "shadow": "shadow-sm",
           "cor_box": "form-transparent",
