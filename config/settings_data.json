@@ -931,10 +931,10 @@
       "1629938086ae988321": {
         "type": "collection-list",
         "blocks": {
-          "collection_X3p8bb": {
+          "collection_n9DFPm": {
             "type": "collection",
             "settings": {
-              "collection": "herramientas-y-utilidades"
+              "collection": "ropa-y-accesorios"
             }
           },
           "a0e35455-0875-41dc-976b-3eaf131db078": {
@@ -943,24 +943,31 @@
               "collection": "salud-y-belleza"
             }
           },
-          "collection_MNFja8": {
-            "type": "collection",
-            "settings": {
-              "collection": "mascota"
-            }
-          },
           "collection_ifBgRW": {
             "type": "collection",
             "settings": {
               "collection": "nino-y-mama"
             }
+          },
+          "collection_X3p8bb": {
+            "type": "collection",
+            "settings": {
+              "collection": "herramientas-y-utilidades"
+            }
+          },
+          "collection_MNFja8": {
+            "type": "collection",
+            "settings": {
+              "collection": "mascota"
+            }
           }
         },
         "block_order": [
-          "collection_X3p8bb",
+          "collection_n9DFPm",
           "a0e35455-0875-41dc-976b-3eaf131db078",
-          "collection_MNFja8",
-          "collection_ifBgRW"
+          "collection_ifBgRW",
+          "collection_X3p8bb",
+          "collection_MNFja8"
         ],
         "custom_css": [
           ".mb-2 .my-2 {margin-bottom: -2rem !important;}",
