@@ -418,7 +418,7 @@
           "swatch_quadrado": false,
           "size_swatch": "50px",
           "variant_swatch_color_name": "Escolha a cor",
-          "inventory_bar_enable": true,
+          "inventory_bar_enable": false,
           "inventory_bar_low_no": "5",
           "inventory_bar_has_stock_color": "bg-primary",
           "delivery_time": false,
