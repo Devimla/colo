@@ -1302,7 +1302,6 @@
         "type": "image-full",
         "settings": {
           "bg_color": "bg-white text-body",
-          "img": "shopify:\/\/shop_images\/escola_municipal.png",
           "img_width": "720",
           "img_height": "405",
           "img_thumbnail": false,
