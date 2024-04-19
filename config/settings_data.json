@@ -1311,6 +1311,55 @@
           "margin_top": 15,
           "margin_bottom": 9
         }
+      },
+      "featured_collection_MjjdNA": {
+        "type": "featured-collection",
+        "blocks": {
+          "collection_hcdUME": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage",
+              "tab_title": ""
+            }
+          }
+        },
+        "block_order": [
+          "collection_hcdUME"
+        ],
+        "settings": {
+          "title": "Coleção em destaque",
+          "description": "<p>Escreva algo atraente para esta seção.<\/p>",
+          "bg_light": false,
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "tabs_alignment": "justify-content-center",
+          "container": true,
+          "limit": "15",
+          "carousel_arrows": false,
+          "carousel_pagination": true,
+          "carousel_rewind": true,
+          "carousel_autoplay": false,
+          "carousel_interval": 6,
+          "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
+          "carousel_speed": "400",
+          "img_width": "480",
+          "img_height": "480",
+          "img_thumbnail": false,
+          "product_title_heading_size": "h6",
+          "show_rating": true,
+          "no_show_rating_name": true,
+          "show_price": true,
+          "breakpoint_xm": 2,
+          "breakpoint_sm": 2,
+          "breakpoint_md": 3,
+          "breakpoint_lg": 3,
+          "breakpoint_xl": 4,
+          "breakpoint_xxl": 5,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
       }
     },
     "content_for_index": [
@@ -1318,7 +1367,8 @@
       "1629938086ae988321",
       "1610178560d1807d19",
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
-      "image_full_HgwiMi"
+      "image_full_HgwiMi",
+      "featured_collection_MjjdNA"
     ],
     "blocks": {
       "14060646107696862457": {
