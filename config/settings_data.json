@@ -374,7 +374,7 @@
           "desconto": true,
           "enable_texto_economize": true,
           "text_economize": "Ahorra",
-          "size_text_economize": "12px",
+          "size_text_economize": "14px",
           "size_text_12x": "18px",
           "enable_pix_discount": false,
           "pix_first_text": "",
