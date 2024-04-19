@@ -32,7 +32,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #0070DC;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -2780,16 +2780,16 @@ body #cookie-bar fieldset:disabled a#cookie-bar-button {
 body .jdgm-rev-widg .shopify-challenge__container .jdgm-write-rev-link, body .btn.btn_c, body .shopify-payment-button .btn_c.shopify-payment-button__button, .shopify-payment-button body .btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .btn_c.jdgm-write-rev-link, body #cookie-bar #cookie-bar-button {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #0070DC;
+  border-color: #0070DC;
 }
 .btn-primary:hover, .shopify-challenge__container .btn:hover, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:hover, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:hover, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:hover, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:hover, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:hover, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:hover,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:hover,
 body .jdgm-rev-widg .shopify-challenge__container .jdgm-write-rev-link:hover, body .btn.btn_c:hover, body .shopify-payment-button .btn_c.shopify-payment-button__button:hover, .shopify-payment-button body .btn_c.shopify-payment-button__button:hover, body .spr-container .spr-header .spr-summary-actions .btn_c.spr-summary-actions-newreview:hover, body .jdgm-rev-widg .btn_c.jdgm-ask-question-btn:hover,
 body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:hover, body #cookie-bar #cookie-bar-button:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #0070DC;
+  border-color: #0070DC;
 }
 .btn-primary:focus, .shopify-challenge__container .btn:focus, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:focus, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:focus, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:focus, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:focus, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:focus, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:focus,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:focus,
@@ -2799,8 +2799,8 @@ body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:focus, body #cookie-bar #cookie-b
 body .jdgm-rev-widg .shopify-challenge__container .focus.jdgm-write-rev-link, body .focus.btn.btn_c, body .shopify-payment-button .focus.btn_c.shopify-payment-button__button, .shopify-payment-button body .focus.btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .focus.btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .focus.btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .focus.btn_c.jdgm-write-rev-link, body #cookie-bar .focus#cookie-bar-button {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #0070DC;
+  border-color: #0070DC;
   box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
 }
 .btn-primary.disabled, .shopify-challenge__container .disabled.btn, .shopify-challenge__container .shopify-payment-button .disabled.shopify-payment-button__button, .shopify-payment-button .shopify-challenge__container .disabled.shopify-payment-button__button, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .disabled.spr-summary-actions-newreview, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .disabled.spr-summary-actions-newreview, .shopify-challenge__container body .jdgm-rev-widg .disabled.jdgm-ask-question-btn, body .jdgm-rev-widg .shopify-challenge__container .disabled.jdgm-ask-question-btn,
@@ -2811,8 +2811,8 @@ body .jdgm-rev-widg .disabled.btn_c.jdgm-write-rev-link, body #cookie-bar .disab
 body .jdgm-rev-widg .shopify-challenge__container .jdgm-write-rev-link:disabled, body .btn.btn_c:disabled, body .shopify-payment-button .btn_c.shopify-payment-button__button:disabled, .shopify-payment-button body .btn_c.shopify-payment-button__button:disabled, body .spr-container .spr-header .spr-summary-actions .btn_c.spr-summary-actions-newreview:disabled, body .jdgm-rev-widg .btn_c.jdgm-ask-question-btn:disabled,
 body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:disabled, body #cookie-bar #cookie-bar-button:disabled {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #0070DC;
+  border-color: #0070DC;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .shopify-challenge__container .btn:not(:disabled):not(.disabled):active, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:not(:disabled):not(.disabled):active, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:not(:disabled):not(.disabled):active, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:not(:disabled):not(.disabled):active, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:not(:disabled):not(.disabled):active, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:not(:disabled):not(.disabled):active, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:not(:disabled):not(.disabled):active,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:not(:disabled):not(.disabled):active,
@@ -2825,8 +2825,8 @@ body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:not(:disabled):not(.disabled).act
 body .jdgm-rev-widg .shopify-challenge__container .show > .dropdown-toggle.jdgm-write-rev-link, body .show > .dropdown-toggle.btn.btn_c, body .shopify-payment-button .show > .dropdown-toggle.btn_c.shopify-payment-button__button, .shopify-payment-button body .show > .dropdown-toggle.btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .show > .dropdown-toggle.btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .show > .dropdown-toggle.btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .show > .dropdown-toggle.btn_c.jdgm-write-rev-link, body #cookie-bar .show > .dropdown-toggle#cookie-bar-button {
   color: #fff;
-  background-color: #0062cc;
-  border-color: #005cbf;
+  background-color: #0070DC;
+  border-color: #0070DC;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .shopify-challenge__container .btn:not(:disabled):not(.disabled):active:focus, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:not(:disabled):not(.disabled):active:focus, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:not(:disabled):not(.disabled):active:focus, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:not(:disabled):not(.disabled):active:focus, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:not(:disabled):not(.disabled):active:focus, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:not(:disabled):not(.disabled):active:focus, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:not(:disabled):not(.disabled):active:focus,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:not(:disabled):not(.disabled):active:focus,
@@ -17114,8 +17114,8 @@ body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:not(.btn-warning), body #cookie-b
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link,
 body .jdgm-rev-widg .shopify-challenge__container .jdgm-write-rev-link, body .btn.btn_c, body .shopify-payment-button .btn_c.shopify-payment-button__button, .shopify-payment-button body .btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .btn_c.jdgm-write-rev-link, body #cookie-bar #cookie-bar-button {
-  background-color: var(--color-primary);
-  border-color: var(--color-primary);
+  background-color: #0070DC;
+  border-color: #0070DC;
 }
 .btn-primary:hover, .shopify-challenge__container .btn:hover, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:hover, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:hover, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:hover, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:hover, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:hover, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:hover,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:hover,
