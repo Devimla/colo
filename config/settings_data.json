@@ -1249,45 +1249,6 @@
           "margin_bottom": 9
         }
       },
-      "feb04c96-3d6b-4c8e-baf0-806a3cb468bd": {
-        "type": "instagram-gallery",
-        "blocks": {
-          "f48fa75f-92d5-4b2b-8f0d-f3c36e337d77": {
-            "type": "post",
-            "settings": {
-              "description": "<p>teste<\/p>",
-              "url": "https:\/\/www.instagram.com\/reel\/Co3UEHBAUP9\/?utm_source=ig_web_copy_link"
-            }
-          }
-        },
-        "block_order": [
-          "f48fa75f-92d5-4b2b-8f0d-f3c36e337d77"
-        ],
-        "disabled": true,
-        "settings": {
-          "title": "Instagram da Loja",
-          "description": "<p>Escreva alguma coisa aqui.<\/p>",
-          "title_size": "h4",
-          "title_alignment": "text-center",
-          "container": true,
-          "bg_light": true,
-          "follow_btn_url": "",
-          "follow_btn_text": "Seguir",
-          "follow_btn_color": "btn-outline-primary",
-          "follow_btn_size": "",
-          "img_width": "500",
-          "img_height": "700",
-          "img_thumbnail": false,
-          "show_modal": true,
-          "row_mobile": 2,
-          "row_tablet": 3,
-          "row_desktop": 6,
-          "padding_top": 8,
-          "padding_bottom": 8,
-          "margin_top": 0,
-          "margin_bottom": 9
-        }
-      },
       "ryviu-widget": {
         "type": "ryviu-widget",
         "custom_css": [
@@ -1336,6 +1297,21 @@
           "margin_top": 0,
           "margin_bottom": 9
         }
+      },
+      "image_full_HgwiMi": {
+        "type": "image-full",
+        "settings": {
+          "bg_color": "bg-white text-body",
+          "img": "shopify:\/\/shop_images\/Promocion_20240417_184454_0000.png",
+          "img_width": "720",
+          "img_height": "405",
+          "img_thumbnail": false,
+          "img_url": "",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 15,
+          "margin_bottom": 9
+        }
       }
     },
     "content_for_index": [
@@ -1343,7 +1319,7 @@
       "1629938086ae988321",
       "1610178560d1807d19",
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
-      "feb04c96-3d6b-4c8e-baf0-806a3cb468bd"
+      "image_full_HgwiMi"
     ],
     "blocks": {
       "14060646107696862457": {
