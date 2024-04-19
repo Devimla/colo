@@ -792,7 +792,7 @@ function copyToClipboard(text) {
                 {% else %}
                 <div class="shipping-preview-line" style="position: relative;margin-left: 0;">
                      {% if section.settings.enable_garantia %}
-                     
+                     <strong style="font-weight: 700 !important;"
                          <p class="text-garantia"
                             style="text-align: left !important;color: {{ section.settings.troca_cor }}!important;padding: 10px 0 0 14px;font-size: {{ section.settings.size_text_frete }} !important;margin: 0px 0 5px 0;">
                              <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-check-circle"
@@ -817,7 +817,7 @@ function copyToClipboard(text) {
                              
                              {{ section.settings.troca_text_two }}
                          </p>
-                         
+                         </strong>
                      {% endif %}
                  </div>
                 {% endif %}
