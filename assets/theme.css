@@ -2779,9 +2779,9 @@ body #cookie-bar fieldset:disabled a#cookie-bar-button {
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link,
 body .jdgm-rev-widg .shopify-challenge__container .jdgm-write-rev-link, body .btn.btn_c, body .shopify-payment-button .btn_c.shopify-payment-button__button, .shopify-payment-button body .btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .btn_c.jdgm-write-rev-link, body #cookie-bar #cookie-bar-button {
-  color: #fff;
-  background-color: #0070DC;
-  border-color: #0070DC;
+  color: #fff !important;
+  background-color: #0070DC !important;
+  border-color: #0070DC !important;
 }
 .btn-primary:hover, .shopify-challenge__container .btn:hover, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:hover, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:hover, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:hover, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:hover, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:hover, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:hover,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:hover,
@@ -17114,8 +17114,8 @@ body .jdgm-rev-widg .btn_c.jdgm-write-rev-link:not(.btn-warning), body #cookie-b
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link,
 body .jdgm-rev-widg .shopify-challenge__container .jdgm-write-rev-link, body .btn.btn_c, body .shopify-payment-button .btn_c.shopify-payment-button__button, .shopify-payment-button body .btn_c.shopify-payment-button__button, body .spr-container .spr-header .spr-summary-actions .btn_c.spr-summary-actions-newreview, body .jdgm-rev-widg .btn_c.jdgm-ask-question-btn,
 body .jdgm-rev-widg .btn_c.jdgm-write-rev-link, body #cookie-bar #cookie-bar-button {
-  background-color: #0070DC;
-  border-color: #0070DC;
+  background-color: #0070DC !important;
+  border-color: #0070DC !important;
 }
 .btn-primary:hover, .shopify-challenge__container .btn:hover, .shopify-challenge__container .shopify-payment-button .shopify-payment-button__button:hover, .shopify-payment-button .shopify-challenge__container .shopify-payment-button__button:hover, .shopify-challenge__container body .spr-container .spr-header .spr-summary-actions .spr-summary-actions-newreview:hover, body .spr-container .spr-header .spr-summary-actions .shopify-challenge__container .spr-summary-actions-newreview:hover, .shopify-challenge__container body .jdgm-rev-widg .jdgm-ask-question-btn:hover, body .jdgm-rev-widg .shopify-challenge__container .jdgm-ask-question-btn:hover,
 .shopify-challenge__container body .jdgm-rev-widg .jdgm-write-rev-link:hover,
