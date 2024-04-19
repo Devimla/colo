@@ -421,7 +421,7 @@
           "inventory_bar_enable": false,
           "inventory_bar_low_no": "5",
           "inventory_bar_has_stock_color": "bg-primary",
-          "delivery_time": true,
+          "delivery_time": false,
           "entrega_estimada_color": "#1d9e06",
           "textofrete": "Envío urgente",
           "delivery_time_text": "Recibir entre:",
