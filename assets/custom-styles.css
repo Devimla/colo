@@ -235,6 +235,7 @@ ul.color-swatches li.color-swatches-item {
 }
 #shopify-section-1610178560d1807d19 .title-my-newsletter {
   color: #FFF;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
 }
 #shopify-section-1610178560d1807d19 .description.rte.text-muted.mb-6 {
   color: #FFF !important;
