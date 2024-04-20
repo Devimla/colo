@@ -326,7 +326,7 @@
         "type": "collection-template",
         "settings": {
           "container": true,
-          "paginate": 12,
+          "paginate": 15,
           "show_tags": false,
           "show_collection_img": false,
           "infinite_scroll": true,
