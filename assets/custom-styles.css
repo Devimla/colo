@@ -238,6 +238,7 @@ ul.color-swatches li.color-swatches-item {
 }
 #shopify-section-1610178560d1807d19 .description.rte.text-muted.mb-6 {
   color: #FFF !important;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
 }
 #shopify-section-1610178560d1807d19 .text-center {
   background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/946398e168eac1860dd4535285e49062ddbaf225/svg-email.svg');
