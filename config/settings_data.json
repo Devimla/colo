@@ -1531,16 +1531,16 @@
       "image_full_DdgqCw": {
         "type": "image-full",
         "settings": {
-          "bg_color": "bg-dark text-white",
-          "img": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
+          "bg_color": "bg-white text-body",
+          "img": "shopify:\/\/shop_images\/Order_20240416_211947_0000_4ccbb9f8-07fd-4a34-81b1-c06e37fbf361.png",
           "img_width": "720",
           "img_height": "405",
-          "img_thumbnail": true,
+          "img_thumbnail": false,
           "img_url": "",
           "padding_top": 0,
           "padding_bottom": 0,
           "margin_top": 0,
-          "margin_bottom": 9
+          "margin_bottom": 5
         }
       }
     },
