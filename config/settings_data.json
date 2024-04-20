@@ -273,7 +273,7 @@
       "1610178560d1807d19": {
         "type": "newsletter",
         "custom_css": [
-
+          ".p {color: FFF;}"
         ],
         "settings": {
           "title": "¡Consigue hasta un 10% de descuento!",
