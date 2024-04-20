@@ -1427,7 +1427,7 @@
           ".pt-5 {display: none;}",
           ".mt-2 {display: none;}",
           ".container {background: #f7f7f7; border-radius: 5px;}",
-          ".text-center {font-weight: bold;}"
+          ".title {font-weight: bold;}"
         ],
         "settings": {
           "title": "Testimonios de clientes",
