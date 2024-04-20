@@ -1499,6 +1499,7 @@
       "image_with_text_bXVeiM": {
         "type": "image-with-text",
         "custom_css": [
+          ".img-fluid {width: 580px;}",
           ".col-md {display: flex; align-items: center;}",
           ".col-md .description {margin-left: 20px;}"
         ],
