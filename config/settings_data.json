@@ -278,7 +278,7 @@
         "settings": {
           "title": "¡Consigue hasta un 10% de descuento!",
           "description": "<p>Sea el primero en recibir notificaciones sobre nuestras ofertas.<\/p>",
-          "note": "<p><strong>Usted puede cancelar la suscripción en cualquier momento.\"<\/strong><\/p>",
+          "note": "<p>Usted puede cancelar la suscripción en cualquier momento.<\/p>",
           "bg_color": "bg-white text-body",
           "btn_color": "btn-danger",
           "btn_size": "btn-lg",
