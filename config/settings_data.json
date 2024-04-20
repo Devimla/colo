@@ -1495,6 +1495,30 @@
           "margin_top": 0,
           "margin_bottom": 9
         }
+      },
+      "image_with_text_bXVeiM": {
+        "type": "image-with-text",
+        "settings": {
+          "bg_color": "bg-custom-gradient text-white",
+          "container": false,
+          "img": "shopify:\/\/shop_images\/Design_sem_nome.png",
+          "img_width": "720",
+          "img_height": "405",
+          "img_thumbnail": false,
+          "img_alignment": "flex-row-reverse",
+          "title": "Imagem com texto",
+          "title_size": "h2",
+          "description": "<p>Combine um texto grande com uma imagem para dar foco ao produto, coleção ou postagem do blog que você escolheu. Adicione detalhes sobre disponibilidade, estilo ou até mesmo forneça um comentário.<\/p>",
+          "description_lead": false,
+          "btn_url": "",
+          "btn_text": "Saber mais",
+          "btn_color": "btn-outline-primary",
+          "btn_size": "",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
       }
     },
     "content_for_index": [
@@ -1504,7 +1528,8 @@
       "featured_collection_neLffA",
       "testimonials_bccgCt",
       "featured_product_r9pWHj",
-      "1610178560d1807d19"
+      "1610178560d1807d19",
+      "image_with_text_bXVeiM"
     ],
     "blocks": {
       "14060646107696862457": {
