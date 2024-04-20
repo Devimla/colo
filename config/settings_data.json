@@ -1426,7 +1426,7 @@
         "custom_css": [
           ".pt-5 {display: none;}",
           ".mt-2 {display: none;}",
-          ".container {background: #f7f7f7; border-radius: 5px;}",
+          ".container {padding-top: 10px; background: #f7f7f7; border-radius: 5px;}",
           ".title {font-weight: bold;}"
         ],
         "settings": {
