@@ -240,7 +240,7 @@ ul.color-swatches li.color-swatches-item {
   color: #FFF !important;
   background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/946398e168eac1860dd4535285e49062ddbaf225/svg-email.svg');
   background-repeat: no-repeat;
-  background-size: 20px 20px; /* Ajuste o tamanho conforme necessário */
+  background-size: 60px 60px; /* Ajuste o tamanho conforme necessário */
   background-position: left center; /* Altere a posição conforme necessário */
   padding-left: 25px; /* Adiciona espaço para o ícone */ 
 }
