@@ -300,3 +300,8 @@ ul.color-swatches li.color-swatches-item {
   margin-top: 40px; /* Ajuste conforme necessário */
 }
 }
+#shopify-section-image_with_text_bXVeiM .img-fluid {
+  width: 580px;} 
+#shopify-section-image_with_text_bXVeiM .col-md {display: flex; align-items: center;} 
+#shopify-section-image_with_text_bXVeiM .col-md .description {margin-left: 20px;} 
+#shopify-section-image_with_text_bXVeiM .lead {font-size: 16px;} 
