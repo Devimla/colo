@@ -238,11 +238,6 @@ ul.color-swatches li.color-swatches-item {
 }
 #shopify-section-1610178560d1807d19 .description.rte.text-muted.mb-6 {
   color: #FFF !important;
-  background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/946398e168eac1860dd4535285e49062ddbaf225/svg-email.svg');
-  background-repeat: no-repeat;
-  background-size: 120px 120px; /* Ajuste o tamanho conforme necessário */
-  background-position: left center; /* Altere a posição conforme necessário */
-  padding-left: 25px; /* Adiciona espaço para o ícone */ 
 }
 #shopify-section-infobar .list-unstyled.mx-n3.mb-0.row.row-cols-1.row-cols-md-2.row-cols-lg-4 .mr-4 {
   color: #0070dc !important;
