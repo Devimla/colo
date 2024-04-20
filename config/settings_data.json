@@ -1384,6 +1384,9 @@
           "testimonial_3tajV9",
           "testimonial_4w4Krg"
         ],
+        "custom_css": [
+          ".pt-5 {display: none;}"
+        ],
         "settings": {
           "title": "Testimonios de clientes",
           "description": "<p>Más de 1000 reseñas de nuestros clientes de confianza no pueden estar equivocadas ❤️<\/p>",
