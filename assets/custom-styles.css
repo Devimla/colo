@@ -301,5 +301,10 @@ ul.color-swatches li.color-swatches-item {
 }
 }
 #shopify-section-image_with_text_bXVeiM .img-fluid {
-  width: 580px;
-} 
+  width: 580px;}
+@media screen and (min-width: 1024px) { 
+#shopify-section-image_with_text_bXVeiM .col-md {display: flex; align-items: center;}}
+@media screen and (min-width: 1024px) {
+#shopify-section-image_with_text_bXVeiM .col-md .description {margin-left: 20px;}}
+@media screen and (min-width: 1024px) {
+#shopify-section-image_with_text_bXVeiM .lead {font-size: 16px;}}
