@@ -1220,38 +1220,6 @@
           "blackfriday_svg_color": "#e22519"
         }
       },
-      "94bcf2f4-8f06-4dcd-b095-19705ff8ef42": {
-        "type": "blog-posts",
-        "disabled": true,
-        "settings": {
-          "blog": "blog-loja-happenz",
-          "title": "Postagens no blog",
-          "description": "<p>Escreva algo cativante aqui<\/p>",
-          "container": true,
-          "bg_light": false,
-          "title_alignment": "text-center",
-          "title_size": "h2",
-          "show_author": false,
-          "show_date": false,
-          "show_comments": false,
-          "show_excerpt": true,
-          "excerpt_length": "100",
-          "show_readmore": false,
-          "readmore_color": "btn-outline-primary",
-          "readmore_size": "",
-          "img_width": "450",
-          "img_height": "450",
-          "img_thumbnail": true,
-          "limit": 4,
-          "row_mobile": 2,
-          "row_tablet": 2,
-          "row_desktop": 3,
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 0,
-          "margin_bottom": 9
-        }
-      },
       "ryviu-widget": {
         "type": "ryviu-widget",
         "custom_css": [
@@ -1527,30 +1495,6 @@
           "margin_top": 0,
           "margin_bottom": 9
         }
-      },
-      "image_with_text_i7etLB": {
-        "type": "image-with-text",
-        "settings": {
-          "bg_color": "bg-custom-gradient text-white",
-          "container": true,
-          "img": "shopify:\/\/shop_images\/Design_sem_nome.png",
-          "img_width": "720",
-          "img_height": "405",
-          "img_thumbnail": false,
-          "img_alignment": "flex-row",
-          "title": "Imagem com texto",
-          "title_size": "h2",
-          "description": "<p>Combine um texto grande com uma imagem para dar foco ao produto, coleção ou postagem do blog que você escolheu. Adicione detalhes sobre disponibilidade, estilo ou até mesmo forneça um comentário.<\/p>",
-          "description_lead": true,
-          "btn_url": "",
-          "btn_text": "Saber mais",
-          "btn_color": "btn-outline-primary",
-          "btn_size": "",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 0,
-          "margin_bottom": 9
-        }
       }
     },
     "content_for_index": [
@@ -1559,10 +1503,8 @@
       "featured_collection_MjjdNA",
       "featured_collection_neLffA",
       "testimonials_bccgCt",
-      "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
       "featured_product_r9pWHj",
-      "1610178560d1807d19",
-      "image_with_text_i7etLB"
+      "1610178560d1807d19"
     ],
     "blocks": {
       "14060646107696862457": {
