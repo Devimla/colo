@@ -1429,7 +1429,7 @@
         ],
         "settings": {
           "title": "Testimonios de clientes",
-          "description": "<p>Más de 1000 reseñas de nuestros clientes de confianza no pueden estar equivocadas ❤️<\/p>",
+          "description": "<p>Más de <strong>1000 reseñas<\/strong> de nuestros clientes de confianza no pueden estar equivocadas ❤️<\/p>",
           "title_alignment": "text-center",
           "title_size": "h2",
           "bg_color": "bg-white text-body",
