@@ -1242,7 +1242,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/Promocion_1600_x_440_px_1.png",
               "imagemb": "shopify:\/\/shop_images\/Promocion_1.png",
-              "button_url": ""
+              "button_url": "shopify:\/\/collections\/ropa-y-accesorios"
             }
           }
         },
