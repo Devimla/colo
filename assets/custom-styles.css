@@ -277,4 +277,7 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-footer .col-md-4 {
   flex: none; 
   max-width: none;
-} 
+}
+#shopify-section-image_with_text_bXVeiM .description {
+  color: #333;
+}
