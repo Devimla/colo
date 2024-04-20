@@ -1501,7 +1501,8 @@
         "custom_css": [
           ".img-fluid {width: 580px;}",
           ".col-md {display: flex; align-items: center;}",
-          ".col-md .description {margin-left: 20px;}"
+          ".col-md .description {margin-left: 20px;}",
+          ".lead {font-size: 16px;}"
         ],
         "settings": {
           "bg_color": "bg-white text-body",
