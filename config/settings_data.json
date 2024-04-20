@@ -1391,13 +1391,25 @@
               "customer_name": "Paula Pereira",
               "customer_description": ""
             }
+          },
+          "testimonial_RByEmc": {
+            "type": "testimonial",
+            "settings": {
+              "product": "tapete-masajeador-de-pies",
+              "title": "",
+              "description": "<p>Es un muy buen producto que tiene un precio increíblemente barato. El pedido vino perfectamente embalado y sin ningún daño.<br\/>Mucha rapidez en el envío<\/p>",
+              "date": "22\/03\/2024",
+              "customer_name": "Fabrícia Braga",
+              "customer_description": ""
+            }
           }
         },
         "block_order": [
           "testimonial_axDp4j",
           "testimonial_3tajV9",
           "testimonial_4w4Krg",
-          "testimonial_FeFcJ9"
+          "testimonial_FeFcJ9",
+          "testimonial_RByEmc"
         ],
         "custom_css": [
           ".pt-5 {display: none;}",
