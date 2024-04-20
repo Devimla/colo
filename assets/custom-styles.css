@@ -239,7 +239,7 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-1610178560d1807d19 .description.rte.text-muted.mb-6 {
   color: #FFF !important;
 }
-#shopify-section-1610178560d1807d19 .text-center::before {
+#shopify-section-1610178560d1807d19 .text-center {
   content: '';
   display: inline-block;
   width: 130px; /* largura da imagem */
@@ -251,7 +251,7 @@ ul.color-swatches li.color-swatches-item {
 }
 
 @media screen and (min-width: 1024px) {
-  #shopify-section-1610178560d1807d19 .text-center::before {
+  #shopify-section-1610178560d1807d19 .text-center {
     content: '';
     display: inline-block;
     width: 130px; /* largura da imagem */
