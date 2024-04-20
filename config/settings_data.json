@@ -325,7 +325,8 @@
       "collection-template": {
         "type": "collection-template",
         "custom_css": [
-          ".product-title {color: #333333;}"
+          ".product-title {color: #333333;}",
+          ".jdgm-prev-badge__text {display: none}"
         ],
         "settings": {
           "container": true,
