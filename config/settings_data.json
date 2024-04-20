@@ -1241,7 +1241,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/Promocion_1600_x_440_px_1.png",
-              "imagemb": "shopify:\/\/shop_images\/Promocion.png",
+              "imagemb": "shopify:\/\/shop_images\/Promocion_1.png",
               "button_url": ""
             }
           }
