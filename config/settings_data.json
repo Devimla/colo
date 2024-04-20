@@ -936,6 +936,12 @@
       "1629938086ae988321": {
         "type": "collection-list",
         "blocks": {
+          "collection_MNFja8": {
+            "type": "collection",
+            "settings": {
+              "collection": "electronicos"
+            }
+          },
           "collection_n9DFPm": {
             "type": "collection",
             "settings": {
@@ -959,23 +965,17 @@
             "settings": {
               "collection": "herramientas-y-utilidades"
             }
-          },
-          "collection_MNFja8": {
-            "type": "collection",
-            "settings": {
-              "collection": "mascota"
-            }
           }
         },
         "block_order": [
+          "collection_MNFja8",
           "collection_n9DFPm",
           "a0e35455-0875-41dc-976b-3eaf131db078",
           "collection_ifBgRW",
-          "collection_X3p8bb",
-          "collection_MNFja8"
+          "collection_X3p8bb"
         ],
         "custom_css": [
-          ".img-thumbnail {border: 1px solid #0070DC;}"
+          ".img-thumbnail {border: 1px solid #0070dc;}"
         ],
         "settings": {
           "title_t": "Nuestras colecciones",
