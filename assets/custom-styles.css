@@ -306,6 +306,9 @@ line-height: 27px;
   margin-top: 40px; /* Ajuste conforme necessário */
 }
 }
+#shopify-section-image_with_text_bXVeiM .lead {
+  font-size: 16px;
+}
 #shopify-section-image_with_text_bXVeiM .img-fluid {
   width: 580px;}
 @media screen and (min-width: 1024px) { 
