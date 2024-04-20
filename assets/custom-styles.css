@@ -93,7 +93,9 @@ div.d-flex.remover-icon-search input.form-control.mr-2{
   font-size: 12px;
   margin-top: 5px;
 }
-
+.form-control::placeholder {
+  color: #FFFFFF !important;
+}
 svg.botao-pes.icon-search { margin-top: 4px; }
 
 h3.product-title.h6 { 
