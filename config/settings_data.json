@@ -1279,7 +1279,7 @@
         "settings": {
           "title": "Los queridos",
           "description": "<p>Echa un vistazo a nuestros productos más vendidos<\/p>",
-          "bg_light": true,
+          "bg_light": false,
           "title_alignment": "text-center",
           "title_size": "h2",
           "tabs_alignment": "justify-content-center",
