@@ -988,7 +988,7 @@
           "cortitlec": "#333333",
           "corhover": "#1773b0",
           "cor_bg": "#ffffff",
-          "carousel_arrows": true,
+          "carousel_arrows": false,
           "carousel_pagination": true,
           "carousel_rewind": true,
           "carousel_autoplay": false,
