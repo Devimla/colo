@@ -1319,7 +1319,7 @@
           "title_alignment": "text-center",
           "title_size": "h2",
           "tabs_alignment": "justify-content-center",
-          "container": true,
+          "container": false,
           "limit": "15",
           "carousel_arrows": false,
           "carousel_pagination": false,
