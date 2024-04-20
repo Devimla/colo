@@ -1338,7 +1338,7 @@
           "breakpoint_xm": 2,
           "breakpoint_sm": 2,
           "breakpoint_md": 3,
-          "breakpoint_lg": 3,
+          "breakpoint_lg": 5,
           "breakpoint_xl": 4,
           "breakpoint_xxl": 5,
           "padding_top": 0,
