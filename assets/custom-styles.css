@@ -287,6 +287,8 @@ ul.color-swatches li.color-swatches-item {
 @media screen and (min-width: 1024px) {
 #shopify-section-image_with_text_bXVeiM .overlay {
   position: relative;
+  width: 50%;
+  padding-left: 60px;
 }
 }
 @media screen and (min-width: 1024px) {
