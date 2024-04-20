@@ -147,6 +147,13 @@
               "title": "Nuestras políticas"
             }
           },
+          "link_list_xtCtbb": {
+            "type": "link_list",
+            "settings": {
+              "menu": "main-menu",
+              "title": "CATEGORÍAS"
+            }
+          },
           "ae528aaa-8976-4a00-8ebb-6576e682cb7a": {
             "type": "headline",
             "disabled": true,
@@ -171,6 +178,7 @@
         },
         "block_order": [
           "aded85c1-53fd-4ded-9bf7-e3cbfe2a3218",
+          "link_list_xtCtbb",
           "ae528aaa-8976-4a00-8ebb-6576e682cb7a",
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
