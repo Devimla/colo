@@ -1449,6 +1449,9 @@
       },
       "featured_product_r9pWHj": {
         "type": "featured-product",
+        "custom_css": [
+          ".align-items-center {background: #FFF;}"
+        ],
         "settings": {
           "product": "masajeador-facial-reductor-arrugas-y-papada-recargable",
           "bg_light": true,
