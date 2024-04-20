@@ -980,7 +980,7 @@
         "settings": {
           "title_t": "Nuestras colecciones",
           "description": "",
-          "container": true,
+          "container": false,
           "title_alignment": "text-center",
           "title": true,
           "cortitlec": "#333333",
@@ -1005,7 +1005,7 @@
           "padding_top": 0,
           "padding_bottom": 0,
           "margin_top": 0,
-          "margin_bottom": 0
+          "margin_bottom": 5
         }
       },
       "page-template-faq": {
