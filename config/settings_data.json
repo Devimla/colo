@@ -1491,9 +1491,9 @@
           "collection_b3cU8C"
         ],
         "settings": {
-          "title": "Coleção em destaque",
-          "description": "<p>Escreva algo atraente para esta seção.<\/p>",
-          "bg_light": false,
+          "title": "Salud y Belleza",
+          "description": "<p>Descubre una colección de productos increíbles para hacerte aún más bella.<\/p>",
+          "bg_light": true,
           "title_alignment": "text-center",
           "title_size": "h2",
           "tabs_alignment": "justify-content-center",
