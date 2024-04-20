@@ -1516,7 +1516,7 @@
           "show_rating": true,
           "no_show_rating_name": true,
           "show_price": true,
-          "breakpoint_xm": 3,
+          "breakpoint_xm": 2,
           "breakpoint_sm": 3,
           "breakpoint_md": 3,
           "breakpoint_lg": 3,
