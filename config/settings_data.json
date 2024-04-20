@@ -1517,11 +1517,33 @@
           "no_show_rating_name": true,
           "show_price": true,
           "breakpoint_xm": 2,
-          "breakpoint_sm": 3,
+          "breakpoint_sm": 2,
           "breakpoint_md": 3,
           "breakpoint_lg": 3,
           "breakpoint_xl": 4,
           "breakpoint_xxl": 5,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
+      },
+      "featured_content_KzNknk": {
+        "type": "featured-content",
+        "settings": {
+          "title": "Conteúdo em destaque",
+          "description": "<p>Use este texto para compartilhar informações sobre sua marca com seus clientes. Descreva um produto, compartilhe anúncios ou dê as boas-vindas aos clientes em sua loja.<\/p>",
+          "button_url": "",
+          "button_text": "Saber mais",
+          "bg_color": "bg-light",
+          "bg_img": "shopify:\/\/shop_images\/Promocion_1600_x_440_px_626_x_800_px.png",
+          "fixed_bg_img": true,
+          "alignment": "text-center",
+          "max_width": "720",
+          "title_size": "h2",
+          "description_lead": false,
+          "btn_color": "btn-primary",
+          "btn_size": "",
           "padding_top": 0,
           "padding_bottom": 0,
           "margin_top": 0,
@@ -1537,7 +1559,8 @@
       "testimonials_bccgCt",
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
       "featured_product_r9pWHj",
-      "1610178560d1807d19"
+      "1610178560d1807d19",
+      "featured_content_KzNknk"
     ],
     "blocks": {
       "14060646107696862457": {
