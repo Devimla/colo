@@ -1402,6 +1402,17 @@
               "customer_name": "Fabrícia Braga",
               "customer_description": ""
             }
+          },
+          "testimonial_N6TnpE": {
+            "type": "testimonial",
+            "settings": {
+              "product": "cepillo-alisador-plancha-2-en-1-color-aleatorio",
+              "title": "",
+              "description": "<p>Llego antes de la fecha estimada, la caja llego totalmente destrozada pero el producto se ve intacto, espero funciones bien ya que aun no lo pruebo. Los materiales se sienten de calidad<\/p>",
+              "date": "03\/25\/2024",
+              "customer_name": "Talita Martins",
+              "customer_description": "Barranquilla - Atlántico"
+            }
           }
         },
         "block_order": [
@@ -1409,7 +1420,8 @@
           "testimonial_3tajV9",
           "testimonial_4w4Krg",
           "testimonial_FeFcJ9",
-          "testimonial_RByEmc"
+          "testimonial_RByEmc",
+          "testimonial_N6TnpE"
         ],
         "custom_css": [
           ".pt-5 {display: none;}",
