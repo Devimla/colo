@@ -240,26 +240,18 @@ ul.color-swatches li.color-swatches-item {
   color: #FFF !important;
 }
 #shopify-section-1610178560d1807d19 .text-center {
-  content: '';
-  display: inline-block;
-  width: 130px; /* largura da imagem */
-  height: 130px; /* altura da imagem */
   background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/946398e168eac1860dd4535285e49062ddbaf225/svg-email.svg');
   background-repeat: no-repeat;
-  background-size: cover;
-  margin-right: 10px; /* espaçamento entre a imagem e o conteúdo */
+  background-size: 130px 130px; /* Ajuste o tamanho conforme necessário */
+  padding-left: 10px; /* Adiciona espaço para o ícone */ 
 }
 
 @media screen and (min-width: 1024px) {
   #shopify-section-1610178560d1807d19 .text-center {
-    content: '';
-    display: inline-block;
-    width: 130px; /* largura da imagem */
-    height: 130px; /* altura da imagem */
-    background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/946398e168eac1860dd4535285e49062ddbaf225/svg-email.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-right: 10px; /* espaçamento entre a imagem e o conteúdo */
+  background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/946398e168eac1860dd4535285e49062ddbaf225/svg-email.svg');
+  background-repeat: no-repeat;
+  padding-bottom: 30px;
+  background-size: 170px 170px; /* Ajuste o tamanho conforme necessário */
   }
 }
 #shopify-section-infobar .list-unstyled.mx-n3.mb-0.row.row-cols-1.row-cols-md-2.row-cols-lg-4 .mr-4 {
