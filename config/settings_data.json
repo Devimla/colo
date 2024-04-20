@@ -1426,7 +1426,7 @@
         "custom_css": [
           ".pt-5 {display: none;}",
           ".mt-2 {display: none;}",
-          ".container {background: #f7f7f7; border-radius: 5px; margin: 5px;}"
+          ".container {background: #f7f7f7; border-radius: 5px; margin: 10px;}"
         ],
         "settings": {
           "title": "Testimonios de clientes",
