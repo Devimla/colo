@@ -329,7 +329,7 @@
           "paginate": 15,
           "show_tags": false,
           "show_collection_img": false,
-          "infinite_scroll": true,
+          "infinite_scroll": false,
           "enable_filters": true,
           "show_filter_color": true,
           "img_width": "480",
