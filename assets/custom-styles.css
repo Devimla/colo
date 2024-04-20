@@ -284,15 +284,19 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-image_with_text_bXVeiM .title {
   text-align: center;
 }
-.overlay {
+@media screen and (min-width: 1024px) {
+#shopify-section-image_with_text_bXVeiM .overlay {
   position: relative;
 }
-
+}
+@media screen and (min-width: 1024px) {
 .overlay h2.title {
   top: 0;
   left: 0;
 }
-
+}
+@media screen and (min-width: 1024px) {
 .overlay .description {
   margin-top: 40px; /* Ajuste conforme necessário */
+}
 }
