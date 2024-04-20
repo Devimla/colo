@@ -1380,12 +1380,24 @@
               "customer_name": "Norberto Melo",
               "customer_description": "Cartagena - Bolívar"
             }
+          },
+          "testimonial_FeFcJ9": {
+            "type": "testimonial",
+            "settings": {
+              "product": "masajeador-facial-reductor-arrugas-y-papada-recargable",
+              "title": "",
+              "description": "<p>super buen masajeador. lo recomiendo. te das masaje cada vez que te pongas crema y se te estiliza la papada. lo recomiendo porque he mejorado. pero hay que ser constante.<\/p>",
+              "date": "",
+              "customer_name": "",
+              "customer_description": ""
+            }
           }
         },
         "block_order": [
           "testimonial_axDp4j",
           "testimonial_3tajV9",
-          "testimonial_4w4Krg"
+          "testimonial_4w4Krg",
+          "testimonial_FeFcJ9"
         ],
         "custom_css": [
           ".pt-5 {display: none;}",
