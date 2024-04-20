@@ -5447,6 +5447,7 @@ body #cookie-bar .input-group > .input-group-prepend:first-child > #cookie-bar-b
 .navbar-nav {
   display: flex;
   flex-direction: column;
+  text-align: center;
   margin-bottom: 0;
   list-style: none;
 }
