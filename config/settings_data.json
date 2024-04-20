@@ -975,7 +975,7 @@
           "collection_MNFja8"
         ],
         "custom_css": [
-
+          ".img-thumbnail {border: 1px solid #0070DC;}"
         ],
         "settings": {
           "title_t": "Nuestras colecciones",
