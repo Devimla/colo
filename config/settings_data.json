@@ -1304,7 +1304,8 @@
           "collection_hcdUME"
         ],
         "custom_css": [
-          ".product-title {color: #333;}"
+          ".product-title {color: #333;}",
+          ".product-title:hover {color: #0070DC;}"
         ],
         "settings": {
           "title": "Los queridos",
