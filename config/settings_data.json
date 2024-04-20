@@ -1510,7 +1510,7 @@
           "title_size": "h2",
           "description": "<p>¡Bienvenido a La Tienda Mix! Somos tu destino virtual para productos innovadores y en tendencia, respaldados por más de 10 años de experiencia y la entrega de más de 120,000 pedidos. En La Tienda Mix, nos enorgullece ofrecer la mejor calidad, un soporte excepcional y precios especiales en todos nuestros productos. Con envío gratis y opción de pago contraentrega en toda Colombia, hacemos que tu experiencia de compra sea conveniente y confiable.<\/p><p><strong>¡Explora el Mix de productos premium y únete a nuestra comunidad de clientes satisfechos<\/strong><\/p>",
           "description_lead": true,
-          "btn_url": "shopify:\/\/policies\/refund-policy",
+          "btn_url": "",
           "btn_text": "Saber mais",
           "btn_color": "btn-outline-primary",
           "btn_size": "",
