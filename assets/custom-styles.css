@@ -281,6 +281,9 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-image_with_text_bXVeiM .description {
   color: #333;
 }
+#shopify-section-image_with_text_bXVeiM .title {
+  text-align: center;
+}
 .overlay {
   position: relative;
 }
