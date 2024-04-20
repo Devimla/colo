@@ -281,3 +281,16 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-image_with_text_bXVeiM .description {
   color: #333;
 }
+.overlay {
+  position: relative;
+}
+
+.overlay h2.title {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.overlay .description {
+  margin-top: 40px; /* Ajuste conforme necessário */
+}
