@@ -150,7 +150,7 @@
           "link_list_xtCtbb": {
             "type": "link_list",
             "settings": {
-              "menu": "main-menu",
+              "menu": "categor-as",
               "title": "CATEGORÍAS"
             }
           },
