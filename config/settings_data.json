@@ -325,11 +325,12 @@
       "collection-template": {
         "type": "collection-template",
         "custom_css": [
-          ".product-title {color: #333333;}"
+          ".product-title {color: #333333;}",
+          ".jdgm-prev-badge__text {display: none;}"
         ],
         "settings": {
           "container": true,
-          "paginate": 12,
+          "paginate": 15,
           "show_tags": false,
           "show_collection_img": false,
           "infinite_scroll": false,
@@ -1373,9 +1374,9 @@
           "testimonial_4w4Krg": {
             "type": "testimonial",
             "settings": {
-              "product": "audifonos-auriculares-conduccion-osea-s9-bluetooth-deportes-1",
+              "product": "",
               "title": "",
-              "description": "<p>excelente producto se escucha bien y lo.mas importante no molesta al oído recomendado, ligeros y material<\/p>",
+              "description": "<p>Não só é lindo e atraente, mas também é super rápido. Eu tentei diferentes temas antes, mas com o tema eu pude terminar minha loja muito rapidamente (dentro de 1 semana). Posso recomendar, com certeza ...<\/p>",
               "date": "19 de jun, 2021",
               "customer_name": "Bruno santos",
               "customer_description": "Goiania - GO"
