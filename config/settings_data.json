@@ -1498,6 +1498,9 @@
       },
       "image_with_text_bXVeiM": {
         "type": "image-with-text",
+        "custom_css": [
+          ".description {color: red;}"
+        ],
         "settings": {
           "bg_color": "bg-white text-body",
           "container": false,
