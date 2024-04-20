@@ -1341,6 +1341,68 @@
           "margin_top": 0,
           "margin_bottom": 9
         }
+      },
+      "testimonials_bccgCt": {
+        "type": "testimonials",
+        "blocks": {
+          "testimonial_axDp4j": {
+            "type": "testimonial",
+            "settings": {
+              "product": "",
+              "title": "Muito impressionado com o design do tema.",
+              "description": "<p>Não só é lindo e atraente, mas também é super rápido. Eu tentei diferentes temas antes, mas com o tema eu pude terminar minha loja muito rapidamente (dentro de 1 semana). Posso recomendar, com certeza ...<\/p>",
+              "date": "19 de jun, 2021",
+              "customer_name": "Bruno santos",
+              "customer_description": "Goiania - GO"
+            }
+          },
+          "testimonial_3tajV9": {
+            "type": "testimonial",
+            "settings": {
+              "product": "",
+              "title": "Muito impressionado com o design do tema.",
+              "description": "<p>Não só é lindo e atraente, mas também é super rápido. Eu tentei diferentes temas antes, mas com o tema eu pude terminar minha loja muito rapidamente (dentro de 1 semana). Posso recomendar, com certeza ...<\/p>",
+              "date": "19 de jun, 2021",
+              "customer_name": "Bruno santos",
+              "customer_description": "Goiania - GO"
+            }
+          },
+          "testimonial_4w4Krg": {
+            "type": "testimonial",
+            "settings": {
+              "product": "",
+              "title": "Muito impressionado com o design do tema.",
+              "description": "<p>Não só é lindo e atraente, mas também é super rápido. Eu tentei diferentes temas antes, mas com o tema eu pude terminar minha loja muito rapidamente (dentro de 1 semana). Posso recomendar, com certeza ...<\/p>",
+              "date": "19 de jun, 2021",
+              "customer_name": "Bruno santos",
+              "customer_description": "Goiania - GO"
+            }
+          }
+        },
+        "block_order": [
+          "testimonial_axDp4j",
+          "testimonial_3tajV9",
+          "testimonial_4w4Krg"
+        ],
+        "settings": {
+          "title": "Testimonios de clientes",
+          "description": "<p>Más de 1000 reseñas de nuestros clientes de confianza no pueden estar equivocadas ❤️<\/p>",
+          "title_alignment": "text-center",
+          "title_size": "h2",
+          "bg_color": "bg-white text-body",
+          "container": true,
+          "customer_photo_circle": true,
+          "customer_photo_size": "90",
+          "controls": true,
+          "indicators": true,
+          "interval": 5,
+          "transition_effect": "carousel-animate-css carousel-zoom",
+          "transition_speed": "animate__normal",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 9
+        }
       }
     },
     "content_for_index": [
@@ -1348,7 +1410,8 @@
       "1629938086ae988321",
       "featured_collection_MjjdNA",
       "1610178560d1807d19",
-      "94bcf2f4-8f06-4dcd-b095-19705ff8ef42"
+      "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
+      "testimonials_bccgCt"
     ],
     "blocks": {
       "14060646107696862457": {
