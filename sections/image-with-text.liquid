@@ -20,7 +20,7 @@
                         alt="{{ section.settings.image.alt | escape }}"
                         width="{{ section.settings.img_width }}"
                         height="{{ section.settings.img_height }}"
-                        loading="lazy">
+                        loading="">
                 {% else %}
                     {{ 'image' | placeholder_svg_tag: 'placeholder-svg bg-light mb-4 mb-md-0 rounded' }}
                 {% endif %}
