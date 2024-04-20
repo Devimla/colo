@@ -975,7 +975,7 @@
           "collection_X3p8bb"
         ],
         "custom_css": [
-          ".img-thumbnail {border: 1px solid #0070dc;}"
+
         ],
         "settings": {
           "title_t": "Nuestras colecciones",
@@ -995,7 +995,7 @@
           "carousel_speed": "400",
           "img_width": "150",
           "img_height": "150",
-          "img_thumbnail": true,
+          "img_thumbnail": false,
           "breakpoint_xm": 2,
           "breakpoint_sm": 2,
           "breakpoint_md": 3,
