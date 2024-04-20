@@ -5444,15 +5444,12 @@ body #cookie-bar .input-group > .input-group-prepend:first-child > #cookie-bar-b
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
 }
-
 .navbar-nav {
   display: flex;
   flex-direction: column;
-  /* padding-left: 0; */
   margin-bottom: 0;
   list-style: none;
 }
-
 .navbar-nav .nav-link {
   padding-right: 0;
   padding-left: 0;
