@@ -1446,6 +1446,30 @@
           "margin_top": 0,
           "margin_bottom": 9
         }
+      },
+      "featured_product_r9pWHj": {
+        "type": "featured-product",
+        "settings": {
+          "product": "masajeador-facial-reductor-arrugas-y-papada-recargable",
+          "bg_light": false,
+          "badge": "Produto em destaque",
+          "badge_color": "badge-secondary",
+          "product_title_heading_size": "h2",
+          "show_vendor": false,
+          "show_rating": true,
+          "show_price": true,
+          "description_truncate": "240",
+          "quick_view_btn_color": "btn-outline-primary",
+          "quick_view_btn_size": "",
+          "show_social_sharing": true,
+          "img_width": "640",
+          "img_height": "640",
+          "img_thumbnail": true,
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 3,
+          "margin_bottom": 6
+        }
       }
     },
     "content_for_index": [
@@ -1454,7 +1478,8 @@
       "featured_collection_MjjdNA",
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
       "testimonials_bccgCt",
-      "1610178560d1807d19"
+      "1610178560d1807d19",
+      "featured_product_r9pWHj"
     ],
     "blocks": {
       "14060646107696862457": {
