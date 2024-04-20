@@ -1298,20 +1298,6 @@
           "margin_bottom": 9
         }
       },
-      "image_full_HgwiMi": {
-        "type": "image-full",
-        "settings": {
-          "bg_color": "bg-white text-body",
-          "img_width": "720",
-          "img_height": "405",
-          "img_thumbnail": false,
-          "img_url": "",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 15,
-          "margin_bottom": 9
-        }
-      },
       "featured_collection_MjjdNA": {
         "type": "featured-collection",
         "blocks": {
@@ -1329,15 +1315,15 @@
         "settings": {
           "title": "Coleção em destaque",
           "description": "<p>Escreva algo atraente para esta seção.<\/p>",
-          "bg_light": false,
+          "bg_light": true,
           "title_alignment": "text-center",
           "title_size": "h2",
           "tabs_alignment": "justify-content-center",
           "container": true,
           "limit": "15",
           "carousel_arrows": false,
-          "carousel_pagination": true,
-          "carousel_rewind": true,
+          "carousel_pagination": false,
+          "carousel_rewind": false,
           "carousel_autoplay": false,
           "carousel_interval": 6,
           "carousel_easing": "cubic-bezier(.42,.65,.27,.99)",
@@ -1367,7 +1353,6 @@
       "1629938086ae988321",
       "1610178560d1807d19",
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
-      "image_full_HgwiMi",
       "featured_collection_MjjdNA"
     ],
     "blocks": {
