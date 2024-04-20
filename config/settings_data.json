@@ -995,7 +995,7 @@
           "carousel_speed": "400",
           "img_width": "150",
           "img_height": "150",
-          "img_thumbnail": false,
+          "img_thumbnail": true,
           "breakpoint_xm": 2,
           "breakpoint_sm": 2,
           "breakpoint_md": 3,
