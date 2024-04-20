@@ -1304,8 +1304,8 @@
           "collection_hcdUME"
         ],
         "settings": {
-          "title": "Coleção em destaque",
-          "description": "<p>Escreva algo atraente para esta seção.<\/p>",
+          "title": "Los queridos",
+          "description": "<p>Echa un vistazo a nuestros productos más vendidos<\/p>",
           "bg_light": true,
           "title_alignment": "text-center",
           "title_size": "h2",
