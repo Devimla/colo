@@ -1499,7 +1499,7 @@
       "image_with_text_bXVeiM": {
         "type": "image-with-text",
         "settings": {
-          "bg_color": "bg-dark-gradient text-white",
+          "bg_color": "bg-white text-body",
           "container": false,
           "img_width": "720",
           "img_height": "405",
