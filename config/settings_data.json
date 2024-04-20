@@ -1385,7 +1385,8 @@
           "testimonial_4w4Krg"
         ],
         "custom_css": [
-          ".pt-5 {display: none;}"
+          ".pt-5 {display: none;}",
+          ".mt-2 {display: none}"
         ],
         "settings": {
           "title": "Testimonios de clientes",
