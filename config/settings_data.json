@@ -1528,22 +1528,15 @@
           "margin_bottom": 9
         }
       },
-      "featured_content_KzNknk": {
-        "type": "featured-content",
+      "image_full_DdgqCw": {
+        "type": "image-full",
         "settings": {
-          "title": "Conteúdo em destaque",
-          "description": "<p>Use este texto para compartilhar informações sobre sua marca com seus clientes. Descreva um produto, compartilhe anúncios ou dê as boas-vindas aos clientes em sua loja.<\/p>",
-          "button_url": "",
-          "button_text": "Saber mais",
-          "bg_color": "bg-light",
-          "bg_img": "shopify:\/\/shop_images\/Promocion_1600_x_440_px_626_x_800_px.png",
-          "fixed_bg_img": true,
-          "alignment": "text-center",
-          "max_width": "720",
-          "title_size": "h2",
-          "description_lead": false,
-          "btn_color": "btn-primary",
-          "btn_size": "",
+          "bg_color": "bg-dark text-white",
+          "img": "shopify:\/\/shop_images\/Promocion_1600_x_440_px_626_x_800_px.png",
+          "img_width": "720",
+          "img_height": "405",
+          "img_thumbnail": true,
+          "img_url": "",
           "padding_top": 0,
           "padding_bottom": 0,
           "margin_top": 0,
@@ -1560,7 +1553,7 @@
       "94bcf2f4-8f06-4dcd-b095-19705ff8ef42",
       "featured_product_r9pWHj",
       "1610178560d1807d19",
-      "featured_content_KzNknk"
+      "image_full_DdgqCw"
     ],
     "blocks": {
       "14060646107696862457": {
