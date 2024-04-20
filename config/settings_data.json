@@ -1499,7 +1499,8 @@
       "image_with_text_bXVeiM": {
         "type": "image-with-text",
         "custom_css": [
-
+          ".col-md {display: flex; align-items: center;}",
+          ".col-md .description {margin-left: 20px;}"
         ],
         "settings": {
           "bg_color": "bg-white text-body",
