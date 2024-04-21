@@ -1397,6 +1397,17 @@
               "customer_name": "Fabrícia Braga",
               "customer_description": ""
             }
+          },
+          "testimonial_i87ekw": {
+            "type": "testimonial",
+            "settings": {
+              "product": "cepillo-5-en-1-hot-air-styler",
+              "title": "",
+              "description": "<p>Producto increíble, funciona muy bien como esperaba y tal vez más❤¡️ Realmente lo recomiendo! Me hice el pelo y se ven sin costuras y super brillante y hinchable<\/p>",
+              "date": "18\/03\/2024",
+              "customer_name": "Paula Oliveira",
+              "customer_description": "Mocoa - Putumayo"
+            }
           }
         },
         "block_order": [
@@ -1406,7 +1417,8 @@
           "testimonial_axDp4j",
           "testimonial_3tajV9",
           "testimonial_4w4Krg",
-          "testimonial_RByEmc"
+          "testimonial_RByEmc",
+          "testimonial_i87ekw"
         ],
         "custom_css": [
           ".pt-5 {display: none;}",
