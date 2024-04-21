@@ -1386,6 +1386,17 @@
               "customer_name": "Fabrícia Braga",
               "customer_description": ""
             }
+          },
+          "testimonial_gnmAmQ": {
+            "type": "testimonial",
+            "settings": {
+              "product": "cinturon-almohadilla-de-calor-alivia-colicos-menstruales",
+              "title": "",
+              "description": "<p>Honestamente, no esperaba mucho para ordenar porque era barato, pero fue un gran éxito.<br\/>El calor es caliente y caliente, y la vibración es ajustable en cuatro etapas... Después de unos días, perdí mi vientre. Me gustó tanto que pedí un poco más para dárselo a mis amigos.<\/p>",
+              "date": "24\/03\/2024",
+              "customer_name": "Norberto Santos",
+              "customer_description": "Villa de Leyva - Boyacá"
+            }
           }
         },
         "block_order": [
@@ -1394,7 +1405,8 @@
           "testimonial_axDp4j",
           "testimonial_3tajV9",
           "testimonial_4w4Krg",
-          "testimonial_RByEmc"
+          "testimonial_RByEmc",
+          "testimonial_gnmAmQ"
         ],
         "custom_css": [
           ".pt-5 {display: none;}",
