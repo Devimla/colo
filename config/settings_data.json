@@ -109,7 +109,7 @@
         "type": "navbar",
         "custom_css": [
           ".btn-primary {background: #1773b0 !important;}",
-          ".navbar-nav {display: inline;"
+          ".navbar-nav {display: contents; direction: inherit; text-align: left !important; margin-bottom: 0; list-style: none;}"
         ],
         "settings": {
           "menu_flut": true,
