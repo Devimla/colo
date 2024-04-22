@@ -93,7 +93,7 @@
           "container": false,
           "topbg": "#ffc221",
           "toplink": "#ffffff",
-          "topbar_dis": false,
+          "topbar_dis": true,
           "announcement_content": "Envío <b>GRATIS!<\/b> a toda <b>COLOMBIA<\/b>  🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
           "announcement_animate": true,
           "announcement_animate_name": "animate__headShake",
