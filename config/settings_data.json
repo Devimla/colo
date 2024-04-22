@@ -90,16 +90,15 @@
         "settings": {
           "topbar_display": true,
           "announcement_homepage": false,
-          "container": false,
+          "container": true,
           "topbg": "#ffc221",
           "toplink": "#ffffff",
-          "topbar_dis": false,
+          "topbar_dis": true,
           "announcement_content": "Envío <b>GRATIS!<\/b> a toda <b>COLOMBIA<\/b>  🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
-          "announcement_animate": false,
+          "announcement_animate": true,
           "announcement_animate_name": "animate__headShake",
           "anuncio_img": false,
           "img_fundo": "#fcc43a",
-          "imgmb": "shopify:\/\/shop_images\/2_de7157d7-7e4f-423c-89e9-facd2dd539bd.jpg",
           "url_i": ""
         }
       },
