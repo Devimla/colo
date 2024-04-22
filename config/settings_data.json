@@ -87,6 +87,9 @@
     "sections": {
       "topbar": {
         "type": "topbar",
+        "custom_css": [
+          ".navbar-nav {display: inline;}"
+        ],
         "settings": {
           "topbar_display": true,
           "announcement_homepage": false,
@@ -105,7 +108,8 @@
       "navbar": {
         "type": "navbar",
         "custom_css": [
-          ".btn-primary {background: #1773b0 !important;}"
+          ".btn-primary {background: #1773b0 !important;}",
+          ".navbar-nav {display: inline;"
         ],
         "settings": {
           "menu_flut": true,
