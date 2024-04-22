@@ -88,7 +88,7 @@
       "topbar": {
         "type": "topbar",
         "settings": {
-          "topbar_display": true,
+          "topbar_display": false,
           "announcement_homepage": false,
           "container": false,
           "topbg": "#ffc221",
