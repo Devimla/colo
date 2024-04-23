@@ -80,6 +80,7 @@ h3.title-mobile-infobar {
 
 .navbar-expand-xl .navbar-nav {
     font-size: 12px;
+    display: inline-flex !important;
     letter-spacing: 0.1em;
 }
 
