@@ -18538,6 +18538,7 @@ body .google-map-btn-close {
 #navbar ul.navbar-nav li.nav-item a.nav-link {
   color: var(--color-menu-link);
   transition: all 0.2s ease-out;
+  text-aling:center;
 }
 #navbar ul.navbar-nav li.nav-item .nav-link:hover {
   color: var(--color-pesbotao);
