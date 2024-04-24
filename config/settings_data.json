@@ -1251,6 +1251,7 @@
           "image_qXUcWj": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Promocion_1600_x_440_px_1_c8969648-ffab-4376-8766-9b08a33cfc6b.png",
               "button_url": ""
             }
           }
@@ -1260,7 +1261,7 @@
           "image_qXUcWj"
         ],
         "settings": {
-          "controls": false,
+          "controls": true,
           "indicators": false,
           "bg_color": "bg-secondary-gradient",
           "backdrop": false,
