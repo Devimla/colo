@@ -395,7 +395,7 @@
           "pix_first_text": "",
           "pix_second_text": "",
           "pix_third_text": "",
-          "enable_timer": false,
+          "enable_timer": true,
           "time_limit": "",
           "size_text": "18px",
           "size_timer": "18px",
