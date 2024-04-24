@@ -400,7 +400,7 @@
           "size_text": "18px",
           "size_timer": "18px",
           "size_timer_text": "14px",
-          "text_timer": "<p><strong>oferta acaba em:<\/strong><\/p>",
+          "text_timer": "<p><strong>La oferta termina en:<\/strong><\/p>",
           "show_payment_icons": true,
           "show_social_sharing": false,
           "show_tags": false,
