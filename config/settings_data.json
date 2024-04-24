@@ -1253,14 +1253,14 @@
           "image_E3YLwE"
         ],
         "settings": {
-          "controls": true,
-          "indicators": true,
+          "controls": false,
+          "indicators": false,
           "bg_color": "bg-secondary-gradient",
           "backdrop": false,
           "container": false,
           "autoplay": true,
           "interval": 8,
-          "autoplay_progress_bar": true,
+          "autoplay_progress_bar": false,
           "autoplay_progress_bar_color": "bg-white",
           "transition_effect": "",
           "transition_speed": "animate__normal",
