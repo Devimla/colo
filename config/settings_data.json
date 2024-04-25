@@ -1556,12 +1556,21 @@
           "margin_top": 0,
           "margin_bottom": 10
         }
+      },
+      "separator_rkx9zc": {
+        "type": "separator",
+        "settings": {
+          "container": true,
+          "margin_top": 9,
+          "margin_bottom": 9
+        }
       }
     },
     "content_for_index": [
       "carousel_VgM9zb",
       "1629938086ae988321",
       "featured_collection_MjjdNA",
+      "separator_rkx9zc",
       "featured_collection_neLffA",
       "testimonials_bccgCt",
       "featured_product_r9pWHj",
