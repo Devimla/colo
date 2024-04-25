@@ -1564,10 +1564,26 @@
           "margin_top": 9,
           "margin_bottom": 9
         }
+      },
+      "escassez_zHNxjh": {
+        "type": "escassez",
+        "settings": {
+          "title": "La promoción termina en",
+          "oferta": "#0070dc",
+          "subt": "<p>¡Todos los días hay productos especiales para ti! ¡Pero date prisa, es por tiempo limitado!<\/p>",
+          "ofertabg": "#fff",
+          "ofertalink": "#e92626",
+          "stopwatch-type": "black-moving",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 8,
+          "margin_bottom": 8
+        }
       }
     },
     "content_for_index": [
       "carousel_VgM9zb",
+      "escassez_zHNxjh",
       "1629938086ae988321",
       "featured_collection_MjjdNA",
       "separator_rkx9zc",
