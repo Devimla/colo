@@ -244,18 +244,12 @@ ul.color-swatches li.color-swatches-item {
   color: #FFF !important;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
 }
-#shopify-section-1610178560d1807d19 .text-center::before {
-  content: '';
-  display: inline-block;
-  width: 60px; /* Defina a largura conforme necessário */
-  height: 60px; /* Defina a altura conforme necessário */
-  background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/newllter.svg');
+#shopify-section-1610178560d1807d19 .text-center {
+  background-image: url('https://github.com/Devimla/svg-entrega/blob/58b998a6f447b20ee530b8d409e4c3d922d51297/newletter.svg');
   background-repeat: no-repeat;
-  background-size: contain; /* Ajuste o tamanho conforme necessário */
-  margin-right: 10px; /* Adicione espaço à direita do ícone */
+  background-size: 130px 130px; /* Ajuste o tamanho conforme necessário */
+  padding-left: 10px; /* Adiciona espaço para o ícone */ 
 }
-
-
 
 @media screen and (min-width: 1024px) {
   #shopify-section-1610178560d1807d19 .text-center {
