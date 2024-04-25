@@ -1570,7 +1570,7 @@
         "settings": {
           "title": "La promoción termina en",
           "oferta": "#0070dc",
-          "subt": "<p>¡Todos los días hay productos especiales para ti! ¡Pero date prisa, es por tiempo limitado!<\/p>",
+          "subt": "<p><strong>¡Todos los días hay productos especiales para ti! ¡Pero date prisa, es por tiempo limitado!<\/strong><\/p>",
           "ofertabg": "#fff",
           "ofertalink": "#e92626",
           "stopwatch-type": "black-moving",
