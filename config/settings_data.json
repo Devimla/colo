@@ -404,7 +404,7 @@
           "show_payment_icons": true,
           "show_social_sharing": false,
           "show_tags": false,
-          "add_to_cart_btn_animation": "animate__bounce",
+          "add_to_cart_btn_animation": "animate__rubberBand",
           "img_width": "750",
           "img_height": "750",
           "img_thumbnail": true,
