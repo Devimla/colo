@@ -373,7 +373,8 @@
           "product-template-0"
         ],
         "custom_css": [
-          ".stock-plenty {display: none !important;}"
+          ".stock-plenty {display: none !important;}",
+          ".form-control {width: 20%;}"
         ],
         "settings": {
           "title_font_size": 25,
