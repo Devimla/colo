@@ -374,7 +374,7 @@
         ],
         "custom_css": [
           ".stock-plenty {display: none !important;}",
-          ".form-control {width: 20%;}"
+          ".form-control {width: 20%; text-align: center;}"
         ],
         "settings": {
           "title_font_size": 25,
