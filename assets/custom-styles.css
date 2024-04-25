@@ -245,10 +245,10 @@ ul.color-swatches li.color-swatches-item {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra do texto */
 }
 #shopify-section-1610178560d1807d19 .text-center::before {
-  content: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/newllter.svg');
+  content: url('https://github.com/Devimla/svg-entrega/blob/58b998a6f447b20ee530b8d409e4c3d922d51297/newletter.svg');
   display: inline-block;
-  width: 130px; /* Defina a largura conforme necessário */
-  height: 130px; /* Defina a altura conforme necessário */
+  width: 40px; /* Defina a largura conforme necessário */
+  height: 40px; /* Defina a altura conforme necessário */
   margin-right: 10px; /* Adicione espaço à direita do ícone */
 }
 
