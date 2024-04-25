@@ -1178,7 +1178,9 @@ function copyToClipboard(text) {
                                     <!-- Quantity field -->
                                     {% if section.settings.show_qty %}
                                         <div class="product-qty {% if section.settings.show_buy_it_now_button %}has-add-to-cart-button{% endif %}">
-                                            Cantidad:
+                                            <span class="d-block opacity-80 mb-1">
+                                            Cantidad
+                                            </span>
                                             <label for="qty" class="sr-only">
                                                 {{ 'product.quantity' | t }}
                                             </label>
