@@ -247,8 +247,8 @@ ul.color-swatches li.color-swatches-item {
 #shopify-section-1610178560d1807d19 .text-center::before {
   content: '';
   display: inline-block;
-  width: 130px; /* Defina a largura conforme necessário */
-  height: 130px; /* Defina a altura conforme necessário */
+  width: 60px; /* Defina a largura conforme necessário */
+  height: 60px; /* Defina a altura conforme necessário */
   background-image: url('https://raw.githubusercontent.com/Devimla/svg-entrega/main/newllter.svg');
   background-repeat: no-repeat;
   background-size: contain; /* Ajuste o tamanho conforme necessário */
