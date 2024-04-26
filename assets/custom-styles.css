@@ -295,9 +295,6 @@ line-height: 27px;
 #shopify-section-image_with_text_bXVeiM .overlay {
   position: relative;
   width: 50%;
-  max-width: 237px;
-  margin-left: auto;
-  margin-right: auto;
   padding-left: 60px;
 }
 }
@@ -338,4 +335,11 @@ line-height: 27px;
   border-radius: 50% !important;}
   
 #shopify-section-1629938086ae988321 .mb-1 {
-  margin-bottom: 1.25rem !important;} 
+  margin-bottom: 1.25rem !important;}
+  @media only screen and (max-width: 600px) {
+    .text-muted {
+        max-width: 237px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
