@@ -338,7 +338,7 @@ line-height: 27px;
   margin-bottom: 1.25rem !important;}
   @media only screen and (max-width: 600px) {
     .text-muted {
-        max-width: 237px;
+        max-width: 260px;
         margin-left: auto;
         margin-right: auto;
     }
