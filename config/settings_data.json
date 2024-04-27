@@ -173,7 +173,7 @@
             "type": "newsletter",
             "settings": {
               "title": "¿DESEA RECIBIR NUESTRAS PROMOCIONES?",
-              "description": "<p>Consigue hasta un 10% de crédito en tu próxima compra<\/p>",
+              "description": "<p>Sea el primero en recibir notificaciones sobre nuestras ofertas.<\/p>",
               "cor_box": "form-opac",
               "btn_color": "btn-warning",
               "btn_size": "btn-sm"
