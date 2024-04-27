@@ -159,7 +159,7 @@ h3.title-mobile-infobar {
 .title-my-newsletter { font-size: 17px !important; color: var(--azulpadrao); font-weight: bold;} 
   
 .text-muted { font-size: 14px; line-height: 17px; 
-  text-transform: uppercase; letter-spacing: .1em; color: #333}
+  text-transform: uppercase; letter-spacing: .1em; color: #2e2f32}
 
 h3.product-title.h6.mb-1 a { 
   font-size: 14px;
@@ -200,7 +200,7 @@ ul.color-swatches li.color-swatches-item {
   pointer-events: none;
 }
 .jdgm-paginate__page {
-  color: #333 !important;
+  color: #2e2f32 !important;
 }
 .jdgm-sort-dropdown-wrapper {
   float: none !important;
@@ -282,7 +282,7 @@ ul.color-swatches li.color-swatches-item {
 }
 /* personaçização seção imagem e texto */
 #shopify-section-image_with_text_bXVeiM .description {
-  color: #333;
+  color: #2e2f32;
 }
 #shopify-section-image_with_text_bXVeiM .title {
   text-align: center;
