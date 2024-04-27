@@ -1,7 +1,7 @@
 {
   "current": {
     "license_key": "",
-    "color_primary": "#0070dc",
+    "color_primary": "#004f9a",
     "color_secondary": "#333333",
     "color_dark": "#272727",
     "color_light": "#ffffff",
@@ -11,7 +11,7 @@
     "color-price-economize": "#2a8703",
     "color-price-tag": "#2a8703",
     "color-price-pix": "#59419f",
-    "color_variante": "#0070dc",
+    "color_variante": "#004f9a",
     "color_variante_unselected": "#D2D2D2",
     "color_button_buy": "#2a8703",
     "color_text_button_buy": "#ffffff",
@@ -113,7 +113,7 @@
         ],
         "settings": {
           "menu_flut": true,
-          "bg": "#0070dc",
+          "bg": "#004f9a",
           "menulink": "#ffffff",
           "bglink": "#ffc221",
           "peslink": "#ffffff",
@@ -190,7 +190,7 @@
 
         ],
         "settings": {
-          "bg": "#0070dc",
+          "bg": "#004f9a",
           "cortit": "#ffffff",
           "bglink": "#ffffff",
           "container": true,
@@ -203,7 +203,7 @@
           "about_description": "",
           "about_email": "email@latienda-mix.com",
           "about_phone": "",
-          "bg2": "#0070dc",
+          "bg2": "#004f9a",
           "cortitle2": "#ffffff",
           "titlepg": "",
           "titleseg": "Seguridad y calidad",
@@ -271,7 +271,7 @@
         ],
         "settings": {
           "bg_cor": "#f7f7f7",
-          "infolink": "#0070dc",
+          "infolink": "#004f9a",
           "container": true,
           "title_size": "h6",
           "animate_class": "",
@@ -438,7 +438,7 @@
           "inventory_bar_low_no": "5",
           "inventory_bar_has_stock_color": "bg-primary",
           "delivery_time": true,
-          "entrega_estimada_color": "#0070dc",
+          "entrega_estimada_color": "#004f9a",
           "textofrete": "Envío urgente",
           "delivery_time_text": "Recibir entre:",
           "enabled-address": true,
@@ -1287,7 +1287,7 @@
         ],
         "custom_css": [
           ".product-title {color: #333333;}",
-          ".product-title:hover {color: #0070dc;}"
+          ".product-title:hover {color: #004f9a;}"
         ],
         "settings": {
           "title": "Los queridos",
