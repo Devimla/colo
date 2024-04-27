@@ -188,7 +188,7 @@
         ],
         "custom_css": [
           "#footer a:hover {color: #ffc221 !important; opacity: 70% !important;}",
-          ".form-control {border-top-left-radius: 20px !important; border-top-left-radius: 20px; border-bottom-left-radius: 20px;}"
+          ".form-control {border-top-left-radius: 20px !important; border-top-left-radius: 20px; border-bottom-left-radius: 20px !important;}"
         ],
         "settings": {
           "bg": "#0071dc",
