@@ -987,7 +987,7 @@
           "collection_X3p8bb"
         ],
         "custom_css": [
-
+          ".splide__slide {margin-right: -81px;}"
         ],
         "settings": {
           "title_t": "Nuestras colecciones",
