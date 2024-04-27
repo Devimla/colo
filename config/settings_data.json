@@ -174,9 +174,9 @@
             "settings": {
               "title": "¿DESEA RECIBIR NUESTRAS PROMOCIONES?",
               "description": "<p>Sea el primero en recibir notificaciones sobre nuestras ofertas.<\/p>",
-              "cor_box": "form-opac",
+              "cor_box": "form-branco",
               "btn_color": "btn-warning",
-              "btn_size": "btn-sm"
+              "btn_size": ""
             }
           }
         },
