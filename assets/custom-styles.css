@@ -317,13 +317,18 @@ line-height: 27px;
 }
 @media screen and (min-width: 1024px) { 
 #shopify-section-image_with_text_bXVeiM .col-md {
-  display: flex; align-items: center;
+  display: flex; 
+  align-items: center;
 }
 }
 @media screen and (min-width: 1024px) {
-#shopify-section-image_with_text_bXVeiM .col-md .description {margin-left: 20px;}}
+#shopify-section-image_with_text_bXVeiM .col-md .description {
+  margin-left: 20px;}
+}
 @media screen and (min-width: 1024px) {
-#shopify-section-image_with_text_bXVeiM .lead {font-size: 17px;}}
+#shopify-section-image_with_text_bXVeiM .lead {
+  font-size: 17px;}
+}
 
 /* personaçização "nuestras coleções */
 #shopify-section-1629938086ae988321 .mb-2 .my-2 {
@@ -345,6 +350,7 @@ line-height: 27px;
     .text-muted {
         max-width: 260px;
         margin-left: auto;
+        font-size: 12px;
         margin-right: auto;
     }
 }
