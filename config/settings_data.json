@@ -438,7 +438,7 @@
           "inventory_bar_low_no": "5",
           "inventory_bar_has_stock_color": "bg-primary",
           "delivery_time": true,
-          "entrega_estimada_color": "#333333",
+          "entrega_estimada_color": "#0070dc",
           "textofrete": "Envío urgente",
           "delivery_time_text": "Recibir entre:",
           "enabled-address": true,
