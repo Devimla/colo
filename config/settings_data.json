@@ -1425,6 +1425,7 @@
           "testimonial_4w4Krg",
           "testimonial_RByEmc"
         ],
+        "disabled": true,
         "custom_css": [
           ".pt-5 {display: none;}",
           ".mt-2 {display: none;}",
@@ -1564,27 +1565,11 @@
           "margin_top": 9,
           "margin_bottom": 9
         }
-      },
-      "escassez_zHNxjh": {
-        "type": "escassez",
-        "settings": {
-          "title": "La promoción termina en",
-          "oferta": "#0070dc",
-          "subt": "",
-          "ofertabg": "#fff",
-          "ofertalink": "#e92626",
-          "stopwatch-type": "black-moving",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 8,
-          "margin_bottom": 8
-        }
       }
     },
     "content_for_index": [
       "carousel_VgM9zb",
       "1629938086ae988321",
-      "escassez_zHNxjh",
       "featured_collection_MjjdNA",
       "separator_rkx9zc",
       "featured_collection_neLffA",
