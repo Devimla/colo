@@ -18084,7 +18084,7 @@ body #cookie-bar > * {
   text-decoration: none;
 }
 #footer ul.link-list li a:hover {
-  color: #FFC221;
+  color: #FFC221 !important;
 }
 #footer ul.link-list li a:hover, #footer ul.link-list li a:focus {
   padding-left: 0.4rem;
