@@ -1009,7 +1009,7 @@
           "img_width": "150",
           "img_height": "150",
           "img_thumbnail": false,
-          "breakpoint_xm": 3,
+          "breakpoint_xm": 2,
           "breakpoint_sm": 4,
           "breakpoint_md": 3,
           "breakpoint_lg": 5,
