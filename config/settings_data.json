@@ -2,11 +2,11 @@
   "current": {
     "license_key": "",
     "color_primary": "#0071dc",
-    "color_secondary": "#333333",
+    "color_secondary": "#2e2f32",
     "color_dark": "#272727",
     "color_light": "#ffffff",
     "color_body_bg": "#ffffff",
-    "color_body_text": "#333333",
+    "color_body_text": "#2e2f32",
     "color_price": "#2a8703",
     "color-price-economize": "#2a8703",
     "color-price-tag": "#2a8703",
@@ -337,7 +337,7 @@
       "collection-template": {
         "type": "collection-template",
         "custom_css": [
-          ".product-title {color: #333333;}"
+          ".product-title {color: #2e2f32;}"
         ],
         "settings": {
           "container": true,
@@ -430,7 +430,7 @@
           "color_kit_badge_mostsell": "#ff6500",
           "color_kit_badge_discount": "#c11b1b",
           "color_kit_badge_moreeconomy": "#2a8703",
-          "color_kit_badge_soldout": "#333333",
+          "color_kit_badge_soldout": "#2e2f32",
           "swatch_quadrado": false,
           "size_swatch": "50px",
           "variant_swatch_color_name": "Escolha a cor",
@@ -448,8 +448,8 @@
           "enable_troca": true,
           "troca_text_one": "Devolución gratuita: 7 días para probar el producto",
           "troca_text_two": "",
-          "troca_cor_one": "#333333",
-          "troca_cor": "#333333",
+          "troca_cor_one": "#2e2f32",
+          "troca_cor": "#2e2f32",
           "size_text_frete": "14px",
           "delivery_time_min_days": 3,
           "delivery_time_max_days": 7,
@@ -996,7 +996,7 @@
           "container": false,
           "title_alignment": "text-center",
           "title": true,
-          "cortitlec": "#333333",
+          "cortitlec": "#2e2f32",
           "corhover": "#1773b0",
           "cor_bg": "#ffffff",
           "carousel_arrows": false,
@@ -1196,7 +1196,7 @@
           "color_kit_badge_mostsell": "#ff6500",
           "color_kit_badge_discount": "#c11b1b",
           "color_kit_badge_moreeconomy": "#ffc107",
-          "color_kit_badge_soldout": "#333333",
+          "color_kit_badge_soldout": "#2e2f32",
           "swatch_quadrado": false,
           "size_swatch": "55px",
           "variant_swatch_color_name": "Escolha a cor",
@@ -1286,7 +1286,7 @@
           "collection_hcdUME"
         ],
         "custom_css": [
-          ".product-title {color: #333333;}",
+          ".product-title {color: #2e2f32;}",
           ".product-title:hover {color: #004f9a;}"
         ],
         "settings": {
@@ -1496,7 +1496,7 @@
           "collection_b3cU8C"
         ],
         "custom_css": [
-          ".product-title {color: #333333;}"
+          ".product-title {color: #2e2f32;}"
         ],
         "settings": {
           "title": "Salud y Belleza",
