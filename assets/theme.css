@@ -18083,9 +18083,7 @@ body #cookie-bar > * {
   transition: all 0.2s ease-out;
   text-decoration: none;
 }
-#footer ul.link-list li a:hover {
-  color: #FFC221 !important;
-}
+
 #footer ul.link-list li a:hover, #footer ul.link-list li a:focus {
   padding-left: 0.4rem;
   padding-right: 0.4rem;
@@ -19722,7 +19720,7 @@ a:hover .wishlist-btn, .wishlist-btn.is-wishlisted, .touch .wishlist-btn, .produ
 }
 
 #footer a:hover {
-  color: var(--color-bglink) !important;
+  color: #FFC221 !important;
   opacity: 70% !important;
 }
 
