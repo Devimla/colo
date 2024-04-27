@@ -597,7 +597,7 @@
         "type": "sticky-newsletter",
         "settings": {
           "enable_section": true,
-          "show_only_homepage": true,
+          "show_only_homepage": false,
           "position": "bottom-center",
           "title": "OBTENGA AHORA UN 10% DE DESCUENTO",
           "description": "<p>Introduce el cupón del 10% de DESCUENTO en tu primera compra al suscribirte a nuestros boletines.<\/p>",
