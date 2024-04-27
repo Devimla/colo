@@ -1,7 +1,7 @@
 {
   "current": {
     "license_key": "",
-    "color_primary": "#004f9a",
+    "color_primary": "#0071dc",
     "color_secondary": "#333333",
     "color_dark": "#272727",
     "color_light": "#ffffff",
@@ -11,7 +11,7 @@
     "color-price-economize": "#2a8703",
     "color-price-tag": "#2a8703",
     "color-price-pix": "#59419f",
-    "color_variante": "#004f9a",
+    "color_variante": "#0071dc",
     "color_variante_unselected": "#D2D2D2",
     "color_button_buy": "#2a8703",
     "color_text_button_buy": "#ffffff",
@@ -136,8 +136,8 @@
           "color-bar-bottom-three": "#fff159",
           "show_icon_cart": false,
           "cart_icon_icon": "bag",
-          "cart_icon_badge_color_empty": "#1773b0",
-          "cart_icon_badge_color_has_items": "#1773b0",
+          "cart_icon_badge_color_empty": "#0071dc",
+          "cart_icon_badge_color_has_items": "#0071dc",
           "cart_icon_animate_class": "animate__bounce"
         }
       },
