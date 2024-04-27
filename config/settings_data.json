@@ -113,10 +113,10 @@
         ],
         "settings": {
           "menu_flut": true,
-          "bg": "#0071dc",
-          "menulink": "#ffffff",
+          "bg": "#ffffff",
+          "menulink": "#0071dc",
           "bglink": "#ffc221",
-          "peslink": "#ffffff",
+          "peslink": "#0071dc",
           "shadow": "shadow-sm",
           "cor_box": "form-transparent",
           "container": true,
