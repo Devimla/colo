@@ -187,7 +187,8 @@
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
         "custom_css": [
-          "#footer a:hover {color: #ffc221 !important; opacity: 70% !important;}"
+          "#footer a:hover {color: #ffc221 !important; opacity: 70% !important;}",
+          ".form-control {border-top-left-radius: 20px !important; border-top-left-radius: 20px; border-bottom-left-radius: 20px;}"
         ],
         "settings": {
           "bg": "#0071dc",
