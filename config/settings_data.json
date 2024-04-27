@@ -382,6 +382,7 @@
           "show_valor_parcelado": false,
           "show_vendor": false,
           "frete": true,
+          "gif_frete": "shopify:\/\/shop_images\/2_de7157d7-7e4f-423c-89e9-facd2dd539bd.jpg",
           "show_type": true,
           "show_sku": false,
           "show_qty": true,
