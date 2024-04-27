@@ -1454,6 +1454,7 @@
       },
       "featured_product_r9pWHj": {
         "type": "featured-product",
+        "disabled": true,
         "custom_css": [
           ".align-items-center {background: #f7f7f7; border-radius: 5px; margin: 0.2px;}"
         ],
