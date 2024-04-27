@@ -94,8 +94,8 @@
           "topbar_display": true,
           "announcement_homepage": false,
           "container": false,
-          "topbg": "#ffc221",
-          "toplink": "#ffffff",
+          "topbg": "#0071dc",
+          "toplink": "#fbc02d",
           "topbar_dis": true,
           "announcement_content": "Envío <b>GRATIS!<\/b> a toda <b>COLOMBIA<\/b>  🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
           "announcement_animate": true,
@@ -187,7 +187,7 @@
           "fc75088f-639f-44a2-bb97-fbbd94157751"
         ],
         "custom_css": [
-          "#footer a:hover {color: #FFC221 !important; opacity: 70% !important;}"
+          "#footer a:hover {color: #ffc221 !important; opacity: 70% !important;}"
         ],
         "settings": {
           "bg": "#0071dc",
