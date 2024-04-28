@@ -94,7 +94,7 @@
           "topbar_display": true,
           "announcement_homepage": false,
           "container": false,
-          "topbg": "#0071dc",
+          "topbg": "#dc7000",
           "toplink": "#ffffff",
           "topbar_dis": true,
           "announcement_content": "Envío <b>GRATIS!<\/b> a toda <b>COLOMBIA<\/b>  🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
@@ -191,7 +191,7 @@
           ".form-control {border-top-left-radius: 20px !important; border-top-left-radius: 20px; border-bottom-left-radius: 20px !important;}"
         ],
         "settings": {
-          "bg": "#0071dc",
+          "bg": "#005ca9",
           "cortit": "#ffffff",
           "bglink": "#ffffff",
           "container": true,
@@ -204,7 +204,7 @@
           "about_description": "",
           "about_email": "email@latienda-mix.com",
           "about_phone": "",
-          "bg2": "#0071dc",
+          "bg2": "#005ca9",
           "cortitle2": "#ffffff",
           "titlepg": "",
           "titleseg": "Seguridad y calidad",
