@@ -2,7 +2,7 @@
   "current": {
     "license_key": "",
     "color_primary": "#0071dc",
-    "color_secondary": "#005ca9",
+    "color_secondary": "#2e2f32",
     "color_dark": "#272727",
     "color_light": "#ffffff",
     "color_body_bg": "#ffffff",
@@ -94,7 +94,7 @@
           "topbar_display": true,
           "announcement_homepage": false,
           "container": false,
-          "topbg": "#dc7000",
+          "topbg": "#005ca9",
           "toplink": "#ffffff",
           "topbar_dis": true,
           "announcement_content": "Envío <b>GRATIS!<\/b> a toda <b>COLOMBIA<\/b>  🚚 - <b>PAGA AL RECIBIR<\/b> 📦",
@@ -113,7 +113,7 @@
         ],
         "settings": {
           "menu_flut": true,
-          "bg": "#005ca9",
+          "bg": "#0071dc",
           "menulink": "#ffffff",
           "bglink": "#ffc221",
           "peslink": "#ffffff",
@@ -191,7 +191,7 @@
           ".form-control {border-top-left-radius: 20px !important; border-top-left-radius: 20px; border-bottom-left-radius: 20px !important;}"
         ],
         "settings": {
-          "bg": "#005ca9",
+          "bg": "#0071dc",
           "cortit": "#ffffff",
           "bglink": "#ffffff",
           "container": true,
@@ -204,7 +204,7 @@
           "about_description": "",
           "about_email": "email@latienda-mix.com",
           "about_phone": "",
-          "bg2": "#005ca9",
+          "bg2": "#0071dc",
           "cortitle2": "#ffffff",
           "titlepg": "",
           "titleseg": "Seguridad y calidad",
