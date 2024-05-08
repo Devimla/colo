@@ -1256,7 +1256,7 @@
           "image_E3YLwE"
         ],
         "settings": {
-          "controls": true,
+          "controls": false,
           "indicators": false,
           "bg_color": "bg-secondary-gradient",
           "backdrop": false,
