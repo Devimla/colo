@@ -1255,6 +1255,9 @@
         "block_order": [
           "image_E3YLwE"
         ],
+        "custom_css": [
+          ".carousel-inner {border: 10px solid red;}"
+        ],
         "settings": {
           "controls": false,
           "indicators": false,
